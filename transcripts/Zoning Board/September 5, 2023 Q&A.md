@@ -6,11 +6,10 @@
 The Zoning Board of Appeals meeting, chaired by Pat Hanlon, was primarily focused on the 40B application of Housing Corporation of Arlington at 10 Sunnyside. The board discussed various aspects of the application, including the procedural history, the facts, waivers, and conditions. The board also discussed the issue of parking requirements and the possibility of a parking reduction. The board agreed to continue the deliberation session to the following Tuesday. The meeting was conducted remotely in accordance with the Supplemental Appropriations Act.
 </details>
 
-<summary>
-List the Statements of Facts that the Zoning Board determined and a summary of each.
-</summary>
-
 <details>
+
+<summary>List the Statements of Facts that the Zoning Board determined and a summary of each.</summary>
+
 1. The board confirmed the presence of all members and officials, including Christian Klein, Roger DuPont, Daniel Ricardelli, Venkat Holy, Elaine Hoffman, Adam LeBlanc, and Colleen Ralston. Outside counsel Paul Havarty was also present.
 2. The meeting was conducted remotely in accordance with the Supplemental Appropriations Act signed into law on March 29th, 2023.
 3. The only matter on the agenda was the 40B application of Housing Corporation of Arlington at 10 Sunnyside.
@@ -27,11 +26,9 @@ List the Statements of Facts that the Zoning Board determined and a summary of e
 14. The board discussed the parking waiver requested by the applicant, noting that the applicant had requested a reduction to 21 spaces from the original 70. The board discussed various options for addressing this request.
 </details>
 
-<summary>
-List the Waivers Requested with a summary of each and indicate whether the board granted the waiver.
-</summary>
-
 <details>
+
+<summary>List the Waivers Requested with a summary of each and indicate whether the board granted the waiver.</summary>
 
 The board reviewed the following waivers requested by the applicant:
 
@@ -52,36 +49,31 @@ The board reviewed the following waivers requested by the applicant:
 8. Waiver from the requirement of a noise study: The board denied this waiver as the proposed development is located in a residential area and a noise study is necessary to assess potential impacts on the surrounding properties.
 </details>
 
-<summary>
-Summarize the discussion around the bicycle parking
-</summary>
-
 <details>
+
+<summary>Summarize the discussion around the bicycle parking</summary>
 
 The board discussed the applicant's request for a waiver to reduce the required number of bicycle parking spaces from 72 to 43. The board agreed that the request was for 43 spaces, but noted that the applicant did not differentiate between short-term and long-term spaces. Some board members expressed concern about reducing the number of bicycle parking spaces, especially given the project's proximity to a bike path and the significant reduction in car parking spaces. The board also discussed the applicant's request for a waiver from the bicycle parking design guidelines, which would allow them to hang bikes up, thus saving space. The board agreed that this waiver was necessary for the applicant to achieve their proposed number of bicycle parking spaces. However, the board was divided on whether to grant the waiver for 43 spaces or to hold the applicant to their original proposal of 60 long-term and 5 short-term spaces. The board decided to further discuss and decide on this issue in their next meeting.
 </details>
 
-<summary>
-Please, summarize the discussion around vehicle parking
-</summary>
-
 <details>
+
+<summary>Please, summarize the discussion around vehicle parking</summary>
+
 The board discussed the applicant's request to reduce the drive aisle width to 21 feet, down from the originally proposed 23 feet. Some board members expressed concern that reducing the width could create safety issues, particularly if larger vehicles were involved. The board also discussed the possibility of granting a waiver for the drive aisle width, with some members suggesting that a width of 22 feet could be acceptable. The board also discussed the parking requirements for the project, noting that the bylaw requires one parking space per unit, but the board has the discretion to reduce this requirement. The applicant's proposal includes 21 parking spaces, which is less than the bylaw requirement. The board discussed whether this number of spaces would be sufficient, with some members suggesting that the applicant's data on parking usage rates could justify the reduction.
 </details>
 
-<summary>
-Ignore the Zoning Board meeting.  How long should the aisle be for 90 degree head in parking?
-</summary>
-
 <details>
+
+<summary>Ignore the Zoning Board meeting.  How long should the aisle be for 90 degree head in parking?</summary>
+
 The aisle for 90 degree head in parking should be at least 22 feet wide. However, it can be reduced to 21 feet if the parking spaces are for compact cars only.
 </details>
 
-<summary>
-You are an town planning expert with transportation experience.  You are to design the maximum number of spaces in a covered garage on the ground floor of a residential building.  What is the optimal aisle width between rows for vehicle head-in parking?  Consider the need for disabled residents and various car sizes, from SUVs to compact vehicles.
-</summary>
-
 <details>
+
+<summary>You are an town planning expert with transportation experience.  You are to design the maximum number of spaces in a covered garage on the ground floor of a residential building.  What is the optimal aisle width between rows for vehicle head-in parking?  Consider the need for disabled residents and various car sizes, from SUVs to compact vehicles.</summary>
+
 
 When designing a parking garage with considerations for disabled residents and various car sizes, the following factors need to be taken into account: 
 
@@ -107,19 +99,21 @@ If we take into account the need to accommodate disabled residents and ensure th
  * For stalls, consider a mixture of standard (8.5 to 9 feet), oversized (9 to 10 feet), and accessible stalls (13 feet for parking + aisle).
 </details>
 
+<details>
+
 <summary>
 Was the amount of lost fees waived discussed?
 </summary>
 
-<details>
 Yes, the amount of lost fees waived was discussed. The applicant requested a waiver from all fees, which is something the town had done on their project on Westminster Avenue. The town manager and department heads agreed to this request. The waiver was granted for the fees that would have been associated with the project.
 </details>
+
+<details>
 
 <summary>
 What was the decision about noise abatement during construction?
 </summary>
 
-<details>
 The decision about noise abatement during construction was to grant a waiver allowing work to begin at 7:00 AM on weekdays and 8:00 AM on Saturdays. However, there will be no work on Sundays and holidays. This decision was agreed upon by the applicant.
 </details>
 
