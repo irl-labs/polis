@@ -1,0 +1,28 @@
+version: "3"
+services:
+  polis:
+    image: irllabs/polis
+    container_name: polis
+    env_file:
+      - ./app/.env
+    command: python3 polis.py
+    depends_on:
+      - postgres
+    ports:
+      - 8000:5000
+    volumes:
+      - ./app:/opt/polis-app
+  postgres:
+    image: postgis/postgis
+    container_name: postgres
+    environment:
+      - discovery.type=single-node
+      - POSTGRES_PASSWORD=somepassword
+    ports:
+      - 5436:5432
+    volumes:
+      - ./db/init_db.sql:/docker-entrypoint-initdb.d/init_db.sql
+      - postgres-data:/var/lib/postgres/data
+volumes:
+    postgres-data:
+      

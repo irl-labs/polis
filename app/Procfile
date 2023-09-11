@@ -1,0 +1,1 @@
+web: gunicorn polis:server --workers 1 --bind :5000

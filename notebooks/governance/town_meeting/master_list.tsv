@@ -1,0 +1,751 @@
+precinct	name	address	term	phone	email	year	resident_id	gender	pid
+1	Chaplin, Monique	35 Michael Street	2020	617-794-9243	chaplinprecinct1@yahoo.com	2019		F	033.0-0002-0017.A
+1	Charles Keith Hartshorne	11 Marrigan Street	2025		charleskhartshorne@gmail.com	2022	12HCS1159000	M	033.0-0004-0012.0
+1	Charles Keith Hartshorne	11 Marrigan Street	2025		charleskhartshorne@gmail.com	2023	12HCS1159000	M	033.0-0004-0012.0
+1	Cleinman, Stuart P.	113 Sunnyside Avenue	2019	781-646-2654	scleinman@comcast.net	2019		M	034.0-0003-0028.0
+1	Dennis, Gregory D	19 Wheaton Road	2021	617-863-0746	gdennis@alum.mit.edu	2019	01DGY0880000	M	039.0-0006-0002.0
+1	Emily Hui Zhu	107 Sunnyside Avenue	2025		zhuemily@gmail.com	2022	09ZEY2996000	F	034.0-0003-0025.0
+1	Gregory D. Dennis	19 Wheaton Road	2024	617-863-0746	gdennis@alum.mit.edu	2022	01DGY0880000	M	039.0-0006-0002.0
+1	Gregory D. Dennis	19 Wheaton Road	2024	617-863-0746	gdennis@alum.mit.edu	2023	01DGY0880000	M	039.0-0006-0002.0
+1	Hartshorne, Charles K.	11 Marrigan Street	2020	781-859-8535	charleskhartshorne@gmail.com	2019	12HCS1159000	M	033.0-0004-0012.0
+1	Jeffrey Kegan Sullivan	58 Silk Street	2026		jeffreyksullivan@gmail.com	2023	05SJY0983000	M	034.0-0004-0015.A
+1	Joanna Asia Kepka	17 Silk Street	2023		asiakepka@gmail.com	2022	10KJA1467000	F	033.0-0002-0008.0
+1	Joanna Asia Kepka	17 Silk Street	2025		asiakepka@gmail.com	2023	10KJA1467000	F	033.0-0002-0008.0
+1	Jordan Remy	186 Gardner Street B-6	2026		jtremy90@gmail.com	2023	09RJN0790002	M	036.0-0001-0015.B
+1	Juliet M. Moir	14 Wellesley Road	2019	781-648-4569	juliet.moir@gmail.com	2019		F	039.0-0001-0007.0
+1	Kevin M. Mills	28 Mystic Valley Parkway	2024	978-697-0082	kevmills1@yahoo.com	2022	12MKN0552000	M	037.0-0002-0021.0
+1	King, Marian E.	122 Decatur Street, Apt. 4	2020	781-643-2677	melikingreen@yahoo.com	2019	07KMN2255000	F	037.A-0004-0004.0
+1	Leah D. Broder	44 Michael Street	2023	323-829-7227	leahbroder@gmail.com	2022	01BLH2574000	F	033.0-0004-0007.0
+1	Marian E. King	122 Decatur Street, Apt. 4	2023		melikingreen@yahoo.com	2022	07KMN2255000	F	037.A-0004-0004.0
+1	Marian E. King	122 Decatur Street, Apt. 4	2026		melikingreen@yahoo.com	2023	07KMN2255000	F	037.A-0004-0004.0
+1	McGaffigan, Elizabeth	34 Silk Street	2021	781-648-7036	lizmack3234@gmail.com	2019		F	033.A-0001-0034.0
+1	McGaffigan, Paul J.	34 Silk Street	2020	781-648-7036	paulmack34@hotmail.com	2019		M	033.A-0001-0034.0
+1	Mills, Kevin M.	28 Mystic Valley Pkwy.	2021	978-697-0082	kevmills1@yahoo.com	2019	12MKN0552000	M	037.0-0002-0021.0
+1	Omar Ortiz	22 Silk Street	2019	781-643-0502	omar.ortez@gmail.com	2019		M	033.A-0001-0022.0
+1	P. Townsend Marshall	14 Yale Road	2019		Paul.marshall@gmail.com	2019	03MPL2971000	M	039.0-0004-0007.0
+1	Paul Townsend Marshall	14 Yale Road	2025		paul.marshall@gmail.com	2022	03MPL2971000	M	039.0-0004-0007.0
+1	Paul Townsend Marshall	14 Yale Road	2025		paul.marshall@gmail.com	2023	03MPL2971000	M	039.0-0004-0007.0
+1	Peter Young	10 Wellesley Road	2024	617-905-2734	petery02139@yahoo.com	2022	02YPR2178000	M	039.0-0001-0006.0
+1	Peter Young	10 Wellesley Road	2024	617-905-2734	petery02139@yahoo.com	2023	02YPR2178000	M	039.0-0001-0006.0
+1	Rebecca Davis-Carden	25 Wheaton Road	2025	734-649-7868	rebecca.p.davis@gmail.com	2022	05DRA2081003	F	039.0-0006-0001.0
+1	Rebecca Davis-Carden	25 Wheaton Road	2025	734-649-7868	rebecca.p.davis@gmail.com	2023	05DRA2081003	F	039.0-0006-0001.0
+1	Rebecca Persson	15 Fremont Street	2023		becca.persson@gmail.com	2022	01SRA1779000	F	035.0-0003-0010.A
+1	Rebecca Persson	15 Fremont Street	2024		becca.persson@gmail.com	2023	01SRA1779000	F	035.0-0003-0010.A
+1	Revilak, Stephen A.	111 Sunnyside Avenue	2021	781-648-1083	steve@srevilak.net	2019	02RSN2270003	M	034.0-0003-0027.0
+1	Stephen A. Revilak	111 Sunnyside Avenue	2024	781-648-1083	steve@srevilak.net	2022	02RSN2270003	M	034.0-0003-0027.0
+1	Stephen A. Revilak	111 Sunnyside Avenue	2024	781-648-1083	steve@srevilak.net	2023	02RSN2270003	M	034.0-0003-0027.0
+1	Vincent Christopher Baudoi	56 Silk Street	2026	781-819-4439	vince.arlington@gmail.com	2023	01BVT1186000	M	034.0-0004-0016.0
+2	Aimee I. Lim-Miller	75 Bay State Road	2023		aimeeingrid@gmail.com	2022	11LAE1971000	F	018.0-0008-0003.0
+2	Aimee I. Lim-Miller	75 Bay State Road	2026		aimeeingrid@gmail.com	2023	11LAE1971000	F	018.0-0008-0003.0
+2	Alexander B. Bilsky	65 Colonial Drive	2019		alex.bilsky@gmail.com	2019		M	
+2	Anne Clarke-Lauer	5 Roanoke Road	2025		ajoclarke@gmail.com	2022	05CAE2986000	F	018.0-0007-0001.0
+2	Anne Clarke-Lauer	5 Roanoke Road	2025		ajoclarke@gmail.com	2023	05CAE2986000	F	018.0-0007-0001.0
+2	Bill Hayner	19 Putnam Road	2023		bill_hayner@comcast.net	2022	10HWM2245000	M	012.0-0005-0004.0
+2	Brendan M. Sullivan	319 Lake Street	2025		brendansullivan33@gmail.com	2022	05SBN2779001	M	022.0-0002-0005.A
+2	Brendan M. Sullivan	319 Lake Street	2025		brendansullivan33@gmail.com	2023	05SBN2779001	M	022.0-0002-0005.A
+2	Brendan S. Sullivan	319 Lake Street	2019		brendansullivan33@gmail.com 	2019	05SBN2779001	M	022.0-0002-0005.A
+2	DeCourcey, Stephen W.	7 Cheswick Road	2021	781-643-7291	sdecourcey@verizon.net	2019	09DSN0264001	M	018.0-0004-0020.0
+2	Fiore, Elsie C.	58 Mott Street	2021	781-648-0077	fiorelse@hotmail.com	2019		F	017.0-0005-0005.0
+2	Fiore, Peter J.	58 Mott Street	2020	781-648-0077		2019	03FPR1858000	M	017.0-0005-0005.0
+2	Hayner, Bill	19 Putnam Road	2020	781-643-7948	edlawbh@comcast.net	2019	10HWM2245000	M	012.0-0005-0004.0
+2	Hayner, Bonnie M.	19 Putnam Road	2020	781-492-0196	bonnie_hayner@comcast.net	2019		F	012.0-0005-0004.0
+2	Jennifer Amy Roderick	6 Pioneer Road	2026	617-320-9665	jennifer-roderick@hotmail.com	2023	06RJR2168006	F	019.0-0002-0007.0
+2	Logan, William	5 Mary Street	2020	781-646-4414	wlogan@rcn.com	2019	04LWM0975001	M	
+2	Mark W. McCabe	4 Dorothy Road	2024		mmccabetmm2@gmail.com	2022	07MMK1855000	M	013.0-0005-0010.0
+2	Mark W. McCabe	4 Dorothy Road	2024		mmccabetmm2@gmail.com	2023	07MMK1855000	M	013.0-0005-0010.0
+2	Maxwell B.  Palmer	1 Roanoke Road	2024	617-755-4610	maxwellpalmer@gmail.com	2023	03PML1886000	M	018.0-0007-0016.0
+2	Maxwell B. Palmer	1 Roanoke Road	2024	617-755-4610	maxwellpalmer@gmail.com	2022	03PML1886000	M	018.0-0007-0016.0
+2	McCabe, Mark W.	4 Dorothy Road	2021	617-571-4294	arkman659@gmail.com	2019	07MMK1855000	M	013.0-0005-0010.0
+2	Peter J. Fiore	58 Mott Street	2025	617-648-0077		2022	03FPR1858000	M	017.0-0005-0005.0
+2	Peter J. Fiore	58 Mott Street	2025	781-648-0077		2023	03FPR1858000	M	017.0-0005-0005.0
+2	Peter M. Gast	36 Margaret Street	2023	781-646-4279	petegast4arlington@gmail.com	2022	07GPR1271000	M	013.A-0001-0038.2
+2	Peter M. Gast	36 Margaret Street	2026	781-646-4279	petegast4arlington@gmail.com	2023	07GPR1271000	M	013.A-0001-0038.2
+2	Robert V. Rossi	27 Colonial Drive	2024	617-290-2732	rvrossi@gmail.com	2022	09RRT2973000	M	018.0-0005-0006.0
+2	Robert V. Rossi	27 Colonial Drive	2024	617-290-2732	rvrossi@gmail.com	2023	09RRT2973000	M	018.0-0005-0006.0
+2	Samit Chhabra	26 Spy Pond Parkway	2019		samit.chhabra@gmail.com	2019	07CST1977001	M	
+2	Samit Chhabra	26 Spy Pond Parkway	2025	617-416-3882	samit.chhabra@gmail.com	2022	07CST1977001	M	021.0-0002-0004.0
+2	Samit Chhabra	26 Spy Pond Parkway	2025	617-416-3882	samit.chhabra@gmail.com	2023	07CST1977001	M	021.0-0002-0004.0
+2	Stephen R. Cella	99 Spy Pond Parkway	2021	781-641-4764	srcell@aol.com	2019		M	
+2	Stephen W. DeCourcey	7 Cheswick Road	2024	781-641-7291	sdecourcey@verizon.net	2022	09DSN0264001	M	018.0-0004-0020.0
+2	Stephen W. DeCourcey	7 Cheswick Road	2024	781-643-7291	swdecourcey@gmail.com	2023	09DSN0264001	M	018.0-0004-0020.0
+2	Virginia S. Reeder	79 Spy Pond Parkway	2019		ginna.reeder@gmail.com	2019		F	
+2	William J. Logan	5 Mary Street	2026	781-641-4414	wlogan@rcn.com	2023	04LWM0975001	M	013.0-0002-0002.0
+2	William Logan	5 Mary Street	2023	781-641-4414	wlogan@rcn.com	2022	04LWM0975001	M	013.0-0002-0002.0
+3	Adam Auster	10 Cottage Avenue	2024	781-641-6758	adam.auster.arlington@gmail.com	2022	06AAM0955000	M	023.0-0004-0004.0
+3	Adam J. B.  Lane	77 Grafton Street	2024	617-899-5154	mail@ajblane.com	2023	04LAM0971000	M	027.A-0002-0077.2
+3	Amos W. Meeks	25 Lee Terrace	2024	339-707-0130	amoswmeeks@gmail.com	2022	08MAS0192002	M	023.0-0001-0020.0
+3	Amos W. Meeks	25 Lee Terrace	2024	339-707-0130	amoswmeeks@gmail.com	2023	08MAS0192002	M	023.0-0001-0020.0
+3	Auster, Adam	10 Cottage Avenue	2021	781-648-6756	adam.auster.arlington@gmail.com	2019	06AAM0955000	M	
+3	Christopher H. Wilbur	24 Windsor Street#2	2023	781-641-8531	christopher.wilbur@gmail.com	2022	07WCR3048000	M	025.A-0001-0002.0
+3	Courtney Urick	11 Teel Street	2023	617-755-1309	urickcourtney@gmail.com	2022	12UCY1366000	F	023.0-0003-0017.0
+3	Courtney Urick	11 Teel Street	2026		urickcourtney@gmail.com	2023	12UCY1366000	F	023.0-0003-0017.0
+3	Dratch, Robin M.	70 Teel Street	2021	781-643-6282	r.dratch@yahoo.com	2019		F	
+3	Eben Kimball Miller	58 Waldo Road	2026	617-686-5171		2023	09MEN2983001	M	024.0-0002-0003.0
+3	Griffin, Jean M.	42 Oxford Street	2020	781-643-2503		2019		F	
+3	Hoppe, John K.	63 Teel Street	2021	781-646-2413	jkhoppe@gmail.com	2019		M	
+3	Jennifer R. Susse	45 Teel Street	2025	781-643-2564	jennifer.susse@gmail.com	2022	07SJR1568001	F	023.0-0002-0005.0
+3	Jennifer R. Susse	45 Teel Street	2025	781-643-2564	jennifer.susse@gmail.com	2023	07SJR1568001	F	023.0-0002-0005.0
+3	Jennifer Rae Litowski	76 Oxford Street	2025		jennifer.litowski@gmail.com	2023	01LJR1273001	F	027.A-0002-0010.0
+3	Jennifer Rai Litowski	76 Oxford Street	2025		jennifer.litowski@gmail.com	2022	01LJR1273001	F	027.A-0002-0010.0
+3	John R. Ellis	59 Teel Street	2023		ellisjohnr@yahoo.com	2022	07EJN1772000	M	024.0-0004-0007.0
+3	Lenard T. Diggins	8 Windsor Street,#1	2024	617-863-6433	ldiggins@gmail.com	2022	05DLD2563001	M	025.0-0005-0014.0
+3	Lenard T. Diggins	8 Windsor Street, #1	2024	617-863-6433	ldiggins@gmail.com	2023	05DLD2563001	M	025.0-0005-0014.0
+3	Nandana M. Mewada	53 Winter Street	2024		nmewada@gmail.com	2022	06MNA1772003	F?	027.0-0004-0023.D
+3	Nandana M. Mewada	53 Winter Street	2024		nmewada@gmail.com	2023	06MNA1772003	F?	027.0-0004-0023.D
+3	Robert P. Marlin	11 Cross Street	2025		rpmarlintmm3@gmail.com	2022	03MRT1369002	M	024.0-0003-0002.0
+3	Robert P. Marlin	11 Cross Street	2025		rpmarlintmm3@gmail.com	2023	03MRT1369002	M	024.0-0003-0002.0
+3	Scott Mullen	68 Henderson Street	2026	781-999-1943	mully@scottmullen.com	2023	04MST1973000	M	024.0-0004-0003.0
+3	Stacie N. Smith	9 Henderson Street	2019		stacie@cbuilding.org	2019	12SSE1571003	F	
+3	Stacie Nicole Smith	9 Henderson Street	2025		stacie@cbi.org	2022	12SSE1571003	F	023.A-0005-0009.0
+3	Stacie Nicole Smith	9 Henderson Street	2025		stacie@cbi.org	2023	12SSE1571003	F	023.A-0005-0009.0
+3	Stamps, Susan D.	39 Grafton Street	2020	978-807-7933	sdellas@aol.com	2019	10SSN0149002	F	
+3	Summers, Richard S.	79 Marathon Street	2020	617-461-9011	nicesummers@gmail.com	2019		M	
+3	Susan D. Stamps	39 Grafton Street	2023	978-807-7933	susan.stamps@comcast.net	2022	10SSN0149002	F	028.A-0002-0039.0
+3	Susan Della Stamps	39 Grafton Street	2026	978-807-7933	susan.stamps@comcast.net	2023	10SSN0149002	F	028.A-0002-0039.0
+3	Susse, Jennifer R.	45 Teel Street	2019	781-643-2564	jennifer.susse@gmail.com	2019	07SJR1568001	F	
+3	Thompson, Anne K.	14 Cottage Avenue	2021	781-648-0502	anniek@mit.edu	2019		F	
+3	Tosti, Allan	38 Teel Street	2020	781-646-4599	abtosti@rcn.com	2019	05TAN1546000	M	
+3	Vanderberg, Laura E.	20 Waldo Road	2019	617-416-6449	vanderbergL@gmail.com	2019		F	
+3	William F. Hayward	68 Cleveland Street	2019	781-648-2710		2019		M	
+4	Alham Saadat	62 Magnolia Street	2025	951-764-6236	alhams999@gmail.com	2022	02SAM2178000	F	002.A-0002-0005.2
+4	Alham Saadat	62 Magnolia Street	2025	951-764-6236	alhams999@gmail.com	2023	02SAM2178000	F	002.A-0002-0005.2
+4	Alia K. Atlas	49 Magnolia Street	2023		akatlas@gmail.com	2022	10AAA1072003	F	003.0-0005-0019.0
+4	Arthur P. Prokosch	45 Fairmont Street	2026		app@pobox.com	2023	11PAR2678001	M	001.A-0002-0018.0
+4	Ashley Dickson	45 Magnolia Street	2026	801-830-8848	ashleydickson@gmail.com	2023	05DAY1482000	F	003.A-0005-0045.0
+4	Carolyn Frances Sullivan	32 Milton Street	2023	617-548-5836	carolynfs@gmail.com	2022	08SCN2584001	F	003.0-0004-0024.0
+4	Chad Daniel Gibson	35 Varnum Street	2025		chdgibson@yahoo.com	2022	05GCD2778001	M	003.A-0004-0035.0
+4	Chad Daniel Gibson	35 Varnum Street	2025		chdgibson@yahoo.com	2023	05GCD2778001	M	003.A-0004-0035.0
+4	Clarissa Rowe	137 Herbert Road	2024	781-643-3156	clarissa.rowe@comcast.net	2022	04RCA2348003	F	006.A-0001-0137.0
+4	Clarissa Rowe	137 Herbert Road	2024	781-643-3156	clarissa.rowe@comcast.net	2023	04RCA2348003	F	006.A-0001-0137.0
+4	Costa, Patricia A.	82 Milton Street	2021	781-643-3734	jcpc45@gmail.com	2019		F	
+4	Dorit Peleg Mazor	12B Fairmont Street	2026		doripelegmazor@gmail.com	2023	04MDT0277000	F	001.A-0003-0036.0
+4	Ethan P. Zimmer	18 Lake Street, #3	2021	781-646-6558	epz@ethanzimmer.net	2019	05ZEN1370000	M	
+4	Ethan P. Zimmer	18 Lake Street, #3	2024		epz@ethanzimmer.net	2022	05ZEN1370000	M	006.0-0003-0017.0
+4	Ethan P. Zimmer	18 Lake Street, #3	2024		epz@ethanzimmer.net	2023	05ZEN1370000	M	006.0-0003-0017.0
+4	Ezra Fischer	32 Thorndike Street	2024	732-429-8802	ezrafischer@gmail.com	2022	08FEA1582001	M	001.0-0002-0030.0
+4	Ezra Fischer	32 Thorndike Street	2024	732-429-8802	ezrafischer@gmail.com	2023	08FEA1582001	M	001.0-0002-0030.0
+4	Grass, Jessica Dee	79 Fairmont Street	2019		grass.jess@gmail.com	2019		F	
+4	Joseph M. Marshall .	74 Varnum Street	2019	781-648-0062	jayymarr@yahoo.com	2019		M	
+4	Judith E. Garber	130 Mass. Ave. #4	2024	973-943-8402	JGarberTMM4@gmail.com	2022	10GJH0789000	F	003.A-0001-0004.0
+4	Judith E. Garber	130 Mass. Ave. #4	2024	973-943-8402	JGarberTMM4@gmail.com	2023	10GJH0789000	F	003.A-0001-0004.0
+4	Kaba, Nawwaf W.	7 Thorndike Street	2019	781-777-1537	nkaba.tmm@gmail.com	2019	03KNF3052000	M	
+4	Kate J. Leary	39 Milton Street	2020		kleary@gmail.com	2019		F	
+4	Kerins, Katelyn M.	27 Fairmont Street	2020		kerins.katelyn@gmail.com	2019		F	
+4	Laite, George	25 Lafayette Street	2021	781-646-5080	georgelaite@verizon.net	2019		M	
+4	M. Daydelpha McClure	27 Boulevard Road	2019			2019			
+4	Mary G. Kowalczuk	15 Lafayette Street #1	2025		marygkowal@gmail.com	2022	03KMY1665000	F	001.A-0003-0008.0
+4	Mary G. Kowalczuk	15 Lafayette Street #1	2025		marygkowal@gmail.com	2023	03KMY1665000	F	001.A-0003-0008.0
+4	Michele J Phelan	135 Thorndike Street	2023		michele.j.phelan@gmail.com	2022	09PME2660000	F	002.0-0001-0030.0
+4	Michele J Phelan	135 Thorndike Street	2026		michelephelantownmeeting@gmail.com	2023	09PME2660000	F	002.0-0001-0030.0
+4	Molly E. Flueckiger	55 Fairmont Street	2020	781-316-1587	mollyflueckiger@gmail.com	2019		F	
+4	Nawwaf W. Kaba	9 Thorndike Street	2025		nkaba.tmm@gmail.com	2022	03KNF3052000	M	001.0-0001-0005.0
+4	Nawwaf W. Kaba	9 Thorndike Street	2025		nkaba.tmm@gmail.com	2023	03KNF3052000	M	001.0-0001-0005.0
+4	Reiss, Peter William	68 Milton St.	2019		muirhead.reiss@rcn.com	2019		M	
+4	Rowe, Clarissa	137 Herbert Road	2021	781-643-3156	clarissa.rowe@comcast.net	2019	04RCA2348003	F	
+4	Silvia Domínguez	72 Thorndike Street	2023	617-314-0736	bncboston@gmail.com	2022	05DSA2461001	M	002.0-0004-0006.0
+4	Taberner, Aimee L.	92 Thorndike Street	2020	617-750-6907	aimtaberner@yahoo.com	2019		F	
+5	Adam Edward Badik	1 Beacon Street	2024		adam4arl@gmail.com	2022	09BAM1477000	M	040.A-0001-0001.1
+5	Adam Edward Badik	1 Beacon Street	2024		adam4arl@gmail.com	2023	09BAM1477000	M	040.A-0001-0001.1
+5	Andrew S. Greenspon	89 Palmer Street	2026	617-230-4140	andy.greenspon@gmail.com	2023		M	042.0-0003-0010.A
+5	Benjamin Isaac Rudick	40 Webcowet Road	2024	631-620-5865	benrudick@gmail.com	2022	04RBN1185002	M	047.A-0001-0040.0
+5	Benjamin Isaac Rudick	40 Webcowet Road	2024	631-620-5865	benrudick@gmail.com	2023	04RBN1185002	M	047.A-0001-0040.0
+5	Brian C.  McMurray	4 Park Street Place	2026		brian@brianmcmurray.com	2023	11MBN1984002	M	043.0-0007-0006.B
+5	Brian C. McMurray	4 Park Street	2023		brian@brianmcmurray.com	2022	11MBN1984002	M	043.0-0007-0006.B
+5	Catherine L. Farrell	76 Park Street	2019			2019		F	
+5	Catherine Louise Farrell	76 Park Street	2025	617-969-0473	clf_scw@hotmail.com	2022	12FCE0744001	F	044.A-0007-0078.0
+5	Catherine Louise Farrell	76 Park Street	2025	617-969-0473	clf_scw@hotmail.com	2023	12FCE0744001	F	044.A-0007-0078.0
+5	Christa M. Kelleher	153 Medford Street	2019		christakel@verizon.net	2019	06KCA2171001	F	
+5	Christa M. Kelleher	153 Medford Street #2	2025	781-643-1969	christakel@verizon.net	2022	06KCA2171001	F	047.0-0005-0013.0
+5	Christa M. Kelleher	153 Medford Street #2	2025	781-643-1969	christakel@verizon.net	2023	06KCA2171001	F	047.0-0005-0013.0
+5	David F. Swanson	21 Dartmouth Street	2024		dswanson922@gmail.com	2022	09SDD2286001	M	041.B-0001-0021.0
+5	David F. Swanson	21 Dartmouth Street	2024		dswanson922@gmail.com	2023	09SDD2286001	M	041.B-0001-0021.0
+5	DuBois, Abigail	83 Park Street	2020	781-641-0167	gdubois@bv.edu	2019		F	
+5	Garry F. Tibbetts	15 University Road	2019	781-648-5210	gtibbetts@aol.com	2019		M	
+5	Goodfader, Emily	25 Bowdoin Street, #2	2020	781-641-3612	goodfadere@yahoo.com	2019		F	
+5	Jason M. Donnelly	36 Amherst Street	2019	781-316-2665	jasonmdonnelly@yahoo.com	2019		M	
+5	Jo Anne Preston	42 Mystic Lake Drive	2025	781-643-5431	ja-preston@comcast.net	2022	08PJE0393000	F	048.0-0005-0017.0
+5	Jo Anne Preston	42 Mystic Lake Drive	2025	781-643-5431	ja-preston@comcast.net	2023	08PJE0393000	F	048.0-0005-0017.0
+5	Joseph Ellis Barr	24 Park Street #2	2023		jobar@alum.mit.edu	2022	11BJH1473002	M	040.A-0001-0024.2
+5	Joseph Ellis Barr	24 Park Street #2	2026		jobar@alum.mit.edu	2023	11BJH1473002	M	040.A-0001-0024.2
+5	Karen Elizabeth Kelleher	57 Beacon Street	2024		k.kelleher76@comcast.net	2022	08KKN0768001	F	043.0-0007-0022.0
+5	Karen Elizabeth Kelleher	57 Beacon Street	2024		k.kelleher76@comcast.net	2023	08KKN0768001	F	043.0-0007-0022.0
+5	Ledger, Lauren	169 Franklin St.	2019		lauren.ledger@gmail.com	2019		F	
+5	Messina, Peter J.	18 University Road	2020	781-641-1453	djm2715@hotmail.com	2019		M	
+5	Ortwein, Nanci L.	135 Medford Street	2021	617-966-6071	nortwein@gmail.com	2019		F	
+5	Patrick M. Hanlon	20 Park Street	2025	703-967-6720	patrick.m.hanlon@gmail.com	2022	08HPK2046000	M	040.A-0001-0020.0
+5	Patrick M. Hanlon	20 Park Street	2025	703-967-6720	patrick.m.hanlon@gmail.com	2023	08HPK2046000	M	040.A-0001-0020.0
+5	Peter Jared Thompson	127 Palmer Street	2023		koprulu1@gmail.com	2022	12TPR2360001	M	043.0-0006-0016.0
+5	Phedjina Jean	113 Medford Street #2	2023	857-333-1979	phedjinajean4@gmail.com	2022	02JPA0101001	F	046.0-0003-0020.A
+5	Phedjina Jean	113 Medford Street #2	2026	857-333-1979	phedjinajean4@gmail.com	2023	02JPA0101001	F	046.0-0003-0020.A
+5	Smith, Scott B.	39 Amherst Street	2021	781-648-6223	scottsmith@alum.mit.edu	2019		M	
+5	Supprise, Rita B.	71 Webster Street	2021		websterwing@earthlink.net	2019		F	
+5	Veatch,Phillip Alan	46 Park Street	2021	781-648-2525	phil@veatchconnors.net	2019		M	
+5	Watson, David M.	170 Franklin Street, #1	2020	781-646-1288	dmw010@gmail.com	2019			
+6	Andrew S. Fischer	25 Lombard Road	2021	781-641-1813	asfischer@comcast.net	2019			011.0-0005-0004.0
+6	Adam MacNeill	12 Wellington Street #3	2024	203-954-7862	adamjamesmacneill@gmail.com	2022	06MAM1393003	M	121.A-0005-0009.0
+6	Adele A. Kraus	438 Mass. Ave., #116	2019	781-643-1624	adkr2@hotmail.com	2019			
+6	Alexander R. Franzosa	22 Marion Road #2	2025	617-866-0383	alexander.franzosa.townmeeting@gmail.com	2022	08FAR3099000	M	008.0-0002-0011.0
+6	Alexander R. Franzosa	22 Marion Road #2	2025		alexander.franzosa.townmeeting@gmail.com	2023	08FAR3099000	M	008.0-0002-0011.0
+6	Andrew S. Fischer	25 Lombard Road	2026	781-439-2600	andrew.fischer25@gmail.com	2023	01FAW0253000	M	011.0-0005-0004.0
+6	Anna J. Henkin	11 Marion Road #1	2024		anna@henkin.me	2022	08HAA1390003	F	008.A-0001-0001.1
+6	Anna J. Henkin	11 Marion Road #1	2024		anna@henkin.me	2023	08HAA1390003	F	008.A-0001-0001.1
+6	Aram. G.  Hollman	12 Whittemore Street	2026	781-648-6417	ahollman@aol.com	2023	05HAM1659000	M	010.A-0002-0015.0
+6	Caitlin Elizabeth Monaghan	44 Newcomb Street	2026			2023	05MCN1087002	F	007.0-0001-0006.0
+6	Charles E. Blandy	58 Lombard Terrace #2	2024		charley.blandy@gmail.com	2022	08BCS2072004	M	011.0-0004-0018.B
+6	Charles E. Blandy	58 Lombard Terrace #2	2024		charley.blandy@gmail.com	2023	08BCS2072004	M	011.0-0004-0018.B
+6	Christine Morgan Noah	210 Massachusetts Avenue #5	2025		christinenoah@gmail.com	2022	07NCE2992000	F	006.0-0002-0006.0
+6	Christine Morgan Noah	210 Massachusetts Avenue #5	2025		christinenoah@gmail.com	2023	07NCE2992000	F	006.0-0002-0006.0
+6	Daniel C. Jalkut	17 Randolph Street	2019	781-648-0369	jalkut+arlington@red-sweater.com	2019	05JDL2175000	M	
+6	Daniel Jalkut	17 Randolph Street	2025		danieltm@jalkut.com	2022	05JDL2175000	M	006.0-0005-0015.0
+6	Daniel Jalkut	17 Randolph Street	2025		danieltm@jalkut.com	2023	05JDL2175000	M	006.0-0005-0015.0
+6	George J. McNinch	22 Whittemore Street #2	2023		gmcninch.arlington@gmail.com	2022	01MGE3168000	M	010.0-0002-0011.B
+6	James Ballin	30 Swan Place	2019	781-646-0440	jimballin@gmail.com	2019	12BJS1262001	M	
+6	James Ballin	30 Swan Place	2025		jballintmm6@gmail.com	2022	12BJS1262001	M	011.0-0004-0027.0
+6	James Ballin	30 Swan Place	2025		jballintmm6@gmail.com	2023	12BJS1262001	M	011.0-0004-0027.0
+6	Jill A. Snyder	276 Mass. Avenue, #305	2020	781-648-0002	jsnyder73@hotmail.com	2019	06SJL1873000	F	
+6	Jill A. Snyder	276 Mass. Ave. #305	2023	781-648-0002	jillannsnyder@gmail.com	2022	06SJL1873000	F	008.0-0002-0015.0
+6	John Gabriel Knoll	44 Newcomb Street	2026			2023	04KJN2677000	M	007.0-0001-0006.0
+6	John Stephen Cronin	29 Wyman Terrace, #A	2020	781-646-1904		2019			
+6	Laura Sosnowski Tracey	25 Marion Road	2023	781-488-3233	lbtracey@rcn.com	2022	08TLA1368001	F	008.0-0002-0032.0
+6	Lesley A. Waxman	60 Pleasant Street #303	2024		lwaxman@gmail.com	2022	10WLY2482001	F	011.A-0001-0303.0
+6	Lesley A. Waxman	60 Pleasant Street #303	2024		lwaxman@gmail.com	2023	10WLY2482001	F	011.A-0001-0303.0
+6	Lesley A. Waxman,	60 Pleasant Street, #303	2021	617-294-9475	lwaxman@gmail.com	2019	10WLY2482001	F	
+6	Lisa M. Reynolds	1 Pond Terrace	2019	617-223-0465	lisa.reynolds17@gmail.com	2019			
+6	Mara Collins	18 Hamilton Road #502	2023	617-417-5816	kleincollins@me.com	2022	01KMA1655000	F	020.A-0001-0502.0
+6	Stephen W. Batzell	374 Mass. Avenue, #3	2020		stevebatzell@yahoo.com	2019			
+6	Susan Bisson	29 Marion Road	2020	781-777-2845	susanbisson@mac.com	2019			
+6	Theodore L. Peluso	438 Massachusetts Ave., #420	2021	781-648-0239	tedpeluso@gmail.com	2019			
+6	William H. Kaplan	57 Spy Pond Lane	2021	617- 678-0111	listbill@gmail.com	2019			
+7	Baron, Sheri A.	10 Raleigh Street	2020	617-875-2198	sbaron26@verizon.net	2019			
+7	Bengtson, Andrew P.	15 Allen Street, #1	2020		andrew.bengtson.tmm@gmail.com	2019			
+7	Betty J. Stone	99 Harlow Street	2019	781-648-1066	bjstone13@yahoo.com	2019	08SBY1349000	F	
+7	Betty J. Stone	99 Harlow Street #1	2025	617-929-5565	bjstone13@yahoo.com	2022	08SBY1349000	F	030.0-0003-0024.A
+7	Betty J. Stone	99 Harlow Street #1	2025	617-929-5565	bjstone13@yahoo.com	2023	08SBY1349000	F	030.0-0003-0024.A
+7	Christopher P. Loreti	56 Adams Street	2026	781-641-2578	cloreti@verizon.net	2023	06LCR2958000	M	031.0-0004-0009.0
+7	Connors, Joseph M.	78 Bates Road	2021	781-646-3878	jmconnors1@verizon.net	2019			
+7	Ellen Ann Aamodt	64 Grafton Street	2023		aamodtmail@gmail.com	2022	01AEN1547001	F	027.0-0001-0015.0
+7	Ellen Ann Aamodt	64 Grafton Street	2026	718-404-7811	Aamodtmail@gmail.com	2023	01AEN1547001	F	027.0-0001-0015.0
+7	Hanson, Linda	11 Webster Street	2021	781-648-6382	lhanson@rcn.com	2019			
+7	Hughes, Timothy M.	20 Webster Street	2020	781-648-3862		2019			
+7	Jane Biondi	50 Wyman Street	2024		jane.biondi.tmm@gmail.com	2022	08BJE2266000	F	042.0-0006-0007.0
+7	Jane Biondi	50 Wyman Street	2024		jane.biondi.tmm@gmail.com	2023	08BJE2266000	F	042.0-0006-0007.0
+7	Laura B. Borgia	6 Raleigh Street	2023		laura.borgia@vivolibere.org	2022	01BLA2774002	F	030.0-0004-0011.0
+7	Laurence J. Slotnick	94 Grafton Street #2	2025	617-596-8617	ljslotnick@yahoo.com	2022	10SLE2558003	M	027.A-0001-0002.0
+7	Laurence J. Slotnick	94 Grafton Street #2	2025	617-596-8617	ljslotnick@yahoo.com	2023	10SLE2558003	M	027.A-0001-0002.0
+7	Marc E. Lefebvre	89 Bates Road	2024		mlefebvre96@gmail.com	2022	07LMC0174004	M	030.0-0002-0023.0
+7	Marc E. Lefebvre	89 Bates Road	2024		mlefebvre96@gmail.com	2023	07LMC0174004	M	030.0-0002-0023.0
+7	Mary Claire Malek-Odom	19 River Street #2	2025	781-697-6425	artfulgram@gmail.com	2022	12MMY3047001	F	038.0-0001-0002.0
+7	Mary Claire Malek-Odom	19 River Street #2	2025	781-697-6425	artfulgram@gmail.com	2023	12MMY3047001	F	038.0-0001-0002.0
+7	Michelman, Thomas S.	20 Everett Street, #2	2021	978-580-6190	tmichelman@gmail.com	2019			
+7	Pedulla, Lisa A.	20 Everett Street, #2	2021	781-646-8741		2019			
+7	Phil E Goff	94 Grafton Street	2019	857-523-0020	philipgoff@hotmail.com	2019			
+7	Phil E. Goff	94 Grafton Street	2026		philipgoff@hotmail.com	2023	06GPL2068000	M	027.A-0001-0001.0
+7	Rebbeca J.Younkin 	30 Harlow Street	2019	781-648-3163	ryounkin@post.harvard.edu	2019	12YRA0174000	F	
+7	Rebecca J. Younkin	30 Harlow Street #2	2025	781-648-3163	ryounkin@post.harvard.edu	2022	12YRA0174000	F	029.A-0002-0002.0
+7	Rebecca J. Younkin	30 Harlow Street #2	2025	781-648-3163	rebeccayounkin@gmail.com	2023	12YRA0174000	F	029.A-0002-0002.0
+7	Roderick John Holland Jr.	88 Grafton Street	2024	781-405-3809	rholland1951@gmail.com	2022	01HRK0151001	M	027.0-0001-0010.0
+7	Roderick John Holland Jr.	88 Grafton Street	2024	781-405-3809	rholland1951@gmail.com	2023	01HRK0151001	M	027.0-0001-0010.0
+7	Sharpe, Theodore W.	51 Palmer Street	2020	781-643-6763	tmm-ted@lindasharpe.com	2019			
+7	Sheri A. Baron	10 Raleigh Street	2024	617-875-2198	sbaron26@verizon.net	2022	03BSI2650000	F	030.0-0002-0014.0
+7	Sheri A. Baron	10 Raleigh Street	2024	617-875-2198	sbaron26@verizon.net	2023	03BSI2650000	F	030.0-0002-0014.0
+7	Susan B. Donnelly	36 Amherst Street	2026		suebdonnelly@gmail.com	2023	06BSN0272000	F	040.0-0005-0002.0
+7	Timur Kaya Yontar	58 Bates Road	2019	781-643-7342	yontar@gmail.com	2019			
+7	William M. Borgia	6 Raleigh Street	2023		bill.borgia@vivolibere.org	2022	06BWM0776000	M	030.0-0004-0011.0
+8	Brian H. Rehrig	28 Academy Street	2019	781-646-4625	precinct8@rehrigs.com	2019			
+8	Carol L. Band	57 Bartlett Avenue	2025	781-648-7407	carol@carolband.com	2022	07BCL1756000	F	132.0-0003-0014.A
+8	Carol L. Band	57 Bartlett Avenue	2025	781-648-7407	carol@carolband.com	2023	07BCL1756000	F	132.0-0003-0014.A
+8	Carol L.Band	57 Bartlett Avenue	2020	781-648-7407	carol@carolband.com	2019	07BCL1756000	F	
+8	David Bean	50 Jason Street	2020	781-641-3235	beandk@rcn.com	2019			
+8	Elizabeth May Pyle	66 Gloucester Street	2023	617-710-9329	elizabeth.m.pyle@gmail.com	2022	05PEH0375000	F	140.0-0004-0005.0
+8	Elizabeth May Pyle	66 Gloucester Street	2026	617-710-9329	elizabeth.m.pyle@gmail.com	2023	05PEH0375000	F	140.0-0004-0005.0
+8	Eric L. Baatz	15 Hopkins Road	2023		eric_baatz@yahoo.com	2022	07BEC0549000	M	121.0-0002-0002.0
+8	Eric L. Baatz	15 Hopkins Road	2026		eric_baatz@yahoo.com	2023	07BEC0549000	M	121.0-0002-0002.0
+8	Foskett, Charles T.	101 Brantwood Road	2019	781-641-3546	charlie.foskett@foskettco.com	2019	08FCS0543000	M	136.0-0003-0024.0
+8	Irwin S Grossman	16 Peabody Road	2021	781-648-7189	irwin-grossman11@gmail.com	2019	08GIN0451000	M	
+8	Irwin S. Grossman	16 Peabody Road	2024	781-718-8827	irwin.grossman11@gmail.com	2022	08GIN0451000	M	121.0-0002-0014.0
+8	Irwin S. Grossman	16 Peabody Road	2024	781-718-8827	irwin.grossman11@gmail.com	2023	08GIN0451000	M	121.0-0002-0014.0
+8	Janice M. Pagliasotti	11 Temple Street, Unit A	2024	781-859-9945	janice.pagliasotti@gmail.com	2022	10PJE2653000	F	133.0-0007-0001.A
+8	Janice M. Pagliasotti	11 Temple Street, Unit A	2024	781-859-9945	janice.pagliasotti@gmail.com	2023	10PJE2653000	F	133.0-0007-0001.A
+8	John D. Leone	51 Irving Street	2020	781-641-3546	jdlmoderator@gmail.com	2019	02LJN0559000	M	
+8	John D. Leone	51 Irving Street	2025	781-864-7475	JDLeone@gmail.com	2022	02LJN0559000	M	129.0-0002-0010.0
+8	John D. Leone	51 Irving Street	2025	781-641-3546	JDLeone@gmail.com	2023	02LJN0559000	M	129.0-0002-0010.0
+8	John L. Worden III	27 Jason Street	2019	781-646-8303	jworden@swwalaw.com	2019	06WJN3038000	M	
+8	John L. Worden III	27 Jason Street	2023	781-646-8303	jworden@swwalaw.com	2022	06WJN3038000	M	129.0-0001-0001.0
+8	John L. Worden III	27 Jason Street	2026	781-646-8303	jworden@swwalaw.com	2023	06WJN3038000	M	129.0-0001-0001.0
+8	Joshua Lobel	73 Jason Street, #2	2021	781-646-6690	josh.lobel@gmail.com	2019	04LJA2254000	M	
+8	Joshua Lobel	73 Jason Street #2	2025	401-965-9446	josh.lobel@gmail.com	2022	04LJA2254000	M	132.B-0001-0002.0
+8	Joshua Lobel	73 Jason Street #2	2025	401-965-9446	josh.lobel@gmail.com	2023	04LJA2254000	M	132.B-0001-0002.0
+8	Knobloch, Nicole K.	35 Academy Street	2019	781-643-1956		2019			
+8	Laura M.  Wiener	73 Jason Street	2025	781-526-3736	laura.wiener73@gmail.com	2023	01WLA3156000	F	132.B-0001-0002.0
+8	Laura M. Wiener	73 Jason Street	2025	781-526-3736	laura.wiener@gmail.com	2022	01WLA3156000	F	132.B-0001-0002.0
+8	Mary Ellen Aronow	22 Addison Street	2024	617-306-6786	meaarlington@gmail.com	2022	12AMY2265001	F	121.0-0004-0016.0
+8	Mary Ellen Aronow	22 Addison Street	2024	617-306-6786	meaarlington@gmail.com	2023	12AMY2265001	F	121.0-0004-0016.0
+8	Patricia B, Worden	27 Jason Street	2021	781-646-8303	pbworden@hotmail.com	2019	06WPA1836000	F	
+8	Patricia B. Worden	27 Jason Street	2023	781-646-8303	pbworden@hotmail.com	2022	06WPA1836000	F	129.0-0001-0001.0
+8	Sharon Grossman	16 Peabody Road	2024		sharongrossman1@gmail.com	2022	08GSN1354001	F	121.0-0002-0014.0
+8	Sharon Grossman	16 Peabody Road	2024	781-771-6489	sharongrossman1@gmail.com	2023	08GSN1354001	F	121.0-0002-0014.0
+8	Starks Cindy	1 Monadnock Road	2021	781-646-8887	cindy@starks-hopeman.net	2019			
+8	Stephanie K. Ford-Weems	12 Lockeland Avenue	2026		StephanieFordWeemsTMM8@gmail.com	2023	12FSE1172000	F	126.0-0002-0008.0
+8	William R. Berkowitz	12 Pelham Terrace	2020	781-646-6319	Bill_Berkowitz@uml.edu	2019			
+9	A. Michael Ruderman	9 Alton Street	2024	781-929-7847	amruderman@gmail.com	2022	07RAQ3059000	M	045.A-0001-0009.0
+9	A. Michael Ruderman	9 Alton Street	2024	781-929-7847	amruderman@gmail.com	2023	07RAQ3059000	M	045.A-0001-0009.0
+9	Alexander G. Bagnall	10 Wyman Street	2024	781-307-0515	alex.bagnall.tmm@gmail.com	2022	10BLA2662000	M	031.0-0001-0013.0
+9	Alexander G. Bagnall	10 Wyman Street	2024	781-307-0515	alex.bagnall.tmm@gmail.com	2023	10BLA2662000	M	031.0-0001-0013.0
+9	Barbara Ann Boltz	54 Medford Street, #510	2021	781-648-0179	baboltz@verizon.net	2019			
+9	Benedict G. Dobbs	140 Medford Street, #1	2019	781-648-0868	bdobbs23@gmail.com	2019			
+9	Beth Melofchik	20 Russell Street	2025		tankmadel@yahoo.com	2022	02MBH0161000	F	063.A-0001-0001.0
+9	Beth Melofchik	20 Russell Street	2025		tankmadel@yahoo.com	2023	02MBH0161000	F	063.A-0001-0001.0
+9	Debra A. Edelstein	63 Webcowet Road	2021	781-646-2161	dae16@verizon.net	2019			
+9	Elizabeth A. Carlton-Gysan	268 Broadway	2024		betsycarltongysan@gmail.com	2022	07CEH3075000	F	032.0-0002-0006.0
+9	Elizabeth A. Carlton-Gysan	268 Broadway	2024		betsycarltongysan@gmail.com	2023	07CEH3075000	F	032.0-0002-0006.0
+9	Elizabeth A. Ferola	118 Warren Street	2026		liz.ferola.tmm@gmail.com	2023	04FEH1583000	F	042.0-0004-0001.0
+9	Harold J. Allen Jr.	7 Bacon Street	2020	781-648-5151	hallen51@verizon.net	2019			
+9	J. Chakrabarty	87 Medford Street	2019	781-643-0122	j_chakrabarty@hotmail.com	2019			
+9	Jennifer Lyn Mansfield	44 Franklin Street	2024	603-318-5592	jlsmason@gmail.com	2022	10SJR1281000	F	045.A-0007-0005.1
+9	Jennifer Lyn Mansfield	44 Franklin Street	2024		jlsmason@gmail.com	2023	10SJR1281000	F	045.A-0007-0005.1
+9	Jonathan Wallach	11 Webster Street	2026		jfwallach@rcn.com	2023	11WJN1158000	M	042.0-0005-0016.0
+9	Julia Ruderman	9 Alton Street	2019	781-929-7847	juliaruderman@gmail.com	2019			
+9	Linda Hanson	11 Webster Street	2026		lhanson@rcn.com	2023	07HLA3162000	F	042.0-0005-0016.0
+9	Mark H. Kaepplein	11 Palmer Street	2026		markk02474@gmail.com	2023	08KMK1960000	M	031.0-0001-0003.0
+9	Mark Kaepplein	11 Palmer Street	2023		markk02474@gmail.com	2022	08KMK1960000	M	031.0-0001-0003.0
+9	Michael A. Ruderman	9 Alton Street	2020	781-929-7847	amruderman@gmail.com	2019	07RAQ3059000	M	
+9	Mona Mandal	14 Water Street #2	2025	781-648-1910	mona.arlingtontm9@gmail.com	2022	08MMA1875001	F	050.A-0006-0002.0
+9	Mona Mandal	14 Water Street #2	2025	781-648-1910	mona.arlingtontm9@gmail.com	2023	08MMA1875001	F	050.A-0006-0002.0
+9	Paul Schlichtman	47 Mysitc Street, #8C	2021	781-641-3401	paul@schlichtman.org	2019	01SPL1553000	M	049.A-0002-0008.C
+9	Paul Schlichtman	47 Mystic Street #8C	2025	617-755-4300	paul@schlichtman.org	2022	01SPL1553000	M	049.A-0002-0008.C
+9	Paul Schlichtman	47 Mystic Street #8C	2025	617-755-4300	paul@schlichtman.org	2023	01SPL1553000	M	049.A-0002-0008.C
+9	Rieko Tanaka	47 Mystic Street #8C	2025		rieko@riekotanaka.com	2022	04TRO0666001	F	049.A-0002-0008.C
+9	Rieko Tanaka	47 Mystic Street #8C	2025		rieko@riekotanaka.com	2023	04TRO0666001	F	049.A-0002-0008.C
+9	Robery F. Herlihy	51 Maynard Street	2021	781-648-1069		2019			
+9	Stephen D. Makowka	17 Russell Street	2020	781-643-6054	stephen.makowka@gmail.com	2019			
+9	Steven M. Liggett	25 Hayes Street	2020	781-777-1994	smliggett@gmail.com	2019			
+9	Susan  Steward	23 Alton Street	2019		sstewart@alum.mit.edu	2019			
+10	Barbara M. Costa	26 Woodland Street	2021	781-646-2116	barbaracosta331@gmail.com	2019	03CBA3152000	F	139.0-0001-0009.0
+10	Barbara M. Costa	26 Woodland Street	2024		barbaracosta331@gmail.com	2022	03CBA3152000	F	139.0-0001-0009.0
+10	Barbara M. Costa	26 Woodland Street	2024		barbaracosta331@gmail.com	2023	03CBA3152000	F	139.0-0001-0009.0
+10	Beth M. Elliott	98 Highland Avenue	2025		bmelliott@gmail.com	2022	10EBH1875001	F	142.A-0005-0098.0
+10	Beth M. Elliott	98 Highland Avenue	2025		bmelliott@gmail.com	2023	10EBH1875001	F	142.A-0005-0098.0
+10	Charles T. Foskett	101 Brantwood Road	2024	781-492-0800	charlie.foskett@foskettco.com	2022	08FCS0543000	M	136.0-0003-0024.0
+10	Charles T. Foskett	101 Brantwood Road	2024	781-492-0800	charlie.foskett@foskettco.com	2023	08FCS0543000	M	136.0-0003-0024.0
+10	Christian M. Klein	54 Newport Street	2026	781-641-4211	cmqklein@gmail.com	2023	02KCN2169001	M	142.0-0003-0020.0
+10	Christian Mac Quarrie Klein	54 Newport Street	2023	781-641-4211	cmqklein@gmail.com	2022	02KCN2169001	M	142.0-0003-0020.0
+10	Christian MacQuarrie Klein	54 Newport Street	2021	781-641-4211	cmqklein@gmail.com	2019	02KCN2169001	M	
+10	Danuta M. Forbes	4 Iroquois Road	2021	781-316-8257	danutaf17@gmail.com	2019			
+10	Donna K.Wren	75 Hillsdale Road	2019	781-328-2287	dkwren@@alum.mit.edu	2019			
+10	Elizabeth H-B Dray	130 Jason Street	2025		elizabethdray7@gmail.com	2022	11DEH1469001	F	139.0-0006-0001.0
+10	Elizabeth H-B Dray	130 Jason Street	2025	617-584-9428	elizabethdray7@gmail.com	2023	11DEH1469001	F	139.0-0006-0001.0
+10	Elizabeth M. Pyle	66 Gloucester Street	2019	781-643-4913	lizandlucy@gmail.com	2019			
+10	Eugene B.  Benson	16 Hillsdale Road	2024		eugene.b.benson@gmail.com	2023	08BEE0949000	M	136.0-0002-0014.A
+10	Eugene B. Benson	16 Hillsdale Road	2024		eugene.b.benson@gmail.com	2022	08BEE0949000	M	136.0-0002-0014.A
+10	Jane L. Howard	12 Woodland Street	2020	781-648-1936	phoward795@verizon.net	2019	04HJE0137003	F	
+10	Jane L. Howard	12 Woodland Street	2024	781-648-1936	phoward795@verizon.net	2022	04HJE0137003	F	139.0-0001-0013.0
+10	Jane L. Howard	12 Woodland Street	2024	781-648-1936	phoward795@verizon.net	2023	04HJE0137003	F	139.0-0001-0013.0
+10	John A. Martin	60 Arlmont Street	2020	781-641-7439	dodgerjam@gmail.com	2019			
+10	Mark Spengler	189 Jason Street	2019	781-643-2605	mnspengler@aol.com	2019			
+10	Michael J. Quinn	15 Shawnee Road	2019	781-643-4962	michael.quinn@gmail.com	2019	01QML1164000	M	134.0-0004-0004.0
+10	Michael J. Quinn	15 Shawnee Road	2023	781-643-4962	michael.quinn@gmail.com	2022	01QML1164000	M	134.0-0004-0004.0
+10	Michael J. Quinn	15 Shawnee Road	2026	781-643-4962	michael.quinn@gmail.com	2023	01QML1164000	M	134.0-0004-0004.0
+10	Mustafa Varoglu	26 Shawnee Road	2021	(617) 852-4804	mvaroglu@gmail.com	2019	01VMA2568000	M	134.0-0007-0003.0
+10	Mustafa Varoglu	26 Shawnee Road	2023	617-852-4804	mvaroglu+TMM10@gmail.com	2022	01VMA2568000	M	134.0-0007-0003.0
+10	Mustafa Varoglu	26 Shawnee Road	2026	617-852-4804	mvaroglu+TMM10@gmail.com	2023	01VMA2568000	M	134.0-0007-0003.0
+10	Peter B. Howard	12 Woodland Street	2023	781-648-1936	phoward795@verizon.net	2022	05HPR1536000	M	139.0-0001-0013.0
+10	Peter B. Howard	12 Woodland Street	2026	781-648-1936	phoward795@verizon.net	2023	05HPR1536000	M	139.0-0001-0013.0
+10	Peter B.Howard	12 Woodland Street	2020	781-648-1936	phoward795@verizon.net	2019	05HPR1536000	M	139.0-0001-0013.0
+10	Rebecca G. Gruber	215 Pleasant Street	2025	617-513-1746	rebeccagruber215@gmail.com	2022	10GRA2161000	F	123.0-0001-0017.0
+10	Rebecca G. Gruber	215 Pleasant Street	2025	617-513-1746	rebeccagruber215@gmail.com	2023	10GRA2161000	F	123.0-0001-0017.0
+10	Sanjay S. Newton	32 Ottawa Road	2025		sanjay.newton@arlingtontmm.org	2022	03NSY1383000	M	144.0-0004-0007.0
+10	Sanjay S. Newton	32 Ottawa Road	2025		sanjay.newton@arlingtontmm.org	2023	03NSY1383000	M	144.0-0004-0007.0
+10	William David Moyer	49 Hillsdale Road	2020	781-643-1747	wmdmoyer@gmail.com	2019			
+11	Carl A. Wagner	30 Edgehill Road	2019	781-648-7682	cawagner@hotmail.com	2019			
+11	Caroll E. Schwartz	20 Robin Hood Road	2021	781-646-1722	edschwartz39@gmail.com	2019	01SCL1539000	M	075.0-0002-0003.0
+11	Carroll E. Schwartz	20 Robin Hood Road	2024		edschwartz39@gmail.com	2022	01SCL1539000	M	075.0-0002-0003.0
+11	Carroll E. Schwartz	20 Robin Hood Road	2024		edschwartz39@gmail.com	2023	01SCL1539000	M	075.0-0002-0003.0
+11	Christine C, Carney	98 Richfield Road	2021	781-844-3028	tmmccarney11@gmail.com	2019			
+11	Christopher J. Heigham	82 Richfield Road	2019	617-538-1672	cheigham@comcast.net	2019			
+11	Edward Miracco	6 Frost Street	2024		emirac@pm.me	2022	03MED2083000	M	097.0-0004-0001.0
+11	Edward Miracco	6 Frost Street	2024		emirac@pm.me	2023	03MED2083000	M	097.0-0004-0001.0
+11	Gary O. Goldsmith	91 Beverly Road	2026		wildelivernew@gmail.com	2023	01GGY0343000	M	070.0-0003-0009.A
+11	Ian Goodsell	193 Mystic Street	2025		ianfor11@iangoodsell.com	2022	07GIN1570000	M	065.A-0001-0193.0
+11	Ian Goodsell	193 Mystic Street	2025		ianfor11@iangoodsell.com	2023	07GIN1570000	M	065.A-0001-0193.0
+11	Joyce H. Radochia	45 Columbia Road	2020	781-648-1196	joycerob2000@verizon.net	2019			
+11	Judson L. Pierce	42 Draper Avenue	2019	781-643-7017	jpierce@ppnlaw.com	2019	09PJN2772000	M	069.0-0002-0011.0
+11	Judson L. Pierce	42 Draper Avenue	2025		judsonpiercetm11@gmail.com	2022	09PJN2772000	M	069.0-0002-0011.0
+11	Judson L. Pierce	42 Draper Avenue	2025		judsonpiercetm11@gmail.com	2023	09PJN2772000	M	069.0-0002-0011.0
+11	Kevin F. Greeley	363 Mystic Street	2020	781-648-1973	Greeleycom@aol.com	2019			
+11	Kristin L. Anderson	12 Upland Road West	2023		forcedexposure@gmail.com	2022	01AKN0160122	F	096.0-0003-0006.B
+11	Kristin L. Anderson	12 Upland Road West	2026		forcedexposure@gmail.com	2023	01AKN0160122	F	096.0-0003-0006.B
+11	Laura J. Fuller	219 Crosby Street	2025	617-501-6505	laura.fuller3@gmail.com	2022	01FLA0160074	F	095.0-0002-0018.0
+11	Laura J. Fuller	219 Crosby Street	2025	617-501-6505	laura.fuller3@gmail.com	2023	01FLA0160074	F	095.0-0002-0018.0
+11	Leba Heigham	82 Richfield Road	2020	617-538-1672	leba@alum.mit.edu	2019			
+11	Lynette Culverhouse	24 Draper Avenue	2023	781-475-7456	lculverhouse@gmail.com	2022	11TLE0948001	F	069.0-0002-0016.0
+11	Lynette Culverhouse	24 Draper Avenue	2026		lculverhouse@gmail.com	2023	11TLE0948001	F	069.0-0002-0016.0
+11	Mary Ellen Bilafer	59 Cutter Hill Road	2021	781-648-7368	mebilafer@gmail.com	2019			
+11	Matthew Dean Miller	42 Columbia Road	2023		matthewdeanmiller@gmail.com	2022	11MMW0268000	M	073.0-0001-0021.0
+11	Matthew Dean Miller	42 Columbia Road	2026		matthewdeanmiller@gmail.com	2023	11MMW0268000	M	073.0-0001-0021.0
+11	Meredith H. DiMola	47 Crosby Street	2025	617-458-1744	meredithdimola@gmail.com	2022	11DMH2976000	F	076.0-0003-0018.0
+11	Michael F. Byrne	28 Upland Road	2024		mbyrneprec13@gmail.com	2022	08BML2961000	M	095.0-0004-0007.0
+11	Michael F. Byrne	28 Upland Road	2024		mbyrneprec13@gmail.com	2023	08BML2961000	M	095.0-0004-0007.0
+11	Michele Nathan	3 Robin Hood Road	2023		abelincoln564@gmail.com	2022	06NME2858000	F	075.0-0003-0007.0
+11	Paulette Schwartz	20 Robin Hood Raod	2019	781-646-1722	plschwartz@verizon.net	2019	06SPE2939000	F	075.0-0002-0003.0
+11	Paulette Schwartz	20 Robin Hood Road	2024		plschwartz@verizon.net	2022	06SPE2939000	F	075.0-0002-0003.0
+11	Paulette Schwartz	20 Robin Hood Road	2024		plschwartz@verizon.net	2023	06SPE2939000	F	075.0-0002-0003.0
+11	Robert J. Radochia	45 Columbia Road	2020	781-648-1196	bobrj.rad@gmail.com	2019			076.0-0005-0011.0
+11	Robert Radochia	45 Columbia Road	2025		bobrj.rad@gmail.com	2023	07RRT0940000	M	076.0-0005-0011.0
+11	Thomas Caccavaro Jr	28 Ridge Street	2021	781-760-4498	nmc62@comcast.net	2019			
+12	Benjamin B. Ames	14 Hawthorne Avenue	2019	781-643-6733	bbames@comcast.net	2019	06ABN2669000	M	152.0-0002-0002.0
+12	Benjamin B. Ames	14 Hawthorne Avenue	2025	617-501-3560	bbames@gmail.com	2022	06ABN2669000	M	152.0-0002-0002.0
+12	Benjamin B. Ames	14 Hawthorne Avenue	2025	617-501-3560	bbames@gmail.com	2023	06ABN2669000	M	152.0-0002-0002.0
+12	Caroline H. Murray	95 Glenburn Road	2023	646-772-5074	carolineprecinct12@yahoo.com	2022	02MCE2174001	F	146.0-0001-0001.0
+12	Caroline H. Murray	95 Glenburn Road	2026		carolineprecinct12@yahoo.com	2023	02MCE2174001	F	146.0-0001-0001.0
+12	Eric D. Helmuth	33 Grand View Road	2020	781-316-1784	eric@erichelmuth.com	2019	09HEC2365000	M	
+12	Eric D. Helmuth	33 Grand View Road	2023	781-205-9295	eric@erichelmuth.com	2022	09HEC2365000	M	150.0-0005-0006.B
+12	Eric D. Helmuth	33 Grandview Road	2026	617-475-0962	ehelmuth@town.arlington.ma.us	2023	09HEC2365000	M	150.0-0005-0006.B
+12	Gordon A, Jamieson Jr.	163 Scituate Street	2019	781-483-3266	jamiesga@yahoo.com	2019	07JGN2753000	M	147.0-0008-0005.0
+12	Gordon Andrew Jamieson J	163 Scituate Street	2025	781-483-3266	epigen@fuse.net	2022	07JGN2753000	M	147.0-0008-0005.0
+12	Gordon Andrew Jamieson J	163 Scituate Street	2025	781-483-3266	epigen@fuse.net	2023	07JGN2753000	M	147.0-0008-0005.0
+12	James E. DiTullio	31 Fountain Road	2025	781-307-5017	james_ditullio@hotmail.com	2022	03DJS1179000	M	151.0-0004-0017.0
+12	James E. DiTullio	31 Fountain Road	2025	781-307-5017	james_ditullio@hotmail.com	2023	03DJS1179000	M	151.0-0004-0017.0
+12	James E. Ditullio	31 Fountain Road	2019		james_ditullio@hotmail.com	2019	03DJS1179000	M	151.0-0004-0017.0
+12	Jeffrey D. Thielman	37 Coolidge Road	2021	781-316-1728	jeff.thielman@gmail.com	2019	01TJY2863000	M	143.0-0003-0005.0
+12	Jeffrey D. Thielman	37 Coolidge Road	2024	781-859-9099	jeff.thielman@gmail.com	2022	01TJY2863000	M	143.0-0003-0005.0
+12	Jeffrey D. Thielman	37 Coolidge Road	2024	781-859-9099	jeff.thielman@gmail.com	2023	01TJY2863000	M	143.0-0003-0005.0
+12	Juliana H. Brazile	56 Coolidge Road	2020	781-641-3433	juli@brazile.net	2019	07BJA0363000	F	143.0-0008-0017.0
+12	Juliana H. Brazile	56 Coolidge Road	2023	781-641-3433	juli@brazile.net	2022	07BJA0363000	F	143.0-0008-0017.0
+12	Juliana H. Brazile	56 Coolidge Road	2026	781-641-3433	juli@brazile.net	2023	07BJA0363000	F	143.0-0008-0017.0
+12	Larry F. Dieringer Jr.	11 Coolidge Road	2019	781-646-6341	ldieringer@engagingschools.org	2019	07DLY2454000	M	141.0-0005-0007.A
+12	Larry F. Dieringer Jr.	11 Coolidge Road	2025	617-872-1858	ldieringer@gmail.com	2022	07DLY2454000	M	141.0-0005-0007.A
+12	Larry F. Dieringer Jr.	11 Coolidge Road	2025	617-872-1858	ldieringer@gmail.com	2023	07DLY2454000	M	141.0-0005-0007.A
+12	Lisa A. Bielefeld	132 Mt. Vernon Street	2021	781-646-1476	lab@allin.org	2019	01BLA1661000	F	
+12	Lisa A. Bielefeld	132 Mt. Vernon Street	2024	781-641-1476	lab@allin.org	2022	01BLA1661000	F	143.0-0009-0017.0
+12	Lisa A. Bielefeld	132 Mt. Vernon Street	2024	781-641-1476	lab@allin.org	2023	01BLA1661000	F	143.0-0009-0017.0
+12	Marc Dohan	43 Chester Street	2021	781-643-3036	marcdohan@gmail.com	2019			
+12	Michael J. Cayer	191 Newport Street	2020	781-641-1604	mike.cayer@gmail.com	2019			
+12	Michael P. Baker	31 Chester Street	2020	781-646-8173	michael.baker@gmail.com	2019			
+12	Robert J. Jefferson	27 Park Circle	2021	859-9099	RJeff1297@yahoo.com	2019	06JRT2460000	M	
+12	Robert J. Jefferson	27 Park Circle	2024	781-858-8615	rjefftmm12@gmail.com	2022	06JRT2460000	M	156.0-0003-0001.0
+12	Robert J. Jefferson	27 Park Circle	2024	781-858-8615	rjefftmm12@gmail.com	2023	06JRT2460000	M	156.0-0003-0001.0
+12	Robin L. Bergman	320 Park Avenue	2024	781-646-3987	robinforp12@gmail.com	2022	05BRN1955000	F	156.0-0003-0013.0
+12	Robin L. Bergman	320 Park Avenue	2024	781-646-3987	robinforp12@gmail.com	2023	05BRN1955000	F	156.0-0003-0013.0
+12	Sanjay S. Vakil	74 Scituate Street	2023		svakil@gmail.com	2022	04VSY0471002	M	142.0-0002-0016.0
+12	Sanjay S. Vakil	74 Scituate Street	2026		svakil@gmail.com	2023	04VSY0471002	M	142.0-0002-0016.0
+13	Annie LaCourt	48 Chatham Street	2024	617-694-9895	annie@lacourt.net	2022	01LAE2958001	F	093.0-0007-0024.0
+13	Annie LaCourt	48 Chatham Street	2024	617-694-9895	annie@lacourt.net	2023	01LAE2958001	F	093.0-0007-0024.0
+13	Barbara Doyle Atkins	104 Ronald Road	2025	617-548-5889	bdatkins@gmail.com	2022	06DBA2972002	F	093.0-0005-0011.0
+13	Barbara Doyle Atkins	104 Ronald Road	2025	617-548-5889	bdatkins@gmail.com	2023	06DBA2972002	F	093.0-0005-0011.0
+13	David F. Good	37 Tomahawk Road	2025		dfgood1226@gmail.com	2022	12GDD1850000	M	101.0-0005-0005.0
+13	David F. Good	37 Tomahawk Road	2025		dfgood1226@gmail.com	2023	12GDD1850000	M	101.0-0005-0005.0
+13	David F.Good	37 Tomahawk Road	2020	781-643-9727	vickigood630@gmail.com	2019	12GDD1850000	M	
+13	DeAnne Dupont	32 Oldham Road	2021	781-641-0041	dupontlft@gmail.com	2019			
+13	Elizabeth R. Exton	231 Washington Street	2024		liz.exton@gmail.com	2022	04EEH0180005	F	093.0-0005-0006.0
+13	Elizabeth R. Exton	231 Washington Street	2024		liz.exton@gmail.com	2023	04EEH0180005	F	093.0-0005-0006.0
+13	Heather J. Fowles	51 Windmill Lane	2020	781-316-2655	heatherfowles@gmail.com	2019			
+13	John J. Deyst	26 Upland Rd. West	2020	781-646-9449	deyst@comcast.net	2019			
+13	Joseph W. Kerble	92 Morningside Drive	2025		brotherslawn@hotmail.com	2022	05KJH1272000	M	120.0-0013-0011.0
+13	Joseph W. Kerble	92 Morningside Drive	2025		brotherslawn@hotmail.com	2023	05KJH1272000	M	120.0-0013-0011.0
+13	Kirsi C. Allison-Ampe	2 Governor Road	2024	781-645-8432	kirsi.allison-ampe@arlingtontmm.org	2022	12AKI1161000	F	089.0-0001-0003.0
+13	Kirsi C. Allison-Ampe	2 Governor Road	2024	781-645-8432	kirsi.allison-ampe@arlingtontmm.org	2023	12AKI1161000	F	089.0-0001-0003.0
+13	Lee Madison Poage	10 Cherokee Road	2023	617-251-3135	leepoage@gmail.com	2022	01PLE1179000	M	104.0-0003-0014.0
+13	Lee Madison Poage	10 Cherokee Road	2026	617-251-3135	leepoage@gmail.com	2023	01PLE1179000	M	104.0-0003-0014.0
+13	Lee Poage	10 Cherokee Road	2019	781-316-2761	Lee@poage.com	2019	01PLE1179000	M	
+13	Lynn P. Bishop	51 Windmill Lane	2023	781-367-6572	lynnpatbishop@gmail.com	2022	05BLN2563001	F	103.0-0002-0004.0
+13	Marie A. Krepelka	12 Mohawk Road	2025	781-648-8402	mkrepelka@town.arlington.ma.us	2022	03KME1640000	F	119.0-0005-0006.0
+13	Marie Krepelka	12 Mohawk Road	2021	781-648-8402	mkrepelka@town.arlington.ma.us	2019			
+13	Mark Lombard	52 Hodge Road	2019	617- 686-7371	mlombardma@gmail.com	2019			
+13	Mary A. Deyst	26 Upland Rd. West	2020	781-646-9449	deyst@comcast.net	2019			
+13	Michelle M. Orfanos	19 Moccasin Path	2026			2023	10LME0871000	F	101.0-0002-0005.0
+13	Nancy A. Mara	63 Epping Street	2023	781-646-6156	librarianMara@gmail.com	2022	05MNY2749001	F	092.0-0007-0001.0
+13	Nancy A. Mara	63 Epping Street	2026	781-646-6156	librarianMara@gmail.com	2023	05MNY2749001	F	092.0-0007-0001.0
+13	Nancy M. Gilligan	77 Falmouth Road	2021	781-646-0245	n.mg@verizon.net	2019			
+13	Paul Bayer	15 Oldham Road	2025	978-290-0257	pjbayer@alum.mit.edu	2023	10BPL1851001	M	107.0-0002-0001.0
+13	Priya S. Sankalia	253 Pheasant Avenue	2023	781-530-0799	psankalia@hotmail.com	2022	04SPA2071001	F	114.0-0004-0008.0
+13	Priya S. Sankalia	253 Pheasant Avenue	2026	781-530-0799	psankalia@hotmail.com	2023	04SPA2071001	F	114.0-0004-0008.0
+13	Priya Sankalia	253 Pheasant Avenue	2019	781-646-0050	psankalia@gmail.com	2019	04SPA2071001	F	114.0-0004-0008.0
+13	Stephen J. Gilligan	77 Falmouth Road	2021	781-646-0245	sgilligan@town.arlington.ma.us	2019			
+13	Zachary P. Grunko	21 Old Middlesex Path	2019	781-643-0532	zgrunko@yahoo.com	2019	04GZY0576000	M	104.0-0002-0002.A
+13	Zachary P. Grunko	21 Old Middlesex Path	2024	617-504-6415	zgrunko@yahoo.com	2022	04GZY0576000	M	104.0-0002-0002.A
+13	Zachary P. Grunko	21 Old Middlesex Path	2024	617-504-6415	zgrunko@yahoo.com	2023	04GZY0576000	M	104.0-0002-0002.A
+14	Adam E. Pachter	67 Quincy Street	2021	781-316-8084	adampachter@yahoo.com	2019			
+14	Alan H. Jones	1 Lehigh Street	2025	781-820-0306	jones@carr-jones.com	2022	02JAN1852000	M	149.0-0005-0005.0
+14	Alan H. Jones	1 Lehigh Street	2025	781-820-0306	jones@carr-jones.com	2023	02JAN1852000	M	149.0-0005-0005.0
+14	Allen H. Jones	1 Lehigh Street	2021	781-648-9026	jones@carr-jones.com 	2019	02JAN1852000	M	149.0-0005-0005.0
+14	Amy R. Goldstein	29 Albermarle Street	2019	781-646-0111	amyrgoldstein29@gmail.com	2019	12GAY1160000	F	127.0-0006-0006.0
+14	Amy R. Goldstein	29 Albermarle Street	2025		amyrgoldstein29@gmail.com	2022	12GAY1160000	F	127.0-0006-0006.0
+14	Amy R. Goldstein	29 Albermarle Street	2025		amyrgoldstein29@gmail.com	2023	12GAY1160000	F	127.0-0006-0006.0
+14	Bahamon Guillermo	22 Oakland Avenue	2021	781-646-4238	bahamonarchitect@gmail.com	2019			
+14	Brendan F. O'Day	48 Walnut Street	2019	781-648-4651	Brendan.Oday@gmail.com	2019	03OBN0269001	M	141.0-0003-0023.0
+14	Brendan Francis O’Day	48 Walnut Street	2025	781-648-4651	brendan.oday@gmail.com	2022	03OBN0269001	M	141.0-0003-0023.0
+14	Brendan Francis O’Day	48 Walnut Street	2025	781-648-4651	brendan.oday@gmail.com	2023	03OBN0269001	M	141.0-0003-0023.0
+14	Carol Anne Svenson	34 Robbins Road	2026	781-316-0065	csvenson@gmail.com	2023	04SCL0363001	F	128.0-0001-0016.0
+14	Christopher B. Moore	80 School Street	2025		tmm14.cmoore@gmail.com	2022	01MCR0168003	M	149.0-0004-0004.0
+14	Christopher B. Moore	80 School Street	2025		tmm14.cmoore@gmail.com	2023	01MCR0168003	M	149.0-0004-0004.0
+14	Christopher B. Moore 	80 School Street	2019	781-648-6676	cmoore@bostonmoores.com	2019	01MCR0168003	M	149.0-0004-0004.0
+14	Diane M. Mahon	23 Howard Street, #2	2020	781-646-9038	dianemahon@verizon.net	2019	11SDE2862000	F	
+14	Diane M. Mahon	23 Howard Street #2	2023	781-646-9038	dianemahon@verizon.net	2022	11SDE2862000	F	148.0-0005-0013.0
+14	Diane M. Mahon	23 Howard Street #2	2026	781-646-9038	dianemahon@verizon.net	2023	11SDE2862000	F	148.0-0005-0013.0
+14	Elisabeth Carr-Jones	1 Lehigh Street	2024	339-223-8154	elisabeth@carr-jones.com	2022	11CEH2156000	F	149.0-0005-0005.0
+14	Elisabeth Carr-Jones	1 Lehigh Street	2024	339-223-8154	elisabeth@carr-jones.com	2023	11CEH2156000	F	149.0-0005-0005.0
+14	Guillermo S. Hamlin	1228 Mass. Ave. B	2023		gshamlin89@gmail.com	2022	09HGO0589000	M	165.0-0007-0006.0
+14	Guillermo S. Hamlin	1228 Mass. Ave. B	2026		gshamlin89@gmail.com	2023	09HGO0589000	M	165.0-0007-0006.0
+14	Gwenyth R.A. Hooper	1 School Street, #102	2020	781-646-2543	gwen.hooper@comcast.net	2019			
+14	John F. Maher	990 Mass. Ave., #44	2020	781-589-1999	johnnycape@hotmail.com	2019	07MJN2746001	M	
+14	John F. Maher	990 Mass. Ave. #44	2024	781-589-1999	johnnycape@hotmail.com	2022	07MJN2746001	M	127.A-0002-0444.0
+14	John F. Maher	990 Mass. Ave. #44	2024	781-589-1999	johnnycape@hotmail.com	2023	07MJN2746001	M	127.A-0002-0444.0
+14	Joseph C. Tully 	329 Gray Street	2021	781-641-0466	jscltully@yahoo.com	2019			
+14	Mark B.  Rosenthal	62 Walnut Street	2026	781-956-1034	mbr@arlsoft.com	2023	02RMK1951000	M	141.0-0003-0019.0
+14	Mark B. Rosenthal	62 Walnut Street	2023	781-956-1034	mbr@arlsoft.com	2022	02RMK1951000	M	141.0-0003-0019.0
+14	Michael W. Stern	10 Farmer Road	2019	781-646-1865	mstern@massinvestor.com	2019	12SML2564000	M	149.0-0002-0004.0
+14	Michael W. Stern	10 Farmer Road	2024	781-646-1865	massinvestor@gmail.com	2022	12SML2564000	M	149.0-0002-0004.0
+14	Michael W. Stern	10 Farmer Road	2024	781-646-1865	massinvestor@gmail.com	2023	12SML2564000	M	149.0-0002-0004.0
+14	Richard B. Gallagher	29 Fessenden Road	2023	617-285-0986	rickgallagher1@comcast.net	2022	05GRD0460004	M	148.0-0002-0008.0
+14	Robert G. Hillis	17 Mt. Vernon St.	2020	781-646-2543	bobbyhillis38@gmail.com	2019			
+14	Wynelle A.  Evans	20 Orchard Place	2024	781-643-4547	evco7@rcn.com	2023	07EWE1155000	F	128.0-0003-0002.0
+14	Wynelle A. Evans	20 Orchard Place	2024	781-643-4547	evco7@rcn.com	2022	07EWE1155000	F	128.0-0003-0002.0
+15	Amy H. Speare	118 Ridge Street	2025	781-646-5417	amyhspeare@gmail.com	2022	12HAY0868000	F	074.0-0004-0002.0
+15	Amy H. Speare	118 Ridge Street	2025	781-646-5417	amyhspeare@gmail.com	2023	12HAY0868000	F	074.0-0004-0002.0
+15	Ann V. Fitzgerald	162 Summer Street #1	2023		annfitz@rcn.com	2022	05FAN1840000	F	068.A-0003-0001.0
+15	Ann V. Fitzgerald	162 Summer Street #1	2026		fitzgeraldavp15@gmail.com	2023	05FAN1840000	F	068.A-0003-0001.0
+15	Annie LaCourt	48 Chatham Street	2021	781-641-2918	annie@lacourt.net	2019	01LAE2958001	F	093.0-0007-0024.0
+15	Beth Ann Friedman	10 Hazel Terrace	2024	781-641-9935	bethann-friedman@comcast.net	2022	03FBH0650000	F	088.0-0002-0019.0
+15	BethAnn Friedman	10 Hazel Terrace	2024	781-641-9935	bethann-friedman@comcast.net	2023	03FBH0650000	F	088.0-0002-0019.0
+15	Carl Andrew Wagner	30 Edgehill Road	2023	781-648-7682	cawagnertmm15@outlook.com	2022	08WCL0869000	M	066.0-0001-0003.0
+15	Carl Andrew Wagner	30 Edgehill Road	2026	781-648-7682	cawagnertmm15@outlook.com	2023	08WCL0869000	M	066.0-0001-0003.0
+15	Christine C. Carney	98 Richfield Road	2025	781-844-3028	christinecarneypct15@gmail.com	2022	10CCE0567000	F	067.0-0004-0012.0
+15	Christine C. Carney	98 Richfield Road	2025	781-844-3028	christinecarneypct15@gmail.com	2023	10CCE0567000	F	067.0-0004-0012.0
+15	Christopher J. Heigham	82 Richfield Road	2024	781-641-1150	cheigham@comcast.net	2022	10HCR0465001	M	067.0-0003-0006.0
+15	Christopher J. Heigham	82 Richfield Road	2024	781-641-1150	cheigham@comcast.net	2023	10HCR0465001	M	067.0-0003-0006.0
+15	Engjellushe Kozeli Mozina	155 Summer Street	2023		ekozeli@gmail.com	2022	10MEE1976000	M?	067.A-0002-0006.0
+15	Engjellushe Kozeli Mozina	155 Summer Street	2025		ekozeli@gmail.com	2023	10MEE1976000	M?	067.A-0002-0006.0
+15	Frank J. Ciano	65 Woodside Lane	2020	617- 354-9400	frankiecboy@aol.com	2019	04CFK0848000	M	
+15	Frank J. Ciano	65 Woodside Lane	2023	617-968-7631	frankiecboy@aol.com	2022	04CFK0848000	M	088.0-0002-0015.0
+15	Frank J. Ciano	65 Woodside Lane	2026	617-968-7631	frankiecboy@aol.com	2023	04CFK0848000	M	088.0-0002-0015.0
+15	Greg Christiana	82 Ridge Street	2025	857-222-4299	maxuser@gmail.com	2022	08CGY3174001	M	065.0-0002-0015.A
+15	Gregory F Christiana	82 Ridge Street	2019		maxuser@gmail.com	2019	08CGY3174001	M	
+15	Jane Pierce Morgan	172 Brattle Street	2019	781-777-2776	janepmorgan@gmail.com	2019			
+15	Joseph A. Curro Jr	21 Millett Street	2021	781-641-4190	jcurro@alumni.tufts.edu	2019			
+15	Joseph W. Kerble	92 Morningside Drive	2020	781-643-5067	brotherslawn@hotmail.com	2019			
+15	Josephine Babiarz	59 Edgehill Road	2026		jobabiarz@gmail.com	2023	11BJE1351001	F	065.0-0002-0015.A
+15	Kirsi C. Allison-Ampe	2 Governor Road	2019	781-646-3948	kirsi@allisonampe.org	2019			
+15	Leba Heigham	82 Richfield Road	2025	617-538-1672	leba@alum.mit.edu	2022	03HLE3166002	F	067.0-0003-0006.0
+15	Leba Heigham	82 Richfield Road	2025	617-538-1672	leba@alum.mit.edu	2023	03HLE3166002	F	067.0-0003-0006.0
+15	Mary Ellen Bilafer	59 Cutter Hill Road	2024	781-648-7368	mebilafer@gmail.com	2022	05BMY1668000	F	066.0-0001-0011.0
+15	Mary Ellen Bilafer	59 Cutter Hill Road	2024	781-648-7368	mebilafer@gmail.com	2023	05BMY1668000	F	066.0-0001-0011.0
+15	Michele N. Desmond	31 Radcliffe Road	2024	617-974-1699	micheledesmond@msn.com	2022	12TME2667000	F	066.0-0001-0006.0
+15	Michele N. Desmond	31 Radcliffe Road	2024	617-974-1699	micheledesmond@msn.com	2023	12TME2667000	F	066.0-0001-0006.0
+15	Nancy A. Mara	63 Epping Street	2021	781-646-6156	librarianmara2gmail.com	2019			
+15	Peter A. Sweet	167 Woodside Lane	2020	781-646-8451	papapete01@gmail.com	2019			
+15	Richard C. Fanning	57 Yerxa Road	2021	781-648-1575	bdvm@verizon.net	2019			
+15	Virginia Harrington	10 Woodside Lane	2020	781-646-1909	vharrington13@gmail.com	2019			
+15	William J. Downing	24 Fabyan Street	2019	781-643-2508	downing.w@comcast.net	2019			
+16	Allen W. Reedy	153 Renfrew Street	2021	781-646-1936	aereedy@yahoo.com	2019			
+16	Alyssa Rosen Saunders	21 Oakland Avenue	2025		alyssa.rosen.saunders@gmail.com	2022	10RAA1783000	F	166.A-0002-0021.1
+16	Alyssa Rosen Saunders	21 Oakland Avenue	2025		alyssa.rosen.saunders@gmail.com	2023	10RAA1783000	F	166.A-0002-0021.1
+16	Andrew Brody	11 West Street	2023		andybrody@hotmail.com	2022	01BAW0101004	M	172.0-0009-0004.0
+16	Andrew Brody	11 West Street	2026		andybrody@hotmail.com	2023	01BAW0101004	M	172.0-0009-0004.0
+16	Andrew E. O'Brien	109 Hillside Avenue	2020	781-646-7155	andyob-anitav@rcn.com	2019			
+16	Barbara Thornton	223 Park Avenue	2021	617-699-2213	barbarathornton1@gmail.com	2019	10TBA0847001	F	
+16	Barbara Thornton	223 Park Avenue	2025	617-299-9865	BarbaraThornton1@gmail.com	2022	10TBA0847001	F	160.0-0001-0008.A
+16	Barbara Thornton	223 Park Avenue	2025	724-277-8845	BarbaraThornton1@gmail.com	2023	10TBA0847001	F	160.0-0001-0008.A
+16	Daniel F. B. Ruiz	144 Wollaston Avenue	2019	781-777-4044	daniel.fb.ruiz@gmail.com	2019			
+16	Deanna Graham	80 Hillside Avenue	2023		graham.deannam@gmail.com	2022	11GDA2767002	F	171.0-0004-0004.0
+16	Gina M.  Carme	55 Claremont Avenue	2026	781-799-2262	g_carme@yahoo.com	2023	12CGA0266000	F	171.0-0004-0004.0
+16	Holly Czapski	25 Ely Road	2021	781-643-0949	hollyczapski@yahoo.com	2019			
+16	Jamie Lloyd McSweeney	169 Park Avenue	2023	802-224-6888	ourecology@gmail.com	2022	03MJE3180001	F	167.0-0004-0007.0
+16	Jamie Lloyd McSweeney	169 Park Avenue	2026		JamesMcSArlington@gmail.com	2023	03MJE3180001	F	167.0-0004-0007.0
+16	John C. Weiss	237 Appleton Street	2019	781-643-8234	jcweiss@comcast.net	2019			
+16	Joseph Solomon	128 Appleton Street	2025		solomj@gmail.com	2022	05SJH0482000	M	167.0-0002-0026.0
+16	Joseph Solomon	128 Appleton Street	2025		solomj@gmail.com	2023	05SJH0482000	M	167.0-0002-0026.0
+16	Judith Ann Phelps	77 Oakland Avenue	2021	781-646-2575	JudieP77@aol.com	2019			
+16	Kevin P. Koch	100 Florence Avenue	2020	781-646-3696	kevinpkoch@gmail.com	2019	08KKN1952000	M	
+16	Kevin P. Koch	100 Florence Avenue	2023	781-646-3696	kevinpkoch@gmail.com	2022	08KKN1952000	M	160.0-0003-0023.0
+16	Kevin P. Koch	100 Florence Avenue	2026	781-646-3696	kevinpkoch@gmail.com	2023	08KKN1952000	M	160.0-0003-0023.0
+16	Lauren V. Boyle	28 Hillside Avenue	2019	781-777-4052	laurenvboyle@gmail.com	2019	01VLN3174000	F	
+16	Lauren V. Boyle	28 Hillside Avenue	2025	781-858-3523	laurenvboyle@gmail.com	2022	01VLN3174000	F	167.0-0003-0007.0
+16	Lauren V. Boyle	28 Hillside Avenue	2025	781-858-3523	laurenvboyle@gmail.com	2023	01VLN3174000	F	167.0-0003-0007.0
+16	Marvin Lewiton	18 West Street	2019	781-646-9608	mlewiton@yahoo.com	2019	12LMN0352000	M	
+16	Marvin Robert Lewiton	18 West Street	2024		mlewiton@yahoo.com	2022	12LMN0352000	M	169.0-0001-0003.0
+16	Marvin Robert Lewiton	18 West Street	2024		mlewiton@yahoo.com	2023	12LMN0352000	M	169.0-0001-0003.0
+16	Melanie Francis	35 Ashland Street #1	2024		melaniekfrancis@gmail.com	2022	11KME0175000	F	166.0-0001-0005.0
+16	Rev. Dr. Richard S. Phelps	77 Oakland Avenue	2020	781-646-2575	DickP77@aol.com	2019			
+16	Robert K. Garrity	275 Park Avenue	2020	781-367-9997		2019			
+16	Sandra M. Mostajo	191 Park Avenue	2024	781-608-8909	smostajo@yahoo.com	2022	08MSA0170001	F	160.0-0001-0001.0
+16	Sandra M. Mostajo	191 Park Avenue	2024	781-608-8909	smostajo@yahoo.com	2023	08MSA0170001	F	160.0-0001-0001.0
+16	William Brooks Harrelson	27 Ashland Street	2024	781-643-8696	brooks@harrelson.net	2022	01HRT1295000	M	166.0-0001-0004.0
+16	William Brooks Harrelson	27 Ashland Street	2024	781-643-8696	brooks@harrelson.net	2023	01HRT1295000	M	166.0-0001-0004.0
+17	Allan Tosti	1 Watermill Place #419	2025	781-820-1580	abtosti@outlook.com	2022	05TAN1546000	M	058.C-0001-0419.0
+17	Allan Tosti	1 Watermill Place #419	2025	781-820-1580	abtosti@outlook.com	2023	05TAN1546000	M	058.C-0001-0419.0
+17	Amy L. Slutzky	1 Watermill Place #407	2023	617-413-9405	amy.l.slutzky@gmail.com	2022	07SAY2153000	F	058.C-0001-0407.0
+17	Amy L. Slutzky	1 Watermill Place #407	2024	617-413-9405	amy.l.slutzky@gmail.com	2023	07SAY2153000	F	058.C-0001-0407.0
+17	Angela M. Olszewski	1 Watermill Place	2020	781-648-8649	aolszewski@alumnae.smith.edu	2019	08OAA0863000	F	
+17	Angela M. Olszewski	1 Watermill Place #428	2025	781-648-8649	amolszewski@gmail.com	2022	08OAA0863000	F	058.C-0001-0428.0
+17	Angela M. Olszewski	1 Watermill Place #428	2025	781-648-8649	amolszewski@gmail.com	2023	08OAA0863000	F	058.C-0001-0428.0
+17	Ann L. Smith	38 Washington Street	2021	781-648-1861	annsmth@aol.com	2019			
+17	Ann M. LeRoyer	12 Peirce Street	2019	781-646-7254	annleroyer12@gmail.com	2019	12LAN1645000	F	057.0-0004-0004.0
+17	Ann M. LeRoyer	12 Peirce Street	2024	781-646-7254	annleroyer12@gmail.com	2022	12LAN1645000	F	057.0-0004-0004.0
+17	Ann M. LeRoyer	12 Peirce Street	2024	781-646-7254	annleroyer12@gmail.com	2023	12LAN1645000	F	057.0-0004-0004.0
+17	Ann V. Fitzgerald	162 Summer Street, #1	2021	781-646-9711	annfitz@rcn.com	2019			
+17	Donnarose Russian	17 Laurel Street	2026	774-776-6777	donnaroserussian@yahoo.com	2023	08RDE2958000	F	056.0-0002-0029.0
+17	Gwendolyn A. Richter	12 Brattle Place	2023	781-643-0975	richterg@aol.com	2022	01RGN1160000	F	079.0-0004-0004.0
+17	Gwendolyn A. Richter	12 Brattle Place	2026	781-643-0975	richterg@aol.com	2023	01RGN1160000	F	079.0-0004-0004.0
+17	Hila Bernstein	214 1/2 Summer Street	2023		hila.bernstein@gmail.com	2022	05BHA2485001	F	079.0-0004-0008.A
+17	Hila Bernstein	214 1/2 Summer Street	2026		hila.bernstein@gmail.com	2023	05BHA2485001	F	079.0-0004-0008.A
+17	John R. Leonard	26 Grove Street, #10	2020	781-641-1183		2019			
+17	John V. Finochetti	55 Dudley Street	2020	781-646-4365		2019			
+17	Joseph J. Monju	8 Brattle Street	2021	978-760-0838	jmonju@msn.com	2019			
+17	Joshua W. Arnold	56 Bow Street	2024		josharnold52@gmail.com	2022	05AJA0271002	M	058.0-0004-0002.0
+17	Joshua W. Arnold	56 Bow Street	2024		josharnold52@gmail.com	2023	05AJA0271002	M	058.0-0004-0002.0
+17	Laura B. Gitelson	56 Bow Street	2024	646-279-3265	lbg217@gmail.com	2022	02GLA2175001	F	058.0-0004-0002.0
+17	Laura B. Gitelson	56 Bow Street	2024	646-279-3265	lbg217@gmail.com	2023	02GLA2175001	F	058.0-0004-0002.0
+17	Matthew J. Spencer	34 Clark Street, #6	2020	321-652-1138		2019		M	
+17	Michael J. Brown	10 Brattle Terrace	2019	781-648-1508	mjbrown246@gmail.com	2019	04BML0347000	M	
+17	Michael J. Brown	10 Brattle Terrace	2023	617-645-0226	mjbrown246@gmail.com	2022	04BML0347000	M	080.0-0006-0004.0
+17	Michael J. Brown	10 Brattle Terrace	2025	617-645-0226	mjbrown246@gmail.com	2023	04BML0347000	M	080.0-0006-0004.0
+17	Sandra M. Buck	28 Forest Street	2019	781-646-8026	sandybuck@rcn.com	2019		F	
+17	Sarah L. Burks	993 Mass. Avenue, #225	2021	603-930-6106	sarahburks@juno.com	2019		F	
+17	Susan D. Webber	1 Watermill Place #212	2025		sdwebber@rcn.com	2022	08WSN3144000	F	058.C-0001-0212.0
+17	Susan D. Webber	1 Watermill Place #212	2025		sdwebber@rcn.com	2023	08WSN3144000	F	058.C-0001-0212.0
+17	William K. Burke	2 Old Colony Lane, #3	2019	781-643-2643		2019		M	
+17	Xavid Pretzer	44 Grove Street	2023		xavid@xavid.us	2022	05PXD1186000	M	054.0-0001-0024.A
+17	Xavid Pretzer	44 Grove Street	2026	617-721-1720	xavid@xavid.us	2023	05PXD1186000	M	054.0-0001-0024.A
+18	Brian Terence White	21 Piedmont Street	2023	781-646-7213	brian.white@umb.edu	2022	03WBN2863000	M	175.0-0004-0006.0
+18	Brian Terence White	21 Piedmont Street	2026		brian.white@umb.edu	2023	03WBN2863000	M	175.0-0004-0006.0
+18	Carolyn M. Parsons	23 Brewster Road	2019	781-646-9309	carolynmparsons@msn.com	2019	11PCN2546000	F	
+18	Carolyn M. Parsons	23 Brewster Road	2023	781-646-9309	carolynmparsons@msn.com	2022	11PCN2546000	F	182.0-0008-0001.0
+18	Carolyn M. Parsons	23 Brewster Road	2026	781-646-9309	carolynmparsons@msn.com	2023	11PCN2546000	F	182.0-0008-0001.0
+18	Charles Reese Wescott	15 Kipling Road	2024		cwescott@alum.mit.edu	2022	12WCS1867000	M	184.0-0002-0006.0
+18	Charles Reese Wescott	15 Kipling Road	2024		cwescott@alum.mit.edu	2023	12WCS1867000	M	184.0-0002-0006.0
+18	David E. Hadley	202 Sylvia Street	2020	781-648-9278	hadleydavid@verizon.net	2019		M	
+18	David Levy	95 Rhinecliff Street	2025		david.jeffrey.levy@gmail.com	2022	07LDD1478000	M	168.0-0006-0003.0
+18	David Levy	95 Rhinecliff Street	2025		david.jeffrey.levy@gmail.com	2023	07LDD1478000	M	168.0-0006-0003.0
+18	Gilbert Irizarry	42 Standish Road	2019	781-643-1080	gil@conoa.com	2019	03IGT2867001	M	
+18	Gilbert Irizarry	42 Standish Road	2024	781-643-1080	gil@conoa.com	2022	03IGT2867001	M	182.0-0006-0005.0
+18	Gilbert Irizarry	42 Standish Road	2024	781-643-1080	gil@conoa.com	2023	03IGT2867001	M	182.0-0006-0005.0
+18	Heather Angelina Cooke	134 George Street	2023	508-965-3766	cookeha@gmail.com	2022	12CHR3181000	F	155.0-0003-0017.A
+18	Jamie Jacee Fisher	111 George Street	2024		jamiejacee@gmail.com	2022	05FJE1686003	F	157.0-0002-0007.0
+18	Jamie Jacee Fisher	111 George Street	2024		jamiejacee@gmail.com	2023	05FJE1686003	F	157.0-0002-0007.0
+18	John Richard Donato	16 Homer Road	2019	781-316-1966	donatojohn68@gmail.com 	2019		M	
+18	John V. Belskis	196 Wollaston Avenue	2021	781-641-1441	j.belskis@verizon.net	2019		M	
+18	John V. Hurd	242 Hillside Avenue	2025	781-953-0173	john@johnhurdlaw.com	2022	04HJN2283001	M	157.0-0009-0005.A
+18	John V. Hurd	242 Hillside Avenue	2025	781-953-0173	john@johnhurdlaw.com	2023	04HJN2283001	M	157.0-0009-0005.A
+18	Jon Gersh	24 Kipling Road	2020	339-368-0291	jon@planetbanjo.com	2019	09GJN2360002	M	
+18	Jon Gersh	24 Kipling Road	2024		jon@planetbanjo.com	2022	09GJN2360002	M	184.0-0006-0004.A
+18	Jon Gersh	24 Kipling Road	2024		jon@planetbanjo.com	2023	09GJN2360002	M	184.0-0006-0004.A
+18	Joseph A. Cusce Jr.	90 Hathaway Circle	2019	781-648-5094	jcusce@gmail.com	2019		M	
+18	Kevin Caniff	504 Appleton St.	2021			2019		M	
+18	Kristin Jeanne Greeley	283 Oakland Avenue	2025		kgreeley23@yahoo.com	2022	05GKN2373000	F	168.0-0005-0012.0
+18	Kristin Jeanne Greeley	283 Oakland Avenue	2025		kgreeley23@yahoo.com	2023	05GKN2373000	F	168.0-0005-0012.0
+18	Nancy Lehrman Bloom	169 Sylvia Street	2023		jandnbloom@gmail.com	2022	02BNY2660000	F	177.0-0002-0003.0
+18	Nancy Lehrman Bloom	169 Sylvia Street	2026		jandnbloom@gmail.com	2023	02BNY2660000	F	177.0-0002-0003.0
+18	Robert F. Meagher Jr.	14 Golden Avenue	2020	858-5964		2019		M	
+18	Sherley M. Caniff	71 Hathaway Circle	2021	781-864-0164	bcanniff@comcast.net	2019	10CSY0564000	F	
+18	Shirley M. Canniff	71 Hathaway Circle	2025		bcanniff@comcast.net	2022	10CSY0564000	F	185.A-0002-0012.0
+18	Shirley M. Canniff	71 Hathaway Circle	2025		bcanniff@comcast.net	2023	10CSY0564000	F	185.A-0002-0012.0
+18	Steven Moore	18 Piedmont Street	2026	781-648-2479	sbm451@gmail.com	2023	02MSN2157003	M	177.0-0009-0015.0
+18	Tarantino, Michael F.		2020		mike@tarantino-ins-agency.com	2019		M	
+18	William J. Ford	6 Mayflower Road	2021	781-648-0143	shamchip@gmail.com	2019		M	
+19	Brian P. Foran	5 Reed Street	2020	859-8643		2019		M	
+19	Christine P. Deshler	65 Huntington Road	2020	781-641-4830	christinepdeshler@hotmail.com	2019	10DCE1060001	F	
+19	Christine P. Deshler	65 Huntington Road	2024	781-641-4830	christinepdeshler@hotmail.com	2022	10DCE1060001	F	113.0-0001-0027.0
+19	Christine P. Deshler	65 Huntington Road	2024	781-641-4830	christinepdeshler@hotmail.com	2023	10DCE1060001	F	113.0-0001-0027.0
+19	Christopher K Gray.	6 Peter Tufts Road	2019	781-645-6076	christophergray29@gmail.com	2019		M	
+19	Claire Johnson	84 Wright Street	2024		clairejohnsontmm@gmail.com	2022	03JCE2674000	F	116.0-0005-0005.A
+19	Claire Johnson	84 Wright Street	2024		clairejohnsontmm@gmail.com	2023	03JCE2674000	F	116.0-0005-0005.A
+19	Deborah Sirotkin Butler	19 Overlook Road	2021	781-646-8204	amberpaw@gmail.com	2019		F	
+19	Doralee Fleurant-Heurtelou	133 Newland Street	2024	857-701-6011	doraleeh1@gmail.com	2022	10FDE2601000	F	113.0-0005-0013.0
+19	Doralee Fleurant-Heurtelou	133 Newland Street	2024	857-701-6011	doraleeh1@gmail.com	2023	10FDE2601000	F	113.0-0005-0013.0
+19	Edward D. Trembly	76 Wright Street	2020	781-643-6619	edandbetty86@yahoo.com	2019	05TED1756001	M	
+19	Edward Trembly	76 Wright Street	2026	781-643-6619	edwardtremblyprecinct19@gmail.com	2023	05TED1756001	M	116.0-0005-0007.0
+19	Elaine M. Crowder	2 Glenbrook Lane, #17	2023		elaine-tmm19@communication-exchange.com	2022	07CEE2453000	F	081.A-0001-0017.0
+19	Elaine M. Crowder	2 Glenbrook Lane, #17	2026		elaine-tmm19@communication-exchange.com	2023	07CEE2453000	F	081.A-0001-0017.0
+19	Flynn C. Monks	14 Wright Street	2025		precinct19fcm@gmail.com	2022	08MFN1565001	M	111.0-0005-0004.0
+19	Flynn C. Monks	14 Wright Street	2025	81-643-6619	precinct19fcm@gmail.com	2023	08MFN1565001	M	111.0-0005-0004.0
+19	Flynn C.Monks	14 Wright Street	2021	781-777-2646	monks.flynn@gmail.com	2019	08MFN1565001	M	
+19	Ines Montserr Zuckerman	4 Gay Street	2025	781-648-4347	mzuckerman51@gmail.com	2022	09HIS3051000	F	114.0-0006-0019.A
+19	James M. O’Conor	63 Overlook Road	2020	781-646-8687	tmm19.joconor@gmail.com	2019		M	
+19	John F. Broughall III	101 Wright Street	2021	781-641-2649	wrightconstruction1@hotmail.com	2019		M	
+19	John Hickman	63 Dothan Street	2026	781-648-5431	jwh54@rcn.com	2023	06HJN2354001	M	117.0-0001-0004.0
+19	John J. Dunn Jr.	36 Aerial Street	2019	781-648-2130	kjndunn@aol.com 	2019		M	
+19	Leo F. Doherty Jr.	8 Gay Street	2019	781-646-3827	lfdoherty@aol.com	2019		M	
+19	Marlene A. Silva	116 Newland Road	2023	781-290-8432	marlenesilva.dem@gmail.com	2022	01SME1664002	F	113.0-0004-0011.0
+19	Matthew Stephen Owen	164 Forest Street	2025		mattowentmm@gmail.com	2022	04OMW0884000	M	094.0-0006-0003.0
+19	Matthew Stephen Owen	164 Forest Street	2025		mattowentmm@gmail.com	2023	04OMW0884000	M	094.0-0006-0003.0
+19	Melanie C. Brown	14 Skyline Drive	2023		melb.tmm419@gmail.com	2022	07BME2068000	F	112.0-0007-0003.0
+19	Melanie C. Brown	14 Skyline Drive	2026		melb.tmm419@gmail.com	2023	07BME2068000	F	112.0-0007-0003.0
+19	Michelle M. Durocher	65 Huntington Road	2021	781-641-4830	michellemdurocher@hotmail.com	2019		F	
+19	Montserrat Zuckerman	4 Gay Street	2025	781-648-4347	mzuckerman51@gmail.com	2023	09HIS3051000	F	114.0-0006-0019.A
+19	Neva Corbo-Hudak	100 Overlook Road	2024	585-507-7452	nevach@gmail.com	2022	09CNA2676001	F	093.0-0002-0013.0
+19	Neva Corbo-Hudak	100 Overlook Road	2024	585-507-7452	nevach@gmail.com	2023	09CNA2676001	F	093.0-0002-0013.0
+19	Robert Hutchinson	28 Thesda Street	2019	781-354-0928	dotnbob2@verizon.net	2019		M	
+19	Susan Ryan-Vollmar	67 Overlook Road	2025		susanryanvollmar@gmail.com	2022	09RSN1664005	F	093.0-0004-0009.0
+19	Susan Ryan-Vollmar	67 Overlook Road	2025		susanryanvollmar@gmail.com	2023	09RSN1664005	F	093.0-0004-0009.0
+20	Adam Auster	29 Lanark Road	2026		adam.auster.arlington@gmail.com	2023	06AAM0955000	M	172.0-0003-0014.A
+20	Camilla B. Haase	88 Park Avenue, #401	2020	781-643-3429		2019		F	
+20	Curtis A. Connors	46 Tanager Street	2021	781-643-0773	curtconnors@hotmail.com	2019		M	
+20	Curtis Alan Connors	46 Tanager Street	2025	617-852-2023	curtconnors@hotmail.com	2022	10CCS1668002	M	172.0-0011-0007.A
+20	Curtis Alan Connors	46 Tanager Street	2025	617-852-2023	curtconnors@hotmail.com	2023	10CCS1668002	M	172.0-0011-0007.A
+20	Dean E. Carman	29 Kilsythe Road	2020	617-842-8050	dean.carman@verizon.net	2019	06CDN2577001	M	174.0-0010-0006.0
+20	Dean E. Carman	29 Kilsythe Road	2024	617-842-8050	dean.carman@verizon.net	2022	06CDN2577001	M	174.0-0010-0006.0
+20	Dean E. Carman	29 Kilsythe Road	2024	617-842-8050	dean.carman@verizon.net	2023	06CDN2577001	M	174.0-0010-0006.0
+20	Katharine M. Radville	106 Paul Revere Road	2023	671-365-5501	kateradville@gmail.com	2022	09RKE1082000	F	173.0-0001-0007.0
+20	Katherine Norian Loosian	39 Inverness Road	2019	781-643-1021	kateloosian@verizon.net	2019		F	
+20	Kristin A. Pennarun	1261 Mass. Ave., #2	2023		kpennarunarlingtonma@gmail.com	2022	02PKN0179000	F	165.A-0006-0002.0
+20	Kristin Angelica Pennarun	1261 Mass. Ave., #2	2026		kpennarunarlingtonma@gmail.com	2023	02PKN0179000	F	165.A-0006-0002.0
+20	Leonard J. Kardon	65 Tanager Street	2021	781-316-1812	len.kardon@gmail.com	2019		M	
+20	Martha I. Scott	1 Arnold Road	2019	781-646-3119	marthascott88@yahoo.com	2019		F	
+20	Martin Heermance	14 Selkirk Road	2026	781-641-2974	mheermance@gmail.com	2023	02HMN2865001	M	176.0-0004-0014.0
+20	Maureen E. Gormley	1250 Massachusetts Avenue	2019	781-643-9433	megdc@aol.com	2019	01GMN2360000	F	
+20	Maureen E. Gormley	1250 Mass. Avenue	2023	781-641-9433	megdc@aol.com	2022	01GMN2360000	F	165.0-0005-0010.A
+20	Maureen E. Gormley	1250 Mass. Avenue	2026	781-641-9433	megdc@aol.com	2023	01GMN2360000	F	165.0-0005-0010.A
+20	Maureen O’Connell Larkin	31 Inverness Road	2019	781-316-2718	molarkin52@gmail.com	2019		F	
+20	Michaela C. Klughaupt-May	29 Aberdeen Road	2025	617-863-6529	michaela.may@gmail.com	2022	02KEA2081002	F	174.0-0011-0004.0
+20	Michaela C. May	29 Aberdeen Road	2021		michaela.may@gmail.com	2019	02KEA2081002	F	
+20	Michaela C. May-Klughaupt	29 Aberdeen Road	2025	617-863-6529	michaela.may@gmail.com	2023	02KEA2081002	F	174.0-0011-0004.0
+20	Nora J. Mann	45 Wollaston Avenue	2025	339-368-0495	njmann1958@gmail.com	2022	07MNA0558000	F	173.0-0006-0010.0
+20	Nora J. Mann	45 Wollaston Avenue	2025	339-368-0495	njmann1958@gmail.com	2023	07MNA0558000	F	173.0-0006-0010.0
+20	Patricia Muldoon	67 Smith Street	2023		muldoonptmm20@gmail.com	2022	01MPA0656001	F	176.0-0008-0020.B
+20	Peter T. Fuller	7 Kilsythe Road	2020	781-643-7953	pfuller7K@gmail.com	2019	05FPR0251000	M	
+20	Peter T. Fuller	7 Kilsythe Road	2024		pfuller7K@gmail.com	2022	05FPR0251000	M	172.0-0005-0008.0
+20	Peter T. Fuller	7 Kilsythe Road	2024		pfuller7K@gmail.com	2023	05FPR0251000	M	172.0-0005-0008.0
+20	Raymond M. Bloom	90 Sylvia Street	2021	781-641-7074	RMBloom_ArlTMM@comcast.net	2019		M	
+20	Robert L. Tosi Jr.	14 Inverness Road	2020	781-46-8120	bobtosi@verizon.net	2019	10TRT0267001	M	
+20	Robert L. Tosi Jr.	14 Inverness Road	2024	857-998-0446	bobtosi@verizon.net	2022	10TRT0267001	M	172.0-0006-0006.0
+20	Robert L. Tosi Jr.	14 Inverness Road	2024	857-998-0446	bobtosi@verizon.net	2023	10TRT0267001	M	172.0-0006-0006.0
+20	Samantha R. Dutra	69 Appleton Street	2025		sdutra@samanthadutrallc.com	2022	11DSA1885000	F	165.0-0005-0018.0
+20	Samantha R. Dutra	69  Appleton Street	2025		sdutra@samanthadutrallc.com	2023	11DSA1885000	F	165.0-0005-0018.0
+20	Sarah Doyle McKinnon	10 Kilsythe Road	2024	603-443-7146	smckinnonarl@gmail.com	2022	12MSH2673000	F	172.0-0004-0004.A
+20	Sarah Doyle McKinnon	10 Kilsythe Road	2024	603-443-7146	smckinnonarl@gmail.com	2023	12MSH2673000	F	172.0-0004-0004.A
+21	Anne T. Ehlert	156 Westminster Avenue	2024	781-641-0988	Annee319@aol.com	2022	03EAE1959000	F	086.0-0005-0007.0
+21	Anne T. Ehlert	156 Westminster Avenue	2024	781-641-0988	annee319@gmail.com	2023	03EAE1959000	F	086.0-0005-0007.0
+21	Carmine Arthur Granucci	16 Nourse Street	2024	617-992-8567	carmine.granucci@gmail.com	2022	06GCE0276000	F	060.A-0004-0016.0
+21	Carmine Arthur Granucci	16 Nourse Street	2024	617-992-8567	carmine.granucci@gmail.com	2023	06GCE0276000	F	060.A-0004-0016.0
+21	Christopher R. Rowell	88 Westminster Avenue	2023		chrisrowell5@hotmail.com	2022	08RCR1880000	M	085.0-0004-0002.0
+21	Christopher R. Rowell	88 Westminster Avenue	2026		chrisrowell5@hotmail.com	2023	08RCR1880000	M	085.0-0004-0002.0
+21	Daniel J. Dunn	58 Alpine Street	2021	617-710-4081	dunster@dandunn.org	2019	03DDL3172000	M	
+21	Daniel J. Dunn	58 Alpine Street	2023	617-710-4081	dunster@dandunn.org	2022	03DDL3172000	M	083.0-0002-0006.0
+21	Daniel J. Dunn	58 Alpine Street	2025	617-710-4081	dunster@dandunn.org	2023	03DDL3172000	M	083.0-0002-0006.0
+21	David E. White	55 Bow Street, #1	2021	781-646-3760	dwhite@gilbertwhite.com	2019	10WDD0244000	M	
+21	David E. White	55 Bow Street #2	2025		david.white@arlingtontmm.org	2022	10WDD0244000	M	058.0-0002-0006.0
+21	David E. White	55 Bow Street #2	2025		david.white@arlingtontmm.org	2023	10WDD0244000	M	058.0-0002-0006.0
+21	Elizabeth Benedikt	7 Morris Street	2023		bethb94121@gmail.com	2022	08BEH1262001	F	083.0-0006-0003.0
+21	Elizabeth Benedikt	7 Morris Street	2026		bethb94121@gmail.com	2023	08BEH1262001	F	083.0-0006-0003.0
+21	Janice A. Weber	29 Crescent Hill Avenue	2024		jweber@town.arlington.ma.us	2022	05WJE1045000	F	085.0-0006-0018.0
+21	Janice A. Weber	29 Crescent Hill Avenue	2024		jweber@town.arlington.ma.us	2023	05WJE1045000	F	085.0-0006-0018.0
+21	Janice A. Weber 	29 Crescent Hill Avenue	2020	781-771-3713	jweber@town.arlington.ma.us	2019	05WJE1045000	F	
+21	Jason W. Martin	70 Alpine Street	2025	617-996-5871	jwmartin@gmail.com	2022	02MJN2577001	M	083.0-0002-0009.0
+21	Jason W. Martin	70 Alpine Street	2025	617-996-5871	jwmartin@gmail.com	2023	02MJN2577001	M	083.0-0002-0009.0
+21	Jeffrey K. Boudreau	61 Crescent Hill Avenue	2020	413-658-4585	jeffboudreautmm21@gmail.com	2019		M	
+21	Jill Kristin Krajewski	56 A Montague Street	2026	508-813-3653	jill.krajewski.arlington@gmail.com	2023	05SJL1580000	F	109.A-0006-0056.A
+21	John T. Canaday	269 Lowell Street	2020	781-646-0279	mail4canaday@gmail.com	2019		M	
+21	Jordan E. Weinstein	23 Lennon Road	2023		jordanweinstein@rcn.com	2022	04WJN1549000	M	082.0-0006-0003.0
+21	Jordan E. Weinstein	23 Lennon Road	2026	781-316-8649	jordan3weinstein@gmail.com	2023	04WJN1549000	M	082.0-0006-0003.0
+21	Leanna Fitzgerald	64 Westminster Avenue	2019	781-648-2371	ltfitz@comcast.net	2019		F	
+21	Leslie A. Mayer	131 Crescent Hill Avenue	2021	781-648-8964	blmayer@msn.com 	2019		F	
+21	Lori Leahy	53 Westmoreland Avenue	2024	617-460-6311	loribleahy@gmail.com	2022	03LLI1666000	F	085.0-0005-0005.0
+21	Lori Leahy	53 Westmoreland Avenue	2024	617-460-6311	loribleahy@gmail.com	2023	03LLI1666000	F	085.0-0005-0005.0
+21	M. Pamela Hallett	1 Gilboa Road	2020	773-406-5963	phallett@housingcorparlington.org	2019		F	
+21	Max Goldberg	157 Westminster Avenue	2023	617-852-0959	mgoldberg.arlington@gmail.com	2022	11GMX2682000	M	086.A-0004-0157.0
+21	Micah B. Trembly	41 Park Ave. Ext., Apt. #2	2019		micah.trembly@gmail.com	2019		M	
+21	Susan R. Doctrow	99 Westminster Avenue	2021	781-643-0595	sdoctrowarltm@gmail.com	2019	10DSN2656002	F	
+21	Susan R. Doctrow	99 Westminster Avenue	2025	781-641-0595	sdoctrowarltm@gmail.com	2022	10DSN2656002	F	085.0-0005-0016.0
+21	Susan R. Doctrow	99 Westminster Avenue	2025		sdoctrowarltm@gmail.com	2023	10DSN2656002	F	085.0-0005-0016.0
+21	Walter C. Phillips	2 Crescent Hill Avenue	2019	781-646-8491	walterphillips@comcast.net	2019		M	
+21	Zarina G. Memon	15 Sunset Road	2019	781-648-2307	zgmemon@yahoo.com	2019		F	
