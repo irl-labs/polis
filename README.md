@@ -21,24 +21,20 @@ All datasets have a defined source; for example a spreadsheet link or url of the
 <summary>
 
 ## Help
-</summary>
-<details>
-<summary>
+</summary><details><summary>
 
 #### Overview
 </summary>
 
 https://github.com/irl-labs/polis/assets/128169128/f4148e6a-ff7d-44e9-a99c-850fc002d8b8
-</details>
-
-<details>
-<summary>
+</details><details><summary>
 
 #### Tables
 </summary>
 
 https://github.com/irl-labs/polis/assets/128169128/c0beb590-734b-4753-8f54-96b761a9d608
 </details>
+
 </details>
 
 ### Architecture
