@@ -17,10 +17,24 @@ Our philosophy around public and private data revolves around some simple guidel
 
 All datasets have a defined source; for example a spreadsheet link or url of the public record keeper.  We minimize changes to source data using it *as is* with some notable exceptions.
 
+<details>
+<summary>
+
 ## Overview
+</summary>
 
 https://github.com/irl-labs/polis/assets/128169128/f4148e6a-ff7d-44e9-a99c-850fc002d8b8
 
+</details>
+
+<details>
+<summary>
+
+## Tables Help
+</summary>
+
+
+</details>
 
 ### Architecture
 
