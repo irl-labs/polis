@@ -4,7 +4,7 @@ Polis is a tool that organizes public and private data through a scalable, norma
 
 ## Highlights
 
-https://raw.githubusercontent.com/irl-labs/polis/main/highlights.mp4
+[![highlights]](https://raw.githubusercontent.com/irl-labs/polis/main/highlights.mp4)
 
 
 ## Description
