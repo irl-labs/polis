@@ -1,3 +1,7 @@
+# emacs backups
+###############
+*~
+
 # juypter notebook checkpoints
 ##############################
 .ipynb_checkpoints
