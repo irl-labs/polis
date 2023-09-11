@@ -2,12 +2,6 @@
 
 Polis is a tool that organizes public and private data through a scalable, normalized database and viewing portal.  Data brokers monetize public data, we seek to drive that value to zero in the context of sovereign data principles.  This is your information, use it wisely.
 
-## Video
-
-[![Highlights](https://raw.githubusercontent.com/irl-labs/polis/blob/main/assets/img/polis.png)](https://raw.githubusercontent.com/irl-labs/polis/main/highlights.mp4)
-
-
-
 ## Description
 
 Polis means city ([πόλις](https://en.wikipedia.org/wiki/Polis)) or more broadly a community.  Paraphrasing [Edith Hamilton](https://en.wikipedia.org/wiki/Edith_Hamilton), when two or more people come together, they form a ***polis***.
@@ -22,6 +16,10 @@ Our philosophy around public and private data revolves around some simple guidel
     4. data sovereignity
 
 All datasets have a defined source; for example a spreadsheet link or url of the public record keeper.  We minimize changes to source data using it *as is* with some notable exceptions.
+
+## Overview
+
+https://github.com/irl-labs/polis/assets/128169128/f4148e6a-ff7d-44e9-a99c-850fc002d8b8
 
 
 ### Architecture
