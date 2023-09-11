@@ -2,8 +2,8 @@
 
 <summary>Zoning Board of Appeals - September 5, 2023</summary>
 
-[Video](https://www.youtube.com/watch?v=dQxZ27eVZWs)
-[Agenda](https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=1900&MinutesMeetingID=-1&doctype=Agenda)
+	* [Video](https://www.youtube.com/watch?v=dQxZ27eVZWs)   
+	* [Agenda](https://arlington.novusagenda.com/agendapublic/MeetingView.aspx?MeetingID=1900&MinutesMeetingID=-1&doctype=Agenda)
 
 <details>
 
@@ -31,7 +31,7 @@ Tonight there's nobody appearing for anybody else because this is a deliberation
 
 <details>
 
-<summary>Patrick Hanlon<summary>
+<summary>Patrick Hanlon</summary>
 
 There's only one matter on our agenda tonight, as I indicated before, and that is the beginning of the deliberation session on 10 Sunnyside Avenue. So at the outset, I'd like to review with you what I am hoping to do tonight in terms of our procedure. By now, you all have and soon when we share the screen, Christian will put up on the screen a draft with lots and lots of comments and corrections and additions and even some subtractions of the opinion that was prepared by Paul Haverty in August. This will be our basic text and we'll be marking up this text over the course of this evening and probably Tuesday evening next week. I'd like to start at the beginning and then in a very non-Aristotelian way, skip over to the end. So after we do the facts, skip to the waivers, which are a big part of what ultimately we will do, and then go back and go through the conditions. I'm anticipating that this will take at least the two meetings that we have scheduled. I'm hoping it's only those two meetings. I know there are some things that we're going to take a little bit of extra time to work out, but I'd like to get as far tonight as we can. At this point, I'd like to sort of have as a general guideline that we'll aim for about two hours. So that'll take us until 9.35, which is two hours from now. That's sort of a soft stop, so we could go on a little bit after that. But your ability to process all this begins to decline a little bit after a couple of hours, and so it would be probably worthwhile to pace ourselves this time. I'm hoping that it will take no more than two hours to do the whole thing. So at this point, let me pause, and if there are any questions or suggestions, I'd like to hear them. And if not, we might be at the point where Christian should share his screen. My understanding is that all of you have or have access to or have received a copy of the opinion that we'll be working with, so that you can skip around in that even if Christian isn't actually showing it at the time. So that's where we'll go. Again, let me see if there are any questions or anything further that I ought to explain or that you want to explain to me. I would just ask Colleen if she could make me a co-host. All right, then. So Christian, I think this would be a time for... Perfect.
 
