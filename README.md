@@ -1,4 +1,4 @@
-# [Polis](https://gitlab.com/irl-labs1/polis)
+# [Polis](https://github.com/irl-labs/polis)
 
 Polis is a tool that organizes public and private data through a scalable, normalized database and viewing portal.  Data brokers monetize public data, we seek to drive that value to zero in the context of sovereign data principles.  This is your information, use it wisely.
 
@@ -49,12 +49,14 @@ https://github.com/irl-labs/polis/assets/128169128/f4148e6a-ff7d-44e9-a99c-850fc
 </details><details><summary>
 
 #### Tables
+A tutorial of the table features including filtering, sorting and exporting.
 </summary>
 
 https://github.com/irl-labs/polis/assets/128169128/c0beb590-734b-4753-8f54-96b761a9d608
 </details><details><summary>
 
 #### Table Highlights
+Quick tour of the different tables available.
 </summary>
 
 https://github.com/irl-labs/polis/assets/128169128/42c30b84-812b-49db-8327-2c137b45534d
@@ -62,7 +64,7 @@ https://github.com/irl-labs/polis/assets/128169128/42c30b84-812b-49db-8327-2c137
 </details><details><summary>
 
 #### Tour
-Longer form tour highlight many of the features found in **Polis**.
+Longer form tour highlighting many of the features found in **Polis**.
 </summary>
 
 [![Tour](./assets/img/polis.png)](https://player.vimeo.com/video/863330660)
