@@ -17,11 +17,30 @@ Our philosophy around public and private data revolves around some simple guidel
 
 All datasets have a defined source; for example a spreadsheet link or url of the public record keeper.  We minimize changes to source data using it *as is* with some notable exceptions.
 
-<details>
-<summary>
+## Dashboard
 
+The ***polis*** dashboard is written in python using the Dash and plotly packages; an easy to implement proof of concept.  [Contributions](CONTRIBUTING.md) for a more robust, better stylized front end are needed.
+
+![Polis](./assets/img/polis.png)
+
+People, Property, Governance and Infrastructure (PPT) form the top level data heirarchy on the polis dashboard NavBar.
+
+Each PPT has several data sets corresponding to different data sources; e.g. real estate **sales** falls under **property** with data source [LA3 parcels](https://dlsgateway.dor.state.ma.us/gateway/DLSPublic/ParcelSearch).
+
+Each data set has three tabs; *tables*, *charts*, *maps*  on the control panel.  
+
+Data sets with periodic (annual, quarterly) updates are selected using a date slider beneath the NavBar.
+
+Select from a variety of views, groups and metrics from the control panel to the left.
+
+Content views are either a dash [Graph figure](https://dash.plotly.com/dash-core-components/graph), [mapbox Map](https://plotly.com/python/scattermapbox/) or [dashTable](https://dash.plotly.com/datatable).
+
+<details><summary>
+    
 ## Help
-</summary><details><summary>
+
+Below are short videos highlighting some of the features found in **Polis**.
+</summary><details open><summary>
 
 #### Overview
 </summary>
@@ -35,10 +54,19 @@ https://github.com/irl-labs/polis/assets/128169128/f4148e6a-ff7d-44e9-a99c-850fc
 https://github.com/irl-labs/polis/assets/128169128/c0beb590-734b-4753-8f54-96b761a9d608
 </details><details><summary>
 
-#### Highlights
+#### Table Highlights
+</summary>
+
+https://github.com/irl-labs/polis/assets/128169128/42c30b84-812b-49db-8327-2c137b45534d
+
+</details><details><summary>
+
+#### Tour
+Longer form tour highlight many of the features found in **Polis**.
 </summary>
 
 [![Tour](./assets/img/polis.png)](https://player.vimeo.com/video/863330660)
+</details>
 
 </details>
 
@@ -76,27 +104,6 @@ Two additional tables contain the attributes of each people_id (name, dob, addre
 In our example of ArlingtonMA through 2023 and 135 observations of 3 types of activity (elections, census, voter rolls) over a 20 year period, there are 90,000+ different individuals with over 30,000 different addresses in about 15,000 different tax parcels.  The 30,000 different addresses reflect the actual address recorded at each election or census recording which are stored on an *as-was* basis.
 
 Not only does this condense the data for better network traffic performance, but allows for masking personally identifiable information (name, dob) at scale.
-
-
-
-## Dashboard
-
-![Polis](./assets/img/polis.png)
-
-The ***polis*** dashboard is written in python using the Dash and plotly packages; an easy to implement proof of concept.  [Contributions](CONTRIBUTING.md) for a more robust, better stylized front end are needed.
-
-People, Property, Governance and Infrastructure (PPT) form the top level data heirarchy on the polis dashboard NavBar.
-
-Each PPT has several data sets corresponding to different data sources; e.g. real estate **sales** falls under **property** with data source [LA3 parcels](https://dlsgateway.dor.state.ma.us/gateway/DLSPublic/ParcelSearch).
-
-Each data set has three tabs; *tables*, *charts*, *maps*  on the control panel.  
-
-Data sets with periodic (annual, quarterly) updates are selected using a date slider beneath the NavBar.
-
-Select from a variety of views, groups and metrics from the control panel to the left.
-
-Content views are either a dash [Graph figure](https://dash.plotly.com/dash-core-components/graph), [mapbox Map](https://plotly.com/python/scattermapbox/) or [dashTable](https://dash.plotly.com/datatable).
-
 
 ## Postgres
 
