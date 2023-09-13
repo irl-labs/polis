@@ -55,6 +55,13 @@ A tutorial of the table features including filtering, sorting and exporting.
 https://github.com/irl-labs/polis/assets/128169128/c0beb590-734b-4753-8f54-96b761a9d608
 </details><details><summary>
 
+#### Datasets
+A tour of the available datasets.
+</summary>
+
+[![Datasets](./assets/img/SALES%20box.png)](https://youtu.be/HlFXsiOEt_M)
+</details><details><summary>
+
 #### Table Highlights
 Quick tour of the different tables available.
 </summary>
