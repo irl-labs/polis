@@ -21,7 +21,13 @@ def boxplot ( df : pd . DataFrame , params : dict  ) -> px . box :
         yaxis_title=params['y'],
         legend_title=params["color"],
         autosize  =  True,
-        margin    = {"r":20,"t":25,"l":0,"b":0}
+        margin    = {"r":20,"t":25,"l":0,"b":0},
+        font=dict(
+            #family="Courier New, monospace",
+            family="Roboto",
+            size=16,  # Set the font size here
+            color="Black"
+        )
     )
 
     if 'traces_visible' in params:
@@ -105,7 +111,7 @@ def line_chart (
         markers=True,
         category_orders  =  {
             params['color']: list(df[params['color']].sort_values().unique())
-        },
+        }
     )
 
     ##grey out all traces except params traces_visible
@@ -119,7 +125,13 @@ def line_chart (
 
     ## provide room at top of graph-display for dash figure toolbar
     fig.update_layout(  autosize  =  True,
-                        margin    = {"r":20,"t":25,"l":0,"b":0}
+                        margin    = {"r":20,"t":25,"l":0,"b":0},
+                        font=dict(
+                            #family="Courier New, monospace",
+                            family="Roboto",
+                            size=16,  # Set the font size here
+                            color="Black"
+                        )
     )
 
     ##wrap trace names for graph-display size consistency
@@ -128,7 +140,18 @@ def line_chart (
             name = '<br>'.join(textwrap.wrap(trace.name, width=25))
         )
     )
-        
+    
+    fig.update_traces(
+        line=dict(width=3),
+        marker=dict(
+            size=12,
+            line=dict(
+                width=2,
+                color='DarkSlateGrey')
+        )
+        #selector=dict(mode='markers')
+    )
+    
     return fig
 
 
@@ -222,7 +245,13 @@ def histogram ( df : pd . DataFrame , params : dict  ) -> px . histogram :
 
     fig.update_layout (
         autosize  =  True,
-        margin    = {"r":20,"t":25,"l":0,"b":0}
+        margin    = {"r":20,"t":25,"l":0,"b":0},
+        font=dict(
+            #family="Courier New, monospace",
+            family="Roboto",
+            size=16,  # Set the font size here
+            color="Black"
+        )
     )
     
     fig . for_each_trace (
@@ -257,16 +286,37 @@ def scatter_chart ( x : pd . DataFrame , y : pd . DataFrame,
     y1 = y[y.municipality==municipality]['value'].values
     
     ##need to add customdata to star marker for timeseries to trigger on hoverData
+    
+    #fig.update_layout(showlegend=False,height=600)
+    fig.update_traces(
+        line=dict(width=3),
+        marker=dict(
+            size=12,
+            line=dict(
+                width=2,
+                color='DarkSlateGrey')
+        )
+    )
+
     fig.add_trace(go.Scatter(x=x1, y=y1, mode = 'markers',
                              marker_symbol = 'star',
-                             marker_size = 15))
-    fig.update_layout(showlegend=False)
+                             marker_size = 20))
     
     fig.update_xaxes(title=xaxis_column_name, type='linear' if xaxis_type == 'Linear' else 'log')
     
     fig.update_yaxes(title=yaxis_column_name, type='linear' if yaxis_type == 'Linear' else 'log')
     
-    fig.update_layout(margin={'l': 40, 'b': 40, 't': 10, 'r': 0}, hovermode='closest')
+    fig.update_layout(
+        showlegend=False,
+        height=600,
+        margin    = {"r":20,"t":25,"l":0,"b":0},
+        hovermode='closest',
+        font=dict(
+            family="Roboto",
+            size=16,  # Set the font size here
+            color="Black"
+        )
+    )
     
     return fig
 
@@ -278,6 +328,16 @@ def create_time_series(dff, axis_type, title):
     fig = px.scatter(dff, x='year', y='value')
     
     fig.update_traces(mode='lines+markers')
+
+    fig.update_traces(
+        line=dict(width=3),
+        marker=dict(
+            size=12,
+            line=dict(
+                width=2,
+                color='DarkSlateGrey')
+        )
+    )
     
     fig.update_xaxes(showgrid=False)
     
@@ -287,7 +347,11 @@ def create_time_series(dff, axis_type, title):
                        xref='paper', yref='paper', showarrow=False, align='left',
                        text=title)
     
-    fig.update_layout(height=225, margin={'l': 20, 'b': 30, 'r': 10, 't': 10})
+    fig.update_layout(
+        #height=225,
+        height=300,
+        margin={'l': 20, 'b': 30, 'r': 10, 't': 10}        
+    )
     
     return fig
 
