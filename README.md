@@ -118,7 +118,7 @@ Not only does this condense the data for better network traffic performance, but
 
 We use the open source [postgres](https://www.postgresql.org/) database for its geometry ([postgis](https://postgis.net/)) support and [decimal](https://www.postgresql.org/docs/9.4/datatype-numeric.html) data types.  Other database implementations are possible.
 
-The dashboard connects directly to a containerized (docker) postgres database.  An api interface would create a more robust front-end implementation but also expand the user base to a wider audience.  [Contributions](Contributing.md) are welcome.
+The dashboard connects directly to a containerized (docker) postgres database.  An api interface would create a more robust front-end implementation but also expand the user base to a wider audience.  [Contributions](CONTRIBUTING.md) are welcome.
 
 Each municipality is a postgres database, for example ***ArlingtonMA***.  Each database consists of seven (7) schemas; the five (5) categories of people, property, governance, infrastructure and energy as well as a *common* schema for cross reference and geometry tables and the postgres default *public* schema which includes the postgis extension.
 
@@ -166,7 +166,7 @@ docker compose up -d
    8. Replace front-end, spring 2024
 
 
-## [Contributing](Contributing.md)   
+## [Contributing](CONTRIBUTING.md)   
 
    1. Data fixes     
    2. Code development   
