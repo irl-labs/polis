@@ -1,7 +1,7 @@
 version: "3"
 services:
   polis:
-    image: irllabs/polis
+    image: irllabs/polis:latest
     container_name: polis
     env_file:
       - ./app/.env

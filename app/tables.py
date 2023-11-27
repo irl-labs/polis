@@ -62,7 +62,9 @@ def display_table ( df : pd . DataFrame ) -> dash_table . DataTable :
             columns.append( {'name':col.title(),'id':col } )
         else:
             if col not in ['check number',
-                    'inverters','panels','panel watts',
+                           'watts_dc','plant_code','generator_id',
+                           'MW_ac','MW_dc','azimuth','tilt',
+                           'inverters','panels','panel watts','generators','technologies',
                            'battery kw','battery kwh','kWh','kwh',
                     'Yes Votes','No Votes','W','est annual kwh','watt',
                     'kW','installs','MWh','MW','GWh','towns',

@@ -843,6 +843,10 @@ def get_callbacks(app, params,
                     cols = ['loc_id','address','name','building','land','assessed','land_use',
                             'zoning','year_built','decade','living_area','style','precinct']
                 elif dataset=='energy':
+                    if view == 'Power Plants':
+                        cols = ['plant_code','technology',
+                                'plant_name','utility_name',
+                                'address','MW','generators']
                     if view == 'EV chargers':
                         cols = ['year','date','permit_type','permit',
                                 'address','name','contractor','description',
@@ -867,7 +871,8 @@ def get_callbacks(app, params,
                                 'pts_module_mfgr','pts_inverter_mfgr',
                                 'pts_meter_mfgr']
 
-                    
+
+
                 df = dict(zip(cols,customdata))
 
                 string1 = ''
@@ -915,6 +920,13 @@ def get_callbacks(app, params,
                 if 'loan' in cols:
                     string3 = f"Loan: ${df['loan']:,.0f} - Employees: {df['employees']}"
 
+                string4 = ''
+                if 'plant_name' in cols:
+                    print(df)
+                    string2 = string1
+                    string1 = f"Plant: {df['plant_name']} - Utility: {df['utility_name']}"
+                    string3 = f"{df['generators']} Generators - Capacity: {df['MW']:,.2f}MW"
+                    string4 = f"Technology: {df['technology']}"
                 children = [
                     html.Div([
                         html.P([
@@ -922,7 +934,9 @@ def get_callbacks(app, params,
                             html.Br(),
                             string2,
                             html.Br(),
-                            string3
+                            string3,
+                            html.Br(),
+                            string4
                         ],
                                style={"textAlign":"left","fontSize":"15px"}
                         ),

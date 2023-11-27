@@ -3,7 +3,7 @@
 --
 
 -- Dumped from database version 15.2 (Debian 15.2-1.pgdg110+1)
--- Dumped by pg_dump version 15.3 (Ubuntu 15.3-1.pgdg20.04+1)
+-- Dumped by pg_dump version 16.0 (Ubuntu 16.0-1.pgdg20.04+1)
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -344,6 +344,293 @@ CREATE TABLE common.town_boundaries (
 
 
 --
+-- Name: eia_generator; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.eia_generator (
+    utility_id integer NOT NULL,
+    plant_code integer NOT NULL,
+    generator_id character varying(5) NOT NULL,
+    technology character varying(43),
+    prime_mover character(2),
+    unit_code character varying(4),
+    ownership character(1),
+    duct_burners character(1),
+    steam_recovery character(1),
+    node character varying(48),
+    location character varying(48),
+    "MW" real,
+    power_factor real,
+    summer_capacity real,
+    winter_capacity real,
+    minimum_load real,
+    rate_deltas boolean,
+    rate_month smallint,
+    rate_year smallint,
+    status character(2),
+    grid_sync character(1),
+    operating_month smallint,
+    operating_year smallint,
+    retirement_month smallint,
+    retirement_year smallint,
+    combo_heat_power boolean,
+    sector_name character varying(20),
+    sector smallint,
+    top_or_bottom character(1),
+    energy_source1 character varying(3),
+    energy_source2 character varying(3),
+    energy_source3 character varying(3),
+    energy_source4 character varying(3),
+    energy_source5 character varying(3),
+    energy_source6 character varying(3),
+    startup_source1 character varying(3),
+    startup_source2 character varying(3),
+    startup_source3 character varying(3),
+    startup_source4 character varying(3),
+    gassification boolean,
+    carbon_capture boolean,
+    turbines smallint,
+    restart_time character varying(4),
+    fluidized_tech boolean,
+    pulverized_tech boolean,
+    stoker_tech boolean,
+    combustion_tech boolean,
+    subcritical_tech boolean,
+    supercritical_tech boolean,
+    ultracritical_tech boolean,
+    planned_summer_uprate_capacity real,
+    planned_winter_uprate_capacity real,
+    planned_uprate_month smallint,
+    planned_uprate_year smallint,
+    planned_summer_derate_capacity real,
+    planned_winter_derate_capacity real,
+    planned_derate_month smallint,
+    planned_derate_year smallint,
+    planned_prime_mover character(2),
+    planned_energy_source1 character varying(3),
+    planned_capacity real,
+    planned_repower_month smallint,
+    planned_repower_year smallint,
+    other_modifications boolean,
+    other_mod_month smallint,
+    other_mod_year smallint,
+    multiple_fuels boolean,
+    cofire boolean,
+    oil_natgas_switch boolean
+);
+
+
+--
+-- Name: eia_generator_ownership; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.eia_generator_ownership (
+    utility_id integer NOT NULL,
+    plant_code integer NOT NULL,
+    generator_id character varying(5) NOT NULL,
+    owner_id integer NOT NULL,
+    share real
+);
+
+
+--
+-- Name: eia_multifuel; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.eia_multifuel (
+    utility_id integer NOT NULL,
+    plant_code integer NOT NULL,
+    generator_id character varying(5) NOT NULL,
+    source1 character varying(3),
+    source2 character varying(3),
+    multiple boolean,
+    cofire boolean,
+    cofire1 character varying(3),
+    cofire2 character varying(3),
+    cofire3 character varying(3),
+    cofire4 character varying(3),
+    cofire5 character varying(3),
+    cofire6 character varying(3),
+    oil_natgas_switch boolean,
+    operating_switch boolean,
+    summer_capacity_natgas real,
+    winter_capacity_natgas real,
+    summer_capacity_oil real,
+    winter_capacity_oil real,
+    switching_time_natgas2oil character varying(4),
+    switching_time_oil2natgas character varying(4),
+    switch_limiting_factors boolean,
+    storage_limits boolean,
+    air_limits boolean,
+    other_limits boolean
+);
+
+
+--
+-- Name: eia_owner; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.eia_owner (
+    owner_id integer NOT NULL,
+    name character varying(75),
+    street character varying(80),
+    city character varying(20),
+    state character(2),
+    zip character(5)
+);
+
+
+--
+-- Name: eia_plant; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.eia_plant (
+    utility_id integer NOT NULL,
+    plant_code integer NOT NULL,
+    plant_name character varying(56),
+    street character varying(30),
+    city character varying(30),
+    state character(2),
+    zip character(5),
+    county character varying(25),
+    lat real,
+    lon real,
+    region character varying(4),
+    authority_code character varying(4),
+    authority character varying(66),
+    water_source character varying(30),
+    naics character varying(6),
+    regulatory_status character(2),
+    sector smallint,
+    sector_name character varying(18),
+    cogeneration boolean,
+    docket character varying(60),
+    small_pp boolean,
+    small_docket character varying(60),
+    wholesaler boolean,
+    wholesaler_docket character varying(60),
+    ash boolean,
+    ash_lined character(1),
+    ash_status character(2),
+    distributor character varying(41),
+    distributor_id integer,
+    distributor_state character(2),
+    grid_voltage real,
+    grid_voltage_2 real,
+    grid_voltage_3 real,
+    storage boolean,
+    natgas_ldc_name character varying(36),
+    natgas_pipeline1 character varying(47),
+    natgas_pipeline2 character varying(47),
+    natgas_pipeline3 character varying(47),
+    pipeline_notes character varying(255),
+    natgas_storage character(1),
+    lng_storage character(1)
+);
+
+
+--
+-- Name: eia_solar; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.eia_solar (
+    utility_id integer NOT NULL,
+    plant_code integer NOT NULL,
+    generator_id character varying(5) NOT NULL,
+    mirrors boolean,
+    single_axis boolean,
+    dual_axis boolean,
+    fixed_tilt boolean,
+    east_west_tilt boolean,
+    parabolic boolean,
+    fresnel boolean,
+    tower boolean,
+    dish boolean,
+    other_tech boolean,
+    azimuth real,
+    tilt real,
+    "MW_dc" real,
+    crystaline boolean,
+    "thin_film_CdTe" boolean,
+    "thin_film_ASi" boolean,
+    "thin_film_CIGS" boolean,
+    thin_film_other boolean,
+    other_materials boolean,
+    net_metering character(1),
+    net_metering_capacity real,
+    net_metering_virtual character(1),
+    net_metering_virtual_capacity real
+);
+
+
+--
+-- Name: eia_storage; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.eia_storage (
+    utility_id integer NOT NULL,
+    plant_code integer NOT NULL,
+    generator_id character varying(5) NOT NULL,
+    "MWh" real,
+    max_charge_rate real,
+    minimum_discharge_rate real,
+    storage_tech1 character(3),
+    storage_tech2 character(3),
+    storage_tech3 character(3),
+    storage_tech4 character(3),
+    power_rating real,
+    enclosure character(2),
+    arb boolean,
+    frequency_regulation boolean,
+    load_following boolean,
+    spinning boolean,
+    colocated boolean,
+    distribution_deferral boolean,
+    peak_shaving boolean,
+    load_mgt boolean,
+    voltage_support boolean,
+    backup boolean,
+    excess_solar_wind boolean
+);
+
+
+--
+-- Name: eia_utility; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.eia_utility (
+    utility_id integer NOT NULL,
+    name character varying(61),
+    street character varying(30),
+    city character varying(30),
+    state character(2),
+    zip character(5),
+    owner boolean,
+    operator boolean,
+    manager boolean,
+    other boolean,
+    entity character varying(3)
+);
+
+
+--
+-- Name: eia_wind; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.eia_wind (
+    utility_id integer NOT NULL,
+    plant_code integer NOT NULL,
+    generator_id character varying(5) NOT NULL,
+    number_turbines smallint,
+    manufacturer character varying(20),
+    model character varying(15),
+    design_speed real,
+    quality smallint,
+    height real
+);
+
+
+--
 -- Name: electric_utility; Type: TABLE; Schema: energy; Owner: -
 --
 
@@ -374,6 +661,47 @@ CREATE TABLE energy.gas_utility (
     min_charge real NOT NULL,
     tier1_delivery real NOT NULL,
     tier1_del_adj real NOT NULL
+);
+
+
+--
+-- Name: iso_genfuelmix; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.iso_genfuelmix (
+    datetime timestamp without time zone NOT NULL,
+    "MW" smallint NOT NULL,
+    iso_fuel_cat smallint NOT NULL,
+    iso_fuel smallint NOT NULL,
+    marginal boolean NOT NULL
+);
+
+
+--
+-- Name: iso_lmp; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.iso_lmp (
+    location_id smallint NOT NULL,
+    datetime timestamp without time zone NOT NULL,
+    total real NOT NULL,
+    energy real NOT NULL,
+    congestion real NOT NULL,
+    loss real NOT NULL
+);
+
+
+--
+-- Name: iso_system_loads; Type: TABLE; Schema: energy; Owner: -
+--
+
+CREATE TABLE energy.iso_system_loads (
+    datetime timestamp without time zone NOT NULL,
+    "MW" smallint NOT NULL,
+    native real NOT NULL,
+    demand real NOT NULL,
+    btm_pv real NOT NULL,
+    native_btm_pv real NOT NULL
 );
 
 
@@ -1222,6 +1550,30 @@ CREATE TABLE property.deeds_details_raw (
 
 
 --
+-- Name: deeds_details_raw_2bDeleted; Type: TABLE; Schema: property; Owner: -
+--
+
+CREATE TABLE property."deeds_details_raw_2bDeleted" (
+    "Street #" character varying(255),
+    "Street Name" character varying(255),
+    "Description" character varying(255),
+    "Doc. #" integer,
+    "Rec. Date" date,
+    "Rec Time" character varying(255),
+    "Type Desc." character varying(255),
+    "# of Pgs." smallint,
+    "Book/Page" character varying(255),
+    "Consideration" integer,
+    "Doc. Status" character varying(255),
+    name character varying(255)[],
+    grant_type smallint[],
+    refs_book_page character varying(15)[],
+    refs_deed_type character varying(255)[],
+    refs_year smallint[]
+);
+
+
+--
 -- Name: deeds_parcel_xref; Type: TABLE; Schema: property; Owner: -
 --
 
@@ -1284,7 +1636,7 @@ CREATE TABLE property.heatpumps (
 
 CREATE TABLE property.mbta_districts (
     pid character(17) NOT NULL,
-    district smallint NOT NULL
+    land_use smallint NOT NULL
 );
 
 
@@ -1479,6 +1831,78 @@ ALTER TABLE ONLY common.town_boundaries
 
 
 --
+-- Name: eia_generator_ownership eia_generator_ownership_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.eia_generator_ownership
+    ADD CONSTRAINT eia_generator_ownership_pkey PRIMARY KEY (utility_id, plant_code, generator_id, owner_id);
+
+
+--
+-- Name: eia_generator eia_generator_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.eia_generator
+    ADD CONSTRAINT eia_generator_pkey PRIMARY KEY (plant_code, generator_id);
+
+
+--
+-- Name: eia_multifuel eia_multifuel_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.eia_multifuel
+    ADD CONSTRAINT eia_multifuel_pkey PRIMARY KEY (utility_id, plant_code, generator_id);
+
+
+--
+-- Name: eia_owner eia_owner_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.eia_owner
+    ADD CONSTRAINT eia_owner_pkey PRIMARY KEY (owner_id);
+
+
+--
+-- Name: eia_plant eia_plant_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.eia_plant
+    ADD CONSTRAINT eia_plant_pkey PRIMARY KEY (plant_code);
+
+
+--
+-- Name: eia_solar eia_solar_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.eia_solar
+    ADD CONSTRAINT eia_solar_pkey PRIMARY KEY (utility_id, plant_code, generator_id);
+
+
+--
+-- Name: eia_storage eia_storage_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.eia_storage
+    ADD CONSTRAINT eia_storage_pkey PRIMARY KEY (utility_id, plant_code, generator_id);
+
+
+--
+-- Name: eia_utility eia_utility_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.eia_utility
+    ADD CONSTRAINT eia_utility_pkey PRIMARY KEY (utility_id);
+
+
+--
+-- Name: eia_wind eia_wind_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.eia_wind
+    ADD CONSTRAINT eia_wind_pkey PRIMARY KEY (utility_id, plant_code, generator_id);
+
+
+--
 -- Name: electric_utility electric_utility_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
 --
 
@@ -1492,6 +1916,30 @@ ALTER TABLE ONLY energy.electric_utility
 
 ALTER TABLE ONLY energy.gas_utility
     ADD CONSTRAINT gas_utility_pkey PRIMARY KEY (pid, date);
+
+
+--
+-- Name: iso_genfuelmix iso_genfuelmix_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.iso_genfuelmix
+    ADD CONSTRAINT iso_genfuelmix_pkey PRIMARY KEY (datetime, iso_fuel);
+
+
+--
+-- Name: iso_lmp iso_lmp_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.iso_lmp
+    ADD CONSTRAINT iso_lmp_pkey PRIMARY KEY (location_id, datetime);
+
+
+--
+-- Name: iso_system_loads iso_system_loads_pkey; Type: CONSTRAINT; Schema: energy; Owner: -
+--
+
+ALTER TABLE ONLY energy.iso_system_loads
+    ADD CONSTRAINT iso_system_loads_pkey PRIMARY KEY (datetime);
 
 
 --
@@ -1842,6 +2290,153 @@ CREATE INDEX town_boundaries_town_idx ON common.town_boundaries USING btree (tow
 
 
 --
+-- Name: eia_generator_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_generator_idx ON energy.eia_generator USING btree (plant_code);
+
+
+--
+-- Name: eia_generator_ownership_generator_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_generator_ownership_generator_idx ON energy.eia_generator_ownership USING btree (generator_id);
+
+
+--
+-- Name: eia_generator_ownership_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_generator_ownership_idx ON energy.eia_generator_ownership USING btree (plant_code);
+
+
+--
+-- Name: eia_generator_ownership_owner_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_generator_ownership_owner_idx ON energy.eia_generator_ownership USING btree (owner_id);
+
+
+--
+-- Name: eia_generator_ownership_utility_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_generator_ownership_utility_idx ON energy.eia_generator_ownership USING btree (utility_id);
+
+
+--
+-- Name: eia_generator_utility_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_generator_utility_idx ON energy.eia_generator USING btree (utility_id);
+
+
+--
+-- Name: eia_multifuel_generator_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_multifuel_generator_idx ON energy.eia_multifuel USING btree (generator_id);
+
+
+--
+-- Name: eia_multifuel_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_multifuel_idx ON energy.eia_multifuel USING btree (plant_code);
+
+
+--
+-- Name: eia_multifuel_utility_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_multifuel_utility_idx ON energy.eia_multifuel USING btree (utility_id);
+
+
+--
+-- Name: eia_plant_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_plant_idx ON energy.eia_plant USING btree (plant_code);
+
+
+--
+-- Name: eia_plant_utility_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_plant_utility_idx ON energy.eia_plant USING btree (utility_id);
+
+
+--
+-- Name: eia_solar_generator_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_solar_generator_idx ON energy.eia_solar USING btree (generator_id);
+
+
+--
+-- Name: eia_solar_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_solar_idx ON energy.eia_solar USING btree (plant_code);
+
+
+--
+-- Name: eia_solar_utility_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_solar_utility_idx ON energy.eia_solar USING btree (utility_id);
+
+
+--
+-- Name: eia_storage_generator_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_storage_generator_idx ON energy.eia_storage USING btree (generator_id);
+
+
+--
+-- Name: eia_storage_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_storage_idx ON energy.eia_storage USING btree (plant_code);
+
+
+--
+-- Name: eia_storage_utility_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_storage_utility_idx ON energy.eia_storage USING btree (utility_id);
+
+
+--
+-- Name: eia_utility_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_utility_idx ON energy.eia_utility USING btree (utility_id);
+
+
+--
+-- Name: eia_wind_generator_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_wind_generator_idx ON energy.eia_wind USING btree (generator_id);
+
+
+--
+-- Name: eia_wind_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_wind_idx ON energy.eia_wind USING btree (plant_code);
+
+
+--
+-- Name: eia_wind_utility_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX eia_wind_utility_idx ON energy.eia_wind USING btree (utility_id);
+
+
+--
 -- Name: energy_solar_date_idx; Type: INDEX; Schema: energy; Owner: -
 --
 
@@ -1860,6 +2455,34 @@ CREATE INDEX energy_solar_idx ON energy.solar USING btree (pid);
 --
 
 CREATE INDEX energy_solar_pid_idx ON energy.solar USING btree (pid);
+
+
+--
+-- Name: iso_genfuelmix_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX iso_genfuelmix_idx ON energy.iso_genfuelmix USING btree (iso_fuel, datetime);
+
+
+--
+-- Name: iso_lmp_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX iso_lmp_idx ON energy.iso_lmp USING btree (location_id);
+
+
+--
+-- Name: iso_lmp_idx_dt; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX iso_lmp_idx_dt ON energy.iso_lmp USING btree (datetime);
+
+
+--
+-- Name: iso_system_loads_idx; Type: INDEX; Schema: energy; Owner: -
+--
+
+CREATE INDEX iso_system_loads_idx ON energy.iso_system_loads USING btree (datetime);
 
 
 --
@@ -2231,6 +2854,13 @@ CREATE INDEX deeds_details_idx ON property.deeds_details USING btree (docno);
 --
 
 CREATE INDEX deeds_details_raw_idx ON property.deeds_details_raw USING btree ("Doc. #");
+
+
+--
+-- Name: deeds_details_raw_idx_2bDeleted; Type: INDEX; Schema: property; Owner: -
+--
+
+CREATE INDEX "deeds_details_raw_idx_2bDeleted" ON property."deeds_details_raw_2bDeleted" USING btree ("Doc. #");
 
 
 --
