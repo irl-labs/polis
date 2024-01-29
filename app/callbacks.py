@@ -1059,7 +1059,7 @@ def get_callbacks(app, params,
 		room2.bedrooms, (p.interior->>'Full Baths') as baths,
                 p.image
         FROM property.assessments a
-        LEFT JOIN property.patriot p on p.year=2023 and p.pid=a.pid
+        LEFT JOIN property.patriot p on p.year=2024 and p.pid=a.pid
         CROSS  JOIN LATERAL (
         SELECT 
 			sum((COALESCE(obj))::int) AS bedrooms
