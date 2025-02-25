@@ -8,7 +8,7 @@ from pandas import DataFrame, to_datetime, isnull
 from json import dumps, loads
 from textwrap import dedent as d
 
-def get_callbacks(app, params,
+def get_callbacks(app, params, data_dict,
                   int_value_pairs, attributes, addresses,street_search,
                   loc_pid, loc_polygons,solar,dor_series,recent_sales,
                   db_connection):
@@ -201,7 +201,6 @@ def get_callbacks(app, params,
             db_connection
         )
 
-
         if len(df)==0:
             table_style['display']='block'
             title = get_title (
@@ -333,7 +332,8 @@ def get_callbacks(app, params,
                 tmp = df[metric][0]
                 if tmp is not None:
                     if metric == 'outline':
-                        tmp = tmp.iloc[0].replace("   ","   \n")
+                        if type(tmp)!=str:
+                            tmp = tmp.iloc[0].replace("   ","   \n")
                     
                         tree = parse_markdown_tree(tmp)
                         content = tree_to_dash(tree)
@@ -355,7 +355,10 @@ def get_callbacks(app, params,
                     content = html.Center([html.Br(),html.Br(),html.H4("Coming Soon")])
                         
             else:
-                content = display_table ( df )
+                dd = data_dict.copy()
+                if series_type in ['TaxRates','ParcelValues']:
+                    dd = dd[dd.series_type==series_type]
+                content = display_table ( df, dd )
 
 
         return (
@@ -461,6 +464,9 @@ def get_callbacks(app, params,
             raise PreventUpdate
 
         options = sorted(list(data['params'][ppt][dataset][tab].keys()))
+        ## hack
+        options = [x for x in options if '_by_pid' not in x]
+        
         if (ppt != 'governance') and (dataset != 'schools') and (tab == 'charts'):
             options = options[::-1]
         return options, options[0],tab[:-1].title() + ' Views:'
@@ -661,7 +667,11 @@ def get_callbacks(app, params,
                 cols = [x for x in list(solar.columns) if x!='geometry']
                 customdata = dict(zip(cols,clickData["points"][0]['customdata']))
             
-                img_roof = "data:image/png;base64," +b64image(customdata['roof_image'])
+                try:
+                    img_roof = "data:image/png;base64," +b64image(customdata['roof_image'])
+                except:
+                    img_roof=None
+                    
                 img_house = customdata['house_image']
 
                 chart_params = {
@@ -681,7 +691,7 @@ def get_callbacks(app, params,
                 chart = ''
                 if production is not None:
                     if len(production)>0:
-                        chart_params["yaxis_range"]=[0,200]
+                        chart_params["yaxis_range"]=[0,150]
                         chart_fig = line_chart_simple(
                             production,
                             chart_params
@@ -736,7 +746,11 @@ def get_callbacks(app, params,
             if view == ' Solar systems':
 
                 df_row = solar.iloc[pt["pointNumber"]]
-                img_src = "data:image/png;base64," +b64image(df_row['roof_image'])
+                try:
+                    img_src = "data:image/png;base64," +b64image(df_row['roof_image'])
+                except:
+                    print(df_row["struct_id"],"missing image")
+                    img_src=None
 
                 string = (f"{df_row['address']} - {df_row['owner']}\n"
                           f"{df_row['panels']} panels, {df_row['watt']/1000:.2f}kW"
@@ -847,6 +861,14 @@ def get_callbacks(app, params,
                         cols = ['plant_code','technology',
                                 'plant_name','utility_name',
                                 'address','MW','generators']
+                    if view == 'EIA solar arrays':
+                        cols = ['id','MW','date','cost',
+                                'plant_name','address','dor',
+                                'panels','additional_modules',
+                                'rps_owner','applicant',
+                                'eia_utility','bnl_installer_name',
+                                'plant_code','generator_id',
+                                'watt']
                     if view == 'EV chargers':
                         cols = ['year','date','permit_type','permit',
                                 'address','name','contractor','description',
@@ -886,7 +908,10 @@ def get_callbacks(app, params,
 
                         
                 string2 = ''
-                name = df['name'] if 'name' in cols else ''
+                if 'name' in df.keys():
+                    name = df['name']
+                else:
+                    name = ''
                 if type(name)==list:
                     string2 = f"Owner: {', '.join(name)}"
                     if len(name)>2:
@@ -922,11 +947,16 @@ def get_callbacks(app, params,
 
                 string4 = ''
                 if 'plant_name' in cols:
-                    print(df)
-                    string2 = string1
-                    string1 = f"Plant: {df['plant_name']} - Utility: {df['utility_name']}"
-                    string3 = f"{df['generators']} Generators - Capacity: {df['MW']:,.2f}MW"
-                    string4 = f"Technology: {df['technology']}"
+                    if 'utility_name' in cols:
+                        string2 = string1
+                        string1 = f"Plant: {df['plant_name']} - Utility: {df['utility_name']}"
+                        string3 = f"{df['generators']} Generators - Capacity: {df['MW']:,.2f}MW"
+                        string4 = f"Technology: {df['technology']}"
+                    if 'eia_utility' in cols:
+                        string2 = string1
+                        string1 = f"Plant: {df['plant_name']} - Utility: {df['eia_utility']}"
+                        string3 = f"Cost: ${df['cost']:,.0f}"
+                        string4 = f"Capacity: {df['MW']:,.1f}MW"
                 children = [
                     html.Div([
                         html.P([
@@ -997,7 +1027,7 @@ def get_callbacks(app, params,
                     if len(explosive)>0:
                         df = df.explode(explosive)
                         
-                    table  = display_table(df)
+                    table  = display_table(df, data_dict)
                     style['display']='block'
 
                     ## date is incorrect on Group changes
@@ -1049,27 +1079,13 @@ def get_callbacks(app, params,
     def update_from_selected_pid(pid,dataset,date,data):
         date = data['extra-params']['dates'][date]
         if type(date)!=int:
-            date=2023
+            date=2024
         if date<2018:
-            date=2023
+            date=2024
 
-        query = """
-        SELECT  a.pid, a.owner, a.land_use, a.style, a.land, a.total, 
-        	a.year_built, a.rooms, a.units, a.living_area, a.area,
-		room2.bedrooms, (p.interior->>'Full Baths') as baths,
-                p.image
-        FROM property.assessments a
-        LEFT JOIN property.patriot p on p.year=2024 and p.pid=a.pid
-        CROSS  JOIN LATERAL (
-        SELECT 
-			sum((COALESCE(obj))::int) AS bedrooms
-        FROM   JSONB_ARRAY_ELEMENTS(p.rooms->'Bedrooms') obj
-        ) room2
-        WHERE a.year={date}
-        AND a.pid = '{pid}'
-        ;
-        """.format(date=date,pid=pid)
-
+        query = "select * from property.update_from_selected_pid('{pid}',{date});".format(date=date,pid=pid)
+        # year = {date}
+        
         df = get_property_data ( query ) . iloc [ 0 ]
         col1_row1 = property_summary ( df )
         col1_row2 = f"https://arlington.patriotproperties.com/image/{df['image']}.JPG"
@@ -1091,17 +1107,20 @@ def get_callbacks(app, params,
         
         col2_row1 = []
         for col in ['permits','deeds_details','sales']:
-            query = data['params']['property'][col.replace('_details','')]['tables']['detail']['query']\
-                .replace('where','WHERE')
-            idx = query.find('WHERE')
-            query = query[:idx] + " where pid='{pid}' order by date desc". format(pid=pid)
+            query = data['params']['property'][col.replace('_details','')]['tables']['detail_by_pid']['query']. format(pid=pid)
 
             df = get_property_data ( query )
 
             if df is not None:
                 if len(df)>0:
                     df = df.drop('address',axis=1)
-                    col2_row1.append(display_pieces(col,display_table(df),dataset))
+                    col2_row1.append(
+                        display_pieces(
+                            col,
+                            display_table(df, data_dict),
+                            dataset
+                        )
+                    )
 
         for col in ['assessments','water','electric','gas','consumption']:
             if col == 'water':
@@ -1178,6 +1197,7 @@ def get_callbacks(app, params,
                     loc_id = customdata[-1]
                 else:
                     loc_id = customdata[0]
+
                     
                 pids    =  loc_pid[loc_pid.loc_id==loc_id].pid.to_list()
 
@@ -1186,24 +1206,25 @@ def get_callbacks(app, params,
                 ##badness
                 if type(date)==int:
                     if date<2018:
-                        date = 2023
+                        date = 2024
 
                 if dataset!='water':
                     query = """
-                    SELECT streetname,streetnum,unit,pid,owner 
-                    FROM  property.assessments
+                    SELECT street_name,street_num,unit,pid,owner 
+                    FROM  property.parcels
                     WHERE pid in ({pids})
-                    and year = {date}
+                    and year = 2024
                     ;
                     """.format(
                         #dataset=dataset if dataset!='parcels' else 'assessments',
                         pids=','.join(f"'{x}'" for x in pids),
                         date=date
                     )
+                # year = {date}
                 else:
                     query = """
-                    SELECT streetname,streetnum,unit,pid,owner 
-                    FROM  property.assessments
+                    SELECT street_name,street_num,unit,pid,owner 
+                    FROM  property.parcels
                     WHERE pid in ({pids})
                     and year = date_part('year',cast('{date}' as date))::INT 
                     ;
@@ -1218,15 +1239,16 @@ def get_callbacks(app, params,
                     try:
                         df = get_property_data(
                             query\
-                            .replace('streetname','streetName')\
-                            .replace('streetnum','streetNum'))
+                            .replace('street_name','street_name')\
+                            .replace('street_num','street_num')
+                        )
                     except:
                         print('Failed',query)
                 
                 subheader = ''
 
-                address = (df.streetnum.fillna('') +\
-                           ' ' + df.streetname.fillna('')
+                address = (df.street_num.fillna('') +\
+                           ' ' + df.street_name.fillna('')
                 ).unique()[0]
                 selected_units = [] 
                 selected_unit = pids[0]

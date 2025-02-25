@@ -2,7 +2,11 @@ import pandas as pd
 import plotly.express as px
 from dash import dash_table
 
-def display_table ( df : pd . DataFrame ) -> dash_table . DataTable :
+def display_table (
+        df : pd . DataFrame,
+        data_dict : pd . DataFrame
+) -> dash_table . DataTable :
+    
     money       =  dash_table . FormatTemplate . money ( 0 )
     cash        =  dash_table . FormatTemplate . money ( 2 )
     percentage  =  dash_table . FormatTemplate . percentage ( 1 )
@@ -10,109 +14,34 @@ def display_table ( df : pd . DataFrame ) -> dash_table . DataTable :
 
     ##omg fugly
     columns = []
-    
-    df.columns=df.columns.str.replace('pts_','').str.replace('bnl_','').str.replace('checkbook_',' ').str.replace('_',' ')
 
-    for col in df.columns[~df.columns.isin(['lat','lon','geometry','people id','LOC ID','loc id','pid','parcel','account'])]:
+    for col in ['eia_','rps_','pts_','bnl_','checkbook_']:
+        df.columns = df.columns.str.replace(col,'')
+    df.columns = df.columns.str.replace('_',' ')
+
+    mask = data_dict.series.isin(list(df.columns))
+    tmp = data_dict[mask].reset_index(drop=True).copy()
+
+    hidden_columns = ['lat','lon','geometry','people id','LOC ID','loc id','pid','parcel','account']
+    for col in df.columns:
+        if col not in hidden_columns:
+            dick = {'name':col.title(),'id':col}
+        
+            if col in list(tmp.series):
+                format   = tmp.loc[tmp.series==col,'format'].iloc[0]
+                if format=='date':
+                    df[col] = pd.to_datetime(df[col],unit='s').dt.strftime('%Y-%m-%d')
             
-        if '#' in col:
-            df[col]=df[col].fillna('0').astype(int)
-            columns.append( {'name':col.title(),'id':col } )
-        elif col == 'Date Certified':
-            df[col] = pd.to_datetime(df[col],unit='s').dt.strftime('%Y-%m-%d')
-            columns.append( {'name':col.title(),'id':col } )
-        elif '%' in col:
-            if col in ['CIP % of Total Value','R/O % of Total Value']:
-                df[col]=df[col].fillna('0').astype(float)/10000
-            #elif col in ['Debt Service as % of Budget']:
-            #    df[col]=df[col].fillna('0').astype(float)                
-            else:
-                df[col]=df[col].fillna('0').astype(float)/100
-            columns.append( {'name':col.title(),'id':col, 'type':'numeric', 'format':precision } )
-        elif ' chg' in col:
-            df[col]=df[col].fillna('0').astype(float)/100
-            columns.append( {'name':col.title(),'id':col, 'type':'numeric', 'format':precision } )
-        elif col in ['total kw installed','median kw installed']:
-            df[col]=df[col].fillna('0').astype(float)
-            columns.append( {'name':col.title(),'id':col, 'type':'numeric', 'format':precision } )
-        elif col in ['efficiency']:
-            df[col]=1.0*df[col].fillna('0').astype(float)
-            columns.append( {'name':col.title(),'id':col, 'type':'numeric', 'format':precision } )
-        elif col in ['Unemployment Rate','City/Town Accepted',
-                     'DCR','Mass Highway','Total Miles','Unaccepted']:
-            df[col]=df[col].fillna('0').astype(float)/100
-            columns.append( {'name':col.title(),'id':col, 'type':'numeric', 'format':precision } )
-        
-        elif col in ['Lowest Residential Factor Allowed',
-                'Max CIP Shift Allowed',
-                'Residential Factor Selected','CIP Shift']:
-            df[col]=df[col].fillna('0').astype(float)/1e6
-            columns.append( {'name':col.title(),'id':col, 'type':'numeric', 'format':precision } )
-        
-        elif col in ['Average Single Family Value',
-                     'DOR Income Per Capita',
-                     'Single Famile Tax Bill*',
-                     'Single Family Values',
-                     'Education','Fire','Police','Culture and Recreation',
-                     'Debt Service'
-        ]:
-            df[col]=df[col].fillna('0').astype(int)
-            columns.append( {'name':col.title(),'id':col, 'type':'numeric', 'format':money } )
-        elif df[col].dtype==object:
-            columns.append( {'name':col.title(),'id':col } )
-        else:
-            if col not in ['check number',
-                           'watts_dc','plant_code','generator_id',
-                           'MW_ac','MW_dc','azimuth','tilt',
-                           'inverters','panels','panel watts','generators','technologies',
-                           'battery kw','battery kwh','kWh','kwh',
-                    'Yes Votes','No Votes','W','est annual kwh','watt',
-                    'kW','installs','MWh','MW','GWh','towns',
-                    'mw installed','kw installed',
-                    'Rank','Single Family Parcels','Moodys','S&P',
-                    'cpi','price deflator','Population',
-                    'Total Employees','Employed','Labor Force',
-                    'Unemployed','','',
-                    'Automobiles','Average Age','Heavy Trucks','Light Trucks',
-                    'Luxury Vehicles','Motorcycles','Other','Total Vehicles',
-                    'Trailers',
-                    'All Other Registered Voters','Registered Democrat',
-                    'Registered Republican','Total Registered Voters',
-                    'ResidentBirths',
-                    'fy','year','year built','count','CCF','deed types',
-                            'permit','living area','area','acres','lot size','lotSize',
-                            'usage','account','precinct','term',
-                            'water usage','date',
-                           'age','cards','lotsize','cards',
-                           'amps','substation rating MVA',
-                           'bulk substation voltage',
-                           'bulk substation rating MVA',
-                            'MVA','volts','bulk MVA',
-                           'sections','segments',
-                           'inverter quantity',
-                           'module quantity',
-                           'occupants','footage',
-                            'indoor units','outdoor units',
-                           'capacity','units','rooms',
-                            'JobsReported','NAICSCode','employees',
-                            'loan number','naics','book','page',
-                            'docno','pages','registered',
-                            'students',
-                            'Total In-district FTEs','Total Pupil FTEs',
-                            'PK','K','1','2','3','4','5','6','7','8','9','10','11','12','SP','Total',
-                            'FTE Count',
-                            'No. of Students Included',
-                            'Avg. Scaled Score',
-                            'Avg. SGP',
-                            'Included In Avg. SGP',
-                            'Avg.SGP',
-                            'Included In Avg.SGP',
-                            'Median SGP','Included In Median SGP','Ach. PCTL'
-                            
-            ] :
-                columns.append( {'name':col.title(),'id':col, 'type':'numeric', 'format':money if col not in ['amount','water bill','cost per watt'] else cash } )
-            else:
-                columns.append( {'name':col.title(),'id':col } )
+                exponent = int(tmp.loc[tmp.series==col,'exponent'].iloc[0])
+                if exponent>0:
+                    df.loc[:,col]=df.loc[:,col]/pow(10,exponent)
+
+                if format in ['float','money','cash','percentage']:
+                    dick['type']='numeric'
+                    dick['format']=precision if format=='float' else eval(format)
+            
+            columns.append(dick)
+    
 
     table =  \
         dash_table . DataTable (

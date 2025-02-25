@@ -91,6 +91,15 @@ def line_chart_simple (
         margin    = {"r":20,"t":25,"l":0,"b":0},
         yaxis_range = params["yaxis_range"]
     )
+
+    """
+    def zoom(layout, xrange):
+        in_view = df.loc[fig.layout.xaxis.range[0]:fig.layout.xaxis.range[1]]
+        fig.layout.yaxis.range = [in_view.High.min(), in_view.High.max() + ]
+
+    fig.layout.on_change(zoom, 'xaxis.range')
+    """
+    
     
     return fig
 

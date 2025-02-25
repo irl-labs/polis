@@ -33,9 +33,11 @@ def get_db_connection ( dbname = 'ArlingtonMA' ) -> create_engine :
 
 
 def get_params ( db_connection : create_engine ) -> dict :
+    from sqlalchemy import text
     query = "select dict from common.parameters where parameter_type=1"
 
-    return db_connection . execute ( query ) . fetchall ( ) [ 0 ] [ 0 ]
+    with db_connection.connect() as conn:
+        return conn . execute ( text ( query ) ) . fetchall ( ) [ 0 ] [ 0 ]
 
 
 def get_data_from_db (
@@ -187,8 +189,8 @@ def aggregate_parcels(df):
     mask = df.loc_id.duplicated(keep=False)
 
     df['address']=\
-        (df['streetnum'] .fillna('')+ ' '+\
-        df['streetname'].fillna('')+ ' '+\
+        (df['street_num'] .fillna('')+ ' '+\
+        df['street_name'].fillna('')+ ' '+\
         df['unit']      .fillna(''))\
     . str . strip ( ) . replace ( { ' +' : ' ' } , regex = True )
     
@@ -196,20 +198,20 @@ def aggregate_parcels(df):
            'area', 'last_sale_date', 'last_sale_price', 'land_use', 
            'zoning', 'year_built','decade_built',
            'building_area', 'units', 'living_area', 'style', 'rooms',
-            'year','streetname','streetnum','unit','mbta']
+            'year','street_name','street_num','unit','mbta']
 
     agg = dict(zip(cols,[list]*len(cols)))
     for col in [ 'zoning','area','style','land_use','decade_built',
-                 'streetname','streetnum','unit','mbta']:
+                 'street_name','street_num','unit','mbta']:
         agg[col]='last'
 
     multi = df[mask][cols+['loc_id']].groupby('loc_id').agg (agg).reset_index()
 
     multi = concat([multi,df[~mask][cols+['loc_id']]],ignore_index=True).reset_index(drop=True)
     multi = multi\
-        . sort_values(['streetname','streetnum','unit'])\
+        . sort_values(['street_name','street_num','unit'])\
         . reset_index(drop=True)\
-        . drop(['streetname','streetnum','unit'],axis=1)
+        . drop(['street_name','street_num','unit'],axis=1)
 
     cols = ['loc_id','pid','address','owner','building', 'land', 'total',
             'land_use','zoning', 'year_built','decade_built',
@@ -361,7 +363,7 @@ def merge_int_value (
         return  df
     
     orig_column_order = df.columns
-    
+
     tmp = df\
         . merge(
             int_value_pairs[int_value_pairs.item==col][['key','value']],
@@ -417,7 +419,7 @@ def people_expand (
                 df [ 'unit'         ]  .map ( str , na_action = 'ignore' )
                        ) . str . strip ( ) . replace ( { ' +' : ' ' } , regex = True )
 
-    df [ 'age' ]  =  round(((to_datetime(date)-to_datetime(df['dob']))/ timedelta64(1, 'Y')),0).astype(float).fillna(0).astype(int)
+    df [ 'age' ]  =  round(((to_datetime(date)-to_datetime(df['dob']))/ timedelta64(365, 'D')),0).astype(float).fillna(0).astype(int)
     
     cols = ['name','address','precinct','party','sex', 'age', 'people_id','pid']
         
@@ -605,7 +607,7 @@ def get_ivp(db_connection):
                 select * 
                 from common.int_value_pairs 
                 where 
-                    item like 'rps_%%' 
+                    item like 'srec_%%' 
                 or 
                     item like 'bnl_%%' 
                 or 
@@ -648,23 +650,10 @@ def update_keys_with_values(x,lookup_dict) :
 def get_solar_data(db_connection):
 
     from geopandas import read_postgis
+    from pandas import isnull
 
-    query = """
-    select ss.struct_id,pp.address,pp.owner->>'owner1' as owner,
-    pp.image,modules.panels as panels, s.*,ss.geometry
-    from energy.solar s 
-    left join common.structures ss on ss.pid = s.pid 
-    and ss."area"=(select max(z."area") from common.structures z where z.pid=s.pid)
-    left join property.patriot pp on pp.pid = s.pid
-    CROSS  JOIN LATERAL (
-    SELECT 
-    sum((COALESCE(obj ->> 'quantity'))::int) AS panels
-    FROM   JSONB_ARRAY_ELEMENTS(watts->'modules') obj
-    ) modules
-    where s.pid is not null 
-    ORDER BY struct_id
-    ;
-    """
+
+    query = "select * from energy.get_solar_data"
     df = read_postgis(query,geom_col='geometry',con=db_connection)
     
     df = df[~df.duplicated(['pid','date','watt','cost'],keep='first')].reset_index(drop=True)
@@ -686,49 +675,44 @@ def get_solar_data(db_connection):
     for d in ['financials', 'entity','amps', 'watts', 'joules']:
         df[d].apply(update_keys_with_values,lookup_dict=lookup_dict)
 
+    mask = isnull(df.address)
     return df
 
 
 def get_solar_production(pid, db_connection):
 
-    query = """
-    select timestamp,kwh
-    from energy.solar_production
-    where pid='{pid}'
-    order by timestamp
-    """
-
+    query = "select * from energy.get_solar_production('{pid}');"
     return read_sql_query(query.format(pid=pid),db_connection)
 
-########### SINGLE PROPERTY
 
 def get_water_bill_history(pid, db_connection):
     from pandas import concat, isnull
 
-    query = """
-        select w.date,w.usage as water_usage,w.amount as water_bill
-        from infrastructure.water_bills w
-        left join infrastructure.water_accounts a on a.account=w.account
-        and a.date = (select max(z.date) from infrastructure.water_accounts z 
-                        where z.account=w.account)
-        where a.pid='{pid}'
-        order by w.date desc
-    """
+    query = "select * from infrastructure.get_water_bill_history('{pid}')"
     df = read_sql_query(query.format(pid=pid),db_connection)
-    df = df.melt(['date'],var_name='series').sort_values(['series','date']).reset_index(drop=True)
+
+    df = df. melt(['date'],var_name='series')\
+           . sort_values(['series','date'])\
+           . reset_index(drop=True)
     
-    tmp = df.groupby(['series']).rolling(4, min_periods=4, on='date')['value'].mean().reset_index()
+    tmp = df. groupby(['series'])\
+            . rolling(4, min_periods=4, on='date')['value']\
+            . mean()\
+            . reset_index()
+    
     tmp = tmp[~isnull(tmp.value)]
     tmp.series='ttm_'+tmp.series
 
     return concat([df,tmp])
 
+
 def get_iotawatt_history(pid, db_connection):
     from pandas import concat, isnull
     query = """
-                select * from energy.ohms
-
-                WHERE pid='{pid}' ORDER by timestamp;
+                SELECT * 
+                FROM energy.ohms
+                WHERE pid='{pid}'
+                ORDER by timestamp;
             """
     df = read_sql_query(query.format(pid=pid),db_connection)
     df = df.melt(['pid','timestamp'],var_name='series',value_name="kWh")
@@ -736,40 +720,20 @@ def get_iotawatt_history(pid, db_connection):
     return df[df.kWh>0]
     
 
-
 def get_utilities_history(pid, db_connection):
     from pandas import concat, isnull
     
-    query = """
-    select 'electric' as service,
-    date, kwh as usage,
-    round((kwh*generation)::numeric,2) as supply,
-    round((kwh*delivery+customer_charge)::numeric,2) as delivery,
-    round((kwh*generation + kwh*delivery+customer_charge)::numeric,2) as total,
-    round(((kwh::numeric)/(days::numeric))::numeric,1) as daily_usage,
-    round(((kwh*generation + kwh*delivery+customer_charge)/(days::numeric))::numeric,2) as daily_cost
-    from energy.electric_utility
-    where pid = '{pid}'
-    
-    UNION
-    select 'gas' as service,
-    date, therms as usage,
-    round((therms*cost_per_therm)::numeric,2) as supply,
-    round((days*min_charge + therms*(tier1_delivery+tier1_del_adj))::numeric,2) as delivery,
-    round((therms*cost_per_therm + days*min_charge + therms*(tier1_delivery+tier1_del_adj))::numeric,2) as total,
-    round(((therms::numeric)/(days::numeric))::numeric,4) as daily_usage,
-    round(((therms*cost_per_therm + days*min_charge + therms*(tier1_delivery+tier1_del_adj))/(days::numeric))::numeric,2) as daily_cost
-    from energy.gas_utility
-    where pid = '{pid}'
-    order by service,date
-    ;
-    """
-   
+    query = "select * from energy.get_utilities_history('{pid}') order by service, date;"  
     df = read_sql_query(query.format(pid=pid),db_connection)
+
     df = df.melt(['service','date'],var_name='series')
     
-    tmp = df.groupby(['service','series']).rolling(12, min_periods=12, on='date')['value'].mean().reset_index()
-    tmp = tmp[~isnull(tmp.value) & (tmp.series.isin(['daily_usage','daily_cost']))]
+    tmp = df.groupby(['service','series'])\
+            .rolling(12, min_periods=12, on='date')['value']\
+            .mean()\
+            .reset_index()
+    tmp = tmp[~isnull(tmp.value) &\
+              (tmp.series.isin(['daily_usage','daily_cost']))]
     tmp.series='ttm_'+tmp.series
     
     return concat([df,tmp])
@@ -777,24 +741,7 @@ def get_utilities_history(pid, db_connection):
 
 def get_assessment_history(pid, db_connection):
 
-    query = """
-    select 
-        jsonb_array_elements((previous->>'Year')::jsonb)::int as year,
-        jsonb_array_elements((previous->>'Building')::jsonb)::int as building,
-        jsonb_array_elements((previous->>'Land Value')::jsonb)::int as land,
-        jsonb_array_elements((previous->>'Total')::jsonb)::int as total
-    from property.patriot
-    where pid = '{pid}'
-    UNION
-    select year, 
-    (assessments->>'buildingValue')::int as building, 
-    (assessments->>'landValue')::int as land, 
-    (assessments->>'totalValue')::int as total
-    from property.patriot
-    where pid = '{pid}'
-    ORDER BY year
-    ;
-    """
+    query = "select * from property.get_assessment_history('{pid}') order by year;"
     df = read_sql_query(query.format(pid=pid),db_connection)
     
     df = df[df.year!=0]  ##badness in patriot extract
@@ -804,9 +751,7 @@ def get_assessment_history(pid, db_connection):
     year = df.year.min()
     
     query = """
-        select * from property.tax_rates
-        where year>={year}
-           ;
+        select * from property.tax_rates where year>={year} ;
     """.format(year=year)
     rates = read_sql_query(query,db_connection)
     
@@ -822,42 +767,20 @@ def get_assessment_history(pid, db_connection):
                 df[col+'_chg_'+str(idx)+'y']=None
                 
     df = df.melt(['year'],var_name='series')
-        
-        
             
     return df.sort_values(['series','year']).reset_index(drop=True)
 
 
 ### recent sales
 def get_recent_sales(db_connection):
-    query = """
-    select p.pid,p.image,p.address,
-	ivp.value as land_use,
-	ivp2.value as style,
-	a."area" as lot_size,
-	a."living_area" as living_area,
-	p.rooms->>'Rooms' as rooms,
-    p.rooms->>'Bedrooms' as bedrooms,
-    p.interior->>'Full Baths' as bathrooms,
-    p.interior->>'1/2 Bath' as halfbath,
-	d.date,d.consideration as price, d.name,d.grant_type
-    from property.deeds_details d
-    left join property.patriot p on p.pid = d.pid
-    left join property.assessments a on a.pid = d.pid and a.year=date_part('year',d.date)
-    left join common.int_value_pairs ivp on ivp.key=a.land_use  and ivp.item='land_use'
-    left join common.int_value_pairs ivp2 on ivp2.key=a.style  and ivp2.item='style'
-    where consideration>100
-    and deed_type=96
-    order by date desc, timestamp desc
-    LIMIT 80
-    """
 
+    query = "select * from property.get_recent_sales;"
     df  =  get_data_from_db (
         query,
         db_connection
     )
-
     return recent_sales_get_data(df)
+
 
 def recent_sales_get_data(data):
     stub =  'https://arlington.patriotproperties.com/image/'

@@ -304,7 +304,7 @@ def pageContent ( params : dict ) -> dbc . Card :
                         ),
                         dbc.Pagination(
                             id='pagination',
-                            max_value=10,
+                            max_value=25,
                             fully_expanded=False,
                             first_last=True
                         )

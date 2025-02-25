@@ -23,6 +23,12 @@ int_value_pairs  =  get_data_from_db (
     db_connection
 )
 
+## get key, value pairs for client side cross reference
+data_dict  =  get_data_from_db (
+    "select * from common.data_dict;",
+    db_connection
+)
+
 attributes  =  get_data_from_db (
     "select * from people.attributes;",
     db_connection
@@ -67,7 +73,7 @@ recent_sales = get_recent_sales ( db_connection )
 
 ## poor place for app decorator callbacks
 from callbacks import get_callbacks
-get_callbacks ( app , params ,
+get_callbacks ( app , params , data_dict, 
                 int_value_pairs , attributes, addresses,street_search,
                 loc_pid, loc_polygons,solar,dor_series,recent_sales,
                 db_connection )
@@ -80,4 +86,4 @@ app.layout = app_layout ( params, data_store )
 
 if __name__ == '__main__':
     from os import environ
-    app.run_server(host="0.0.0.0", port=int(environ.get("PORT", 5000)))#,debug=True)
+    app.run_server(host="0.0.0.0", port=8001,debug=True)
