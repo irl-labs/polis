@@ -1,0 +1,78 @@
+{
+  "sources": [
+    {
+      "name": "APS enrollment decline K-2.pdf",
+      "source": "https://raw.githubusercontent.com/irl-labs/polis/main/assets/blogs/FY27_override/APS%20enrollment%20decline%20K-2.pdf"
+    },
+    {
+      "name": "Budget Fudge It.pdf",
+      "source": "https://raw.githubusercontent.com/irl-labs/polis/main/assets/blogs/FY27_override/Budget%20Fudge%20It.pdf"
+    },
+    {
+      "name": "Fee Revenues from AASP and Community Education.pdf",
+      "source": "https://raw.githubusercontent.com/irl-labs/polis/main/assets/blogs/FY27_override/Fee%20Revenues%20from%20AASP%20and%20Community%20Education.pdf"
+    },
+    {
+      "name": "History of Overrides.pdf",
+      "source": "https://raw.githubusercontent.com/irl-labs/polis/main/assets/blogs/FY27_override/History%20of%20Overrides.pdf"
+    },
+    {
+      "name": "Politics is the Art of Whatever You Can Get Away With.pdf",
+      "source": "https://raw.githubusercontent.com/irl-labs/polis/main/assets/blogs/FY27_override/Politics%20is%20the%20Art%20of%20Whatever%20You%20Can%20Get%20Away%20With.pdf"
+    },
+    {
+      "name": "Recent 8% Compounded Salary Expense in Arlington Public Schools is Unsustainable, APS Expenditures are 87% of Property Tax Levy.pdf",
+      "source": "https://raw.githubusercontent.com/irl-labs/polis/main/assets/blogs/FY27_override/Recent%208%25%20Compounded%20Salary%20Expense%20in%20Arlington%20Public%20Schools%20is%20Unsustainable%2C%20APS%20Expenditures%20are%2087%25%20of%20Property%20Tax%20Levy.pdf"
+    },
+    {
+      "name": "School enrollment 1.41% average annual increase. School spending 5.78% average annual increase.pdf",
+      "source": "https://raw.githubusercontent.com/irl-labs/polis/main/assets/blogs/FY27_override/School%20enrollment%201.41%25%20average%20annual%20increase.%20School%20spending%205.78%25%20average%20annual%20increase.pdf"
+    },
+    {
+      "name": "Trust, easily lost, never recovered.pdf",
+      "source": "https://raw.githubusercontent.com/irl-labs/polis/main/assets/blogs/FY27_override/Trust%2C%20easily%20lost%2C%20never%20recovered.pdf"
+    },
+    {
+      "name": "Underestimating revenues and overestimating expenses to support an unnecessary override.pdf",
+      "source": "https://raw.githubusercontent.com/irl-labs/polis/main/assets/blogs/FY27_override/Underestimating%20revenues%20and%20overestimating%20expenses%20to%20support%20an%20unnecessary%20override.pdf"
+    }
+  ],
+  "converted": [
+    {
+      "pdf": "APS enrollment decline K-2.pdf",
+      "markdown": "/irl/data/governance/fy27_override_markdown_converter/markdown_out/FY27_override/APS-enrollment-decline-K-2/APS-enrollment-decline-K-2.md"
+    },
+    {
+      "pdf": "Budget Fudge It.pdf",
+      "markdown": "/irl/data/governance/fy27_override_markdown_converter/markdown_out/FY27_override/Budget-Fudge-It/Budget-Fudge-It.md"
+    },
+    {
+      "pdf": "Fee Revenues from AASP and Community Education.pdf",
+      "markdown": "/irl/data/governance/fy27_override_markdown_converter/markdown_out/FY27_override/Fee-Revenues-from-AASP-and-Community-Education/Fee-Revenues-from-AASP-and-Community-Education.md"
+    },
+    {
+      "pdf": "History of Overrides.pdf",
+      "markdown": "/irl/data/governance/fy27_override_markdown_converter/markdown_out/FY27_override/History-of-Overrides/History-of-Overrides.md"
+    },
+    {
+      "pdf": "Politics is the Art of Whatever You Can Get Away With.pdf",
+      "markdown": "/irl/data/governance/fy27_override_markdown_converter/markdown_out/FY27_override/Politics-is-the-Art-of-Whatever-You-Can-Get-Away-With/Politics-is-the-Art-of-Whatever-You-Can-Get-Away-With.md"
+    },
+    {
+      "pdf": "Recent 8% Compounded Salary Expense in Arlington Public Schools is Unsustainable, APS Expenditures are 87% of Property Tax Levy.pdf",
+      "markdown": "/irl/data/governance/fy27_override_markdown_converter/markdown_out/FY27_override/Recent-8-percent-Compounded-Salary-Expense-in-Arlington-Public-Schools-is-Unsustainable-APS-Expenditures-are-87-percent-of-Property-Tax-Levy/Recent-8-percent-Compounded-Salary-Expense-in-Arlington-Public-Schools-is-Unsustainable-APS-Expenditures-are-87-percent-of-Property-Tax-Levy.md"
+    },
+    {
+      "pdf": "School enrollment 1.41% average annual increase. School spending 5.78% average annual increase.pdf",
+      "markdown": "/irl/data/governance/fy27_override_markdown_converter/markdown_out/FY27_override/School-enrollment-1.41-percent-average-annual-increase.-School-spending-5.78-percent-average-annual-increase/School-enrollment-1.41-percent-average-annual-increase.-School-spending-5.78-percent-average-annual-increase.md"
+    },
+    {
+      "pdf": "Trust, easily lost, never recovered.pdf",
+      "markdown": "/irl/data/governance/fy27_override_markdown_converter/markdown_out/FY27_override/Trust-easily-lost-never-recovered/Trust-easily-lost-never-recovered.md"
+    },
+    {
+      "pdf": "Underestimating revenues and overestimating expenses to support an unnecessary override.pdf",
+      "markdown": "/irl/data/governance/fy27_override_markdown_converter/markdown_out/FY27_override/Underestimating-revenues-and-overestimating-expenses-to-support-an-unnecessary-override/Underestimating-revenues-and-overestimating-expenses-to-support-an-unnecessary-override.md"
+    }
+  ]
+}
