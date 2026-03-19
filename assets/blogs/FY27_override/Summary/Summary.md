@@ -48,7 +48,7 @@ Free cash balance explodes!  10% of budget, $22M+ balance.
 
 ## 2/11/26 [Recent 8% Compounded Salary Expense in Arlington Public Schools is Unsustainable](../Recent-8-percent-Compounded-Salary-Expense-in-Arlington-Public-Schools-is-Unsustainable-APS-Expenditures-are-87-percent-of-Property-Tax-Levy/Recent-8-percent-Compounded-Salary-Expense-in-Arlington-Public-Schools-is-Unsustainable-APS-Expenditures-are-87-percent-of-Property-Tax-Levy.md)  
   
-## Expenses dominated (85%) by an expanding payroll with a 7% CAGR, but we have no control over expenses because of inflation?  
+Expenses dominated (85%) by an expanding payroll with a 7% CAGR, but we have no control over expenses because of inflation?  
 
 ![Page 4 image 1](./assets/embedded-images/page-004-img-01.png)  
 
