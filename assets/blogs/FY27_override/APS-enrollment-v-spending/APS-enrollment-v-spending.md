@@ -86,17 +86,17 @@ Below are the expenses for selected General Fund GAAP reporting for the latest a
 | 2025 | $2,868,456   | Culture and Recreation        | 6.54%   | 0.73%                  |
 | 2025 | $4,077,654   | Intergovernmental Assessments | 3.00%   | 1.62%                  |
 | 2025 | $11,813,138  | Public Works                  | 1.79%   | 2.08%                  |
-| 2025 | $29,119,855  | <mark>State Revenue </mark>                 | 2.90%   | <mark>**2.43%**</mark> |
+| 2025 | $29,119,855  | <mark>**State Revenue**</mark>                 | 2.90%   | <mark>**2.43%**</mark> |
 | 2025 | $8,733,620   | Fire                          | -0.87%  | 2.89%                  |
 | 2025 | $9,719,188   | Police                        | 1.09%   | 3.34%                  |
 | 2025 | $8,698,445   | General Government            | 3.74%   | 3.51%                  |
 | 2025 | $224,209,281 | Total Revenues                | 4.27%   | 4.38%                  |
 | 2025 | $214,261,644 | Total Expenditures            | 2.56%   | 4.54%                  |
-| 2025 | $173,783,072 | <mark>Taxes </mark>                         | 7.61%   | <mark>**4.57%**</mark> |
+| 2025 | $173,783,072 | <mark>**Taxes**</mark>                         | 7.61%   | <mark>**4.57%**</mark> |
 | 2025 | $41,475,674  | Fixed Costs                   | 5.49%   | 4.72%                  |
 | 2025 | $1,605,229   | Human Services                | 3.71%   | 4.92%                  |
 | 2025 | $19,929,471  | Debt Service                  | -16.04% | 5.19%                  |
-| 2025 | $105,101,294 |  <mark>Education </mark>                     | 6.44%   | <mark>**5.78%**</mark> |
+| 2025 | $105,101,294 |  <mark>**Education**</mark>                     | 6.44%   | <mark>**5.78%**</mark> |
 | 2025 | $11,358,859  | Transfers                     | 2.29%   | 8.70%                  |
 | 2025 | $4,952,608   | Licenses and Permits          | -1.79%  | 9.74%                  |
 | 2025 | $4,111,604   | Miscellaneous                 | 9.34%   | 11.02%                 |
@@ -115,7 +115,7 @@ Below is a chart showing the annual expenditures for education, fire, police and
 
 ![Page 5 image 1](./assets/embedded-images/page-005-img-01.png)  
 
-Our analysis above covers General Fund spending; e.g. salaries, operating expenses.  The education spending quoted here does not include capital expenses, health care costs or retirement benefits.  DESE quotes ~$20K per pupil expense. which wildly understates the actual cost.  The AHS rebuild added $2200 per student per year for the next 30 years. A more realistic per pupil expense is $30K. There is no way for a family with 2 children in the APS to pay that benefit ($780,000) thru property taxes (~$6K per year or $78,000 over 13 years of K-12 for two children).  
+Our analysis above covers General Fund spending; e.g. salaries, operating expenses.  The education spending quoted here does not include capital expenses, health care costs or retirement benefits.  DESE quotes about $20K per pupil expense, which wildly understates the actual cost.  The AHS rebuild added $2200 per student per year for the next 30 years. A more realistic per pupil expense is $30K. There is no way for a family with 2 children in the APS to pay that benefit ($780,000) thru property taxes ($6K per year or $78,000 over 13 years of K-12 for two children).  
 
 ## Recap  
 
