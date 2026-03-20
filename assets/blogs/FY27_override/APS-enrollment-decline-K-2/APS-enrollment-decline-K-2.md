@@ -2,7 +2,7 @@
    
 What caused the 2014-2020 baby bump in the Arlington public school enrollments, you ask?  
 
-Below is the same [chart]() of Enrollment by grade for grades K-2 that we saw last time, zoomed in for the period FY2013 - FY2026.  The green line is Kindergarten enrollment for each school year (fiscal year), the blue line is first grade and the orange line is second grade.  
+Below is the same [chart](../APS-enrollment-v-spending/APS-enrollment-v-spending.md) of Enrollment by grade for grades K-2 that we saw last time, zoomed in for the period FY2013 - FY2026.  The green line is Kindergarten enrollment for each school year (fiscal year), the blue line is first grade and the orange line is second grade.  
 
 ![APS K-2 Enrollment](./assets/embedded-images/page-001-img-01.png)  
 
