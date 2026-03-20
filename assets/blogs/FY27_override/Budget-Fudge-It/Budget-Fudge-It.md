@@ -73,11 +73,11 @@ Below are two students enrollment, In District, the one on the left from the Sch
 <div style="display: flex; gap: 10px;">
   <div style="flex: 1; text-align: center;">
     <img src="./assets/embedded-images/page-008-img-01.png" style="width: 100%;">
-    <p><em>No Override - Key Metrics</em></p>
+    <p><em>Student Enrollment FY26 TM Report</em></p>
   </div>
   <div style="flex: 1; text-align: center;">
     <img src="./assets/embedded-images/page-008-img-02.png" style="width: 100%;">
-    <p><em>Yes Override - Key Metrics</em></p>
+    <p><em>Student Enrollment FY27 Budget Report</em></p>
   </div>
 </div>
   
