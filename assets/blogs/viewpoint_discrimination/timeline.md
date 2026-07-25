@@ -227,7 +227,7 @@ In 2023, Christiana introduced a civility oath that all TMMs were expected to ta
 
 > "I support free speech and will treat others with mutual respect and will conduct myself in a civil manner that is becoming of an elected town meeting member".
 
-See Exhibit [G1](20230424_ATM2023_Civility_Oath.txt), [url](https://youtu.be/vX6PMohO3tU?t=500).
+See Exhibit [G1](20230424_ATM2023_Civility_Oath.md), [url](https://youtu.be/vX6PMohO3tU?t=500).
 
 On 04-15-2025 TMM Chris Loreti rejects Christiana invoking the TM "Civility Oath" after Loreti criticized town officials in a direct email communication related to TM document availability.  Loreti copied the Selectmen and Feeney after Christiana wrote:
 
