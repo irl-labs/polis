@@ -255,7 +255,7 @@ In 2026, before the start of Town Meeting and again before specific warrant arti
 
 2026-04-29 “Articles 19 Tax Liens and Article 23 Peepers” — asked Christiana to disseminate to Town Meeting Members. See Exhibit [P2](20260429_Articles_19_Tax_liens_and_Article_23_Peepers..pdf).
 
-2026-05-15 “Town Meeting weaponizes civility violating residents’ constitutional rights” — demand-style email to Christiana and Feeney. See Exhibit [P2](20260515_Town_Meeting_weaponizes_civility_violating_residents_constitutional_rights.pdf).
+2026-05-15 “Town Meeting weaponizes civility violating residents’ constitutional rights” — demand-style email to Christiana and Feeney. See Exhibit [P3](20260515_Town_Meeting_weaponizes_civility_violating_residents_constitutional_rights.pdf).
 
 
 ## Conclusion
