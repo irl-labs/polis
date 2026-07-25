@@ -71,7 +71,7 @@ In 2022, Arlington did not merely choose a remote meeting format. Arlington chos
 
 The very system that restricted resident speech was adopted through a process in which objections to the system were themselves restricted.
 
-Arlington provided an incomplete TMM contact list prior to 2022 and continues to do so today.  Many TMMs complained about receiving Harrington's advocacy from the very beginning; other TMMs thanked Harrington.  See Exhibit [A5](20220426_TMM_messages.png)  and [A6](20220426_TMM_support_of_Notes.png)
+Arlington provided an incomplete TMM contact list prior to 2022 and continues to do so today.  Many TMMs complained about receiving Harrington's advocacy from the very beginning; other TMMs thanked Harrington.  See Exhibit [A5](20220426_TMM_messages.png)  and [A6](20220426_TMM_Support_of_Notes.png)
 
 
 ### ATM2022 Article 16 REGULATIONS FOR GAS POWERED LEAF BLOWERS
@@ -82,7 +82,7 @@ On 04-27-2022 Christiana posted on the TMM_Email_List a notice by "Quiet Healthy
 
 On 05-02-2022 Harrington emailed Christiana advocacy entitled "Vote NO on Article 16 Leaf Blower Ban" requesting Christiana post the email to the TMM_Email_list.  See exhibit [B2](20220502_Vote_NO_on_Article_16_Leaf_Blower_Ban.pdf).  Harrington had a long and documented advocacy against regulations proposed in Article 16.  See Exhibit [B3](404_NOT_FOUND).
 
-Harrington's Letter is not included in the [aWarrant](https://www.arlingtonma.gov/town-governance/town-meeting/2022-town-meeting-warrant) or on the TMM_Email_List, See exhibit [B4](20220500_Article_16_Leafblowers_aWarrant) or click thru [Arlington Documents](https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=13569&MeetingID=1564).
+Harrington's Letter is not included in the [aWarrant](https://www.arlingtonma.gov/town-governance/town-meeting/2022-town-meeting-warrant) or on the TMM_Email_List, See exhibit [B4](20220500_Article_16_Leafblowers_aWarrant.png) or click thru [Arlington Documents](https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=13569&MeetingID=1564).
 
 More Town Meeting Members complained about receiving Harrington's advocacy.  Most copied Christiana.  On May 2, 2022 TMM David Levy wrote to Harrington and Christiana
 
