@@ -178,7 +178,7 @@ Christiana wrote:
 
 Harrington's Letter was not disseminated nor included in the aWarrant.  See Exhibit [E2](20240500_ART14_Petition_Ban_aWarrant_Spencer_Piston_Correspondence_Received.png). Arlington resident Spencer Piston Letter is included in the aWarrant introduced by TMM Robin Bergman.  See exhibit [E3](20240427_Art_14_Letter_Spencer_Piston.pdf)
 
-Christiana acknowledges the Letter is applicable to Article 14 but does not add Harrington's Letter to the aWarrant.  Christiana claim that the TMM_Email_List and aWarrant are not "public forums".  Christiana's claim is not supported by the advocacy Letters from TMMs, residents and outside organizations throughout the 2024 ATM; see Articles 9,14,17,55,56.
+Christiana acknowledges the Letter is applicable to Article 14 but does not add Harrington's Letter to the aWarrant.  Christiana claims that the TMM_Email_List and aWarrant are not "public forums".  Christiana's claim is not supported by the advocacy Letters from TMMs, residents and outside organizations throughout the 2024 ATM; see Articles 9,14,17,55,56.
 
 ### ATM2024 Article 56 Prudent Investor Rule
 
@@ -287,3 +287,101 @@ Harrington demanded an immediate end to content-based restrictions and implement
 ### Remedy
 
 Any Arlington resident may submit written advocacy concerning a pending warrant article. Submissions shall be archived publicly and distributed to Town Meeting Members by digest, link, or resident remailer. The Town may impose neutral limits on timing, length, format, malware, privacy, and true threats. The Town may not reject submissions based on viewpoint, criticism of officials, tone, subjective civility, or undefined “appropriateness.” Any rejection must be written, cite the rule relied upon, and be preserved in a public log.
+
+## Harrington submissions requesting dissemination
+
+### 2022
+
+- April 25, 2022 "Town Meeting Petitions by Ordinary Citizens Submit to TM" --BeforeTM --response None
+- April 30, 2022 "ACAB TM Committee" --comparaters "?" --response "article closed"
+- May    2, 2022 "Article 16 - Leaf homeowners alone" --comparaters "QuietHealthyArlington", "Young Arlington Collaborative" --response "reformat?, None"
+- May   16, 2022 "Vote NO on Article 38" --comparater "Palmer/Einstein" --response "cover letter, content complaint, cover letter, successful"
+
+### 2023
+
+- Apr 18, 2023 "Who you represent" --BeforeTM
+- May  1, 2023 "Article 12 - Artificial Turf Moratorium" --response "see guidelines"
+- May 10, 2023 "Article 12 - Competing interests and faithful encounters" --response "None"
+- Oct 12, 2023 "Resolution for the Fair and Equal Property Tax Increase"  --BeforeTM --response "Cunningham"
+
+### 2024 
+
+- April 22, 2024 "Town Meeting profile" --BeforeTM
+- April 24, 2024 "Article 14 - Targeted Petitioning Ban" --reponse "Christiana acknowledges appropriateness, silent on co-signing"
+- April 28, 2024 "Article 56 - Prudent Investor Rule"
+- April 30, 2024 "Article 56 - Prudent Investor Rule" --BoS request to disseminate  --comparater "Cemetery and Library Letters"
+
+### 2026
+
+- April 27, 2026 "Consent Agenda" --BeforeTM --response "acknowledges errors, no dissemination"
+- April 29, 2026 "Articles 19 Tax liens and Article 23 Peepers." --response "look at guidelines"
+
+
+## Changes to TM Guidelines
+
+### Leone [TMG1](20190410_Leone_Moderator_Letter.pdf)
+
+### Leone [TMG2](20220303_TMM_Email_List_guidelines.png)
+
+##### Full Text
+
+
+### [TMG3](20220926_TMM_Email_List_guidelines.png)
+
+[20250000](https://www.arlingtonma.gov/home/showpublisheddocument/69552/638767819793730000)
+
+##### Full Text
+
+### [20230216](https://web.archive.org/web/20230216172528/https://www.arlingtonma.gov/town-governance/town-meeting/members-email-list)
+
+##### Full Text
+
+**Town Meeting Member Submission Guidelines**
+
+Submissions to be included in the TMM Email List and Annotated Warrant may be made by chairs of Town boards or committees, the Town Clerk, the Town Manager, department heads, and Town Meeting Members submitting material within the scope of a Warrant Article that is not yet closed. (This is essentially the same set of people who can speak at Town Meeting and introduce guest speakers.) Town Meeting Members may submit materials that they have co-signed with residents. Material containing images or non-trivial formatting must be submitted in PDF format or other widely available document formats; submissions may be converted to PDF when distributed or posted within the Annotated Warrant. Submissions are made to the Moderator who reviews and approves them. 
+
+The Moderator will exercise discretion over the appropriateness and relevance of the material for distribution, regardless of the source. 
+
+Once a submission related to a Warrant Article has been approved, it will be distributed to the TMM Email List and attached to the Annotated Warrant for that article under the Additional Materials section, listed after board reports and subsidiary motions. 
+
+**How to Submit**
+
+Submissions must be sent to: gchristiana@town.arlington.ma.us and follow the schedule below for posting to the list. 
+
+1) Main Motions, Substitute Motions, and Motions to Amend should be submitted at least 48 business hours prior to the meeting that they are to be voted upon so that there is sufficient time for review, posting and distribution. 
+
+2) General materials relevant to a Warrant Article, ***such as we find on our chairs***, should be submitted by 10:00 a.m. on the day of the meeting. 
+
+3) All materials must be clearly marked as to who is submitting them: i.e.: Name and Precinct Number, or which Town Department.  Unidentified materials will not be posted. 
+
+Questions about these processes and policies should be directed to the Town Moderator.
+
+This email list moved to the Town's content management system (CMS) in March 2015. The News section above, and its archive, shows correspondence in the order in which these materials were sent by Town Meeting Members and Town Officials via this email list. Correspondence prior to March 2015 may be found here.
+
+### Christiana [TMGX](20260618_Town_Meeting_Guidelines.pdf)
+
+Last modified: October 9, 2025
+
+> 4) If you submit materials that have been authored by someone else and have not been made available to the general public previously, then you must produce written permission from the author(s) for their material to be shared publicly as well as their explicit consent for their personally identifiable information
+and contact information to appear in the material.
+
+##### Full Text
+
+**Electronically Distributed Materials**
+
+Informational submissions to be included in the TMM Email List and Annotated Warrant that are not intended for live presentation at Town Meeting may be made by chairs of Town boards or committees, the Town Clerk, the Town Manager, department heads, and Town Meeting Members submitting material within the scope of a Warrant Article that is not yet closed. (This is essentially the same set of people who can speak at Town Meeting and introduce guest speakers.) Town Meeting Members may submit materials that they have co-signed with residents. Material containing images or non-trivial formatting must be submitted in PDF format or other widely available document formats; submissions may be converted to PDF when distributed or posted within the Annotated Warrant. Submissions are made to the Moderator who reviews and approves them. The Moderator asks that submissions from each TMM be limited to one email request per article per business day with no more than 3 documents in each email request. Submissions must be sent to the Moderator and follow the schedule below for posting to the list.
+
+1) Informational submissions relevant to a Warrant Article should be submitted by 5 pm of the business
+day before the meeting. Approved submissions will be posted by 5 pm on the day of the meeting.
+
+2) All materials must be clearly marked as to who is submitting them: i.e.: Name and Precinct Number, or Town Department, at the top of the first page. Materials submitted on behalf of a committee must be submitted by either the Chair of the committee or an officially recognized administrator for the committee. Unidentified materials will not be posted.
+
+3) If you wish to provide paper copies of a document, place them on the back table so Town Meeting Members can choose to collect them at check in. Printed materials must clearly indicate who wrote or sponsored them (name and precinct or address, Town Department, etc.)
+
+4) If you submit materials that have been authored by someone else and have not been made available to the general public previously, then you must produce written permission from the author(s) for their material to be shared publicly as well as their explicit consent for their personally identifiable information and contact information to appear in the material. 
+
+The Moderator will exercise discretion over the appropriateness and relevance of the material for distribution, regardless of the source. 
+
+Once a submission related to a Warrant Article has been approved, it will be distributed to the TMM Email List and attached to the Annotated Warrant for that article, listed after board reports and subsidiary motions. 
+
+Questions about these processes and policies should be directed to the Moderator.
