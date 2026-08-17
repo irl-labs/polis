@@ -162,7 +162,7 @@ Officials and TMMs were scrutinizing resident advocacy for civility and appropri
 
 On 04-25-2024 Harrington requested Christiana disseminate a Letter requesting TMMs to vote NO on Article 14 - Targeted Petitioning Ban or to adopt the time restriction.  See Exhibit [E1](20240425_Article_14_Targeted_Petitioning_Ban.pdf)
 
-On 04-26-2024 Harrington responded to Christiana's rejection of Harrington's Letter citing lack of a co-signer and the availability of the TMM_Email_List.  See Exhibit [E2](20250425_Re_Article_14_Targeted_Petitioning_Ban_email_chain.pdf)
+On 04-26-2024 Harrington responded to Christiana's rejection of Harrington's Letter citing lack of a co-signer and the availability of the TMM_Email_List.  See Exhibit [E2](20240425_Re_Article_14_Targeted_Petitioning_Ban_email_chain.pdf)
 
 Christiana wrote:
 
@@ -187,6 +187,8 @@ Beginning in early March and through May of 2024, Harrington engaged the Board o
 On 04-28-2024 Harrington requested Christiana disseminate a Vote NO on Article 56 Letter to the TMM_Email_List. See Exhibit [F1](20240428_Article_56_Prudent_Investor_Rule_limited_distribution.pdf).
 
 On 04-29-2024 Christiana refused, citing the TMM_Email_List, and by extension the aWarrant, was a town function and not a public forum. See Exhibit [F2](20240429_Re_Article_56_Prudent_Investor_Rule_Christiana_Response_TMM_Emails_Town_Service.pdf). The [ATM2024 aWarrant](https://www.arlingtonma.gov/town-governance/town-meeting/2024-town-meeting-warrant) shows TMM advocacy Letters on A9, A17, A55, A56; co-signed resident Letter A14; and the MSPCA A17.
+
+>"Again, the TMM Email List is a service provided by the Town of Arlington for Town Meeting Members and Town oﬃcials (including chairs of Town committees) to share materials with each other, with those materials moderated by the Town Moderator and viewable by members of the public. The TMM Email List is not a public forum."
 
 On 04-30-2024 Harrington requests the BoS direct Feeney to add Letter to TMM_Email_List. See Exhibit [F3](20240430_Article_56_Prudent_Investor_Rule_BoS_Request_to_direct_Manager.pdf).
 
