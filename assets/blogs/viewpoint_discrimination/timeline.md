@@ -251,17 +251,24 @@ Christiana removed the civility phrase from the oath for the 2026 TM.
 
 In 2026, before the start of Town Meeting and again before specific warrant articles were open for debate, Harrington made explicit dissemination requests.
 
-2026-04-27 Harrington requested Christiana disseminate to Town Meeting Members errors found in the "Consent Agenda" and advocacy to minimize Consent Agendas.  Christiana acknowledges the errors, directs Brazile to correct, but does not disseminate to TMMs or include in the aWarrant.  See Exhibit [P1](20260427_Town_Meeting_Consent_Agenda.pdf).
+2026-04-27 Harrington requested Christiana disseminate to Town Meeting Members errors found in the "Consent Agenda" and advocacy to minimize Consent Agendas.  Christiana acknowledges the errors, directs Brazile to correct, but does not disseminate to TMMs or include in the aWarrant.  See Exhibit [P1](20260427_Town_Meeting_Consent_Agenda.pdf).  Christiana's response, See Exhibit [P2R](20260427_Consent_agenda_Request_and_response.pdf).
 
-2026-04-29 “Articles 19 Tax Liens and Article 23 Peepers” — asked Christiana to disseminate to Town Meeting Members. See Exhibit [P2](20260429_Articles_19_Tax_liens_and_Article_23_Peepers..pdf).
+> "The guidelines for distributing materials to TMMs through the TMM Email List have not materially changed in the past few years. Please see the section [Electronically Distributed Materials in the Town Meeting Guidelines for details:](https://www.arlingtonma.gov/home/showpublisheddocument/69552/638956805441370000)"
 
-2026-05-15 “Town Meeting weaponizes civility violating residents’ constitutional rights” — demand-style email to Christiana and Feeney. See Exhibit [P3](20260515_Town_Meeting_weaponizes_civility_violating_residents_constitutional_rights.pdf).
+
+2026-04-29 “Articles 19 Tax Liens and Article 23 Peepers” — asked Christiana to disseminate to Town Meeting Members. See Exhibit [P2](20260429_Articles_19_Tax_liens_and_Article_23_Peepers..pdf).  Christiana's response, see [P2R](20260430_Articles_19_Tax_liens_and_Article_23_Peepers_Request_and_Response.pdf).
+
+> "Your request to distribute content to Town Meeting Members and your question about the Town's privacy policy have been addressed in prior correspondence."
+
+2026-05-15 “Town Meeting weaponizes civility violating residents’ constitutional rights” — demand-style email to Christiana and Feeney. See Exhibit [P3](20260515_Town_Meeting_weaponizes_civility_violating_residents_constitutional_rights.pdf).  No response.
 
 ### TMM_Email_List and Town Meeting Procedures Committee
 
 The use of the TMM_Email_List changed dramatically from [2015-2021](TMM_pages_1_9_2022_2026_annotated_warrant_extraction.xlsx) under former Town Meeting Moderator Leone when compared to the period [2022-2026](TMM_pages_10_19_2015_2021_annotated_warrant_extraction.xlsx) under Christiana.  The volume of submissions doubled, consisting of Letters of Advocacy, almost exclusively by TMMs with some TMMs [engaging in debate](https://www.arlingtonma.gov/home/showdocument?id=65135&t=638181112765049617), strictly against the "no-debate" standard common throughout the entire existence of the TMM_Email_List.
 
 There is no record of the Town Meeting Procedures meeting in 2022, see [Q1](20260805_TM_Procedures_Agendas_page_archive_by_year.png).  Further, the current official TMM guidelines, [Q2](Town_Meeting_Guidelines.pdf), states the initial draft was presented on July 19, 2023, however minutes from that meeting are not available [Q3](20230000_TMPC_Meeting_Missing_Minutes.png).  No discussion can be found concerning the co-sign guideline in any TMPC meeting, see Exhibit [Q4](TMM_annotated_warrant_extraction.xlsx).
+
+An open records request reveals that only Harrington's advocacy was denied inclusion into the TMM_Email_list and the aWarrant.
 
 ## Conclusion
 
@@ -273,8 +280,8 @@ If the TMM Email List is a Town service, it is government infrastructure. Even i
 
 The issue is not manners. The issue is whether vague civility and appropriateness concepts are being used as enforceable speech filters in a Town-controlled communication system.
 
-Harrington demanded an immediate end to content-based restrictions and implementation of an unblockable, Town-administered communication channel — such as a resident remailer — to restore lawful public access and transparency to the Town Meeting process.  There was no reply nor was the demand added to the TM public record.
+Harrington demanded an immediate end to content-based restrictions and implementation of an unblockable, Town-administered communication channel, such as a resident remailer, to restore lawful public access and transparency to the Town Meeting process.  There was no reply nor was the demand added to the TM public record.
 
-#### Remedy
+### Remedy
 
 Any Arlington resident may submit written advocacy concerning a pending warrant article. Submissions shall be archived publicly and distributed to Town Meeting Members by digest, link, or resident remailer. The Town may impose neutral limits on timing, length, format, malware, privacy, and true threats. The Town may not reject submissions based on viewpoint, criticism of officials, tone, subjective civility, or undefined “appropriateness.” Any rejection must be written, cite the rule relied upon, and be preserved in a public log.
