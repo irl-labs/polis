@@ -134,7 +134,7 @@ May 25, 2022 Kaepplein is removed from the slack by 7:51PM. See Exhibit [C1](202
 
 TMM Adam MacNeill wrote:
 
-> "Harrington has a long history of harassing and attempting to intimidate people, especially women". See Exhibit [C2](20220526_Daniel_Jalkut_and_Slack_Adam_McNeill.pdf")
+> "Harrington has a long history of harassing and attempting to intimidate people, especially women". See Exhibit [C2](20220526_Daniel_Jalkut_and_Slack_Adam_McNeill.pdf)
 
 May 25, 2022 TMM Annie LaCourt criticizes Kaepplein and uses emojis that suggested violence while TM was in session.  See Exhibit [C2](20220526_Daniel_Jalkut_and_Slack_Adam_McNeill.pdf)
 
@@ -146,7 +146,7 @@ May 27, 2022 TMM Daniel Jalkut ("Jalkut") announces his privately owned channel 
 
 > We have had really good luck so far with only Town Meeting Members using the invitation links, with the exception of one person who I had to remove from the Slack.  
 
-May 31, 2022 TMM Michelle Desmond wrote to Christiana, Heim and Chapdeliane complaining about the Slack channel. See Exhibit [C5](20220531_Desmond_Slack_Channel.pdf)
+May 31, 2022 TMM Michelle Desmond wrote to Christiana, Heim and Chapdeliane complaining about the Slack channel. See Exhibit [C5](20220531_Desmond_Slack_Channel.png)
 
 > "Why is this channel allowed during the meeting...", "After hearing about this I wanted to quit town meeting", "many are afraid to say anything as they feel they will be targeted and forced out.", "not allowed access... to previous conversations."
 
@@ -166,7 +166,7 @@ October 16, 2023.  Harrington's concerns with the co-signer rule and Town Counci
 
 On 04-25-2024 Harrington requested Christiana disseminate a Letter requesting TMMs to vote NO on Article 14 - Targeted Petitioning Ban or to adopt the time restriction.  See Exhibit [E1](20240425_Article_14_Targeted_Petitioning_Ban.pdf)
 
-On 04-26-2024 Harrington responded to Christiana's rejection of Harrington's Letter citing lack of a co-signer and the availability of the TMM_Email_List.  See Exhibit [E2](20240425_Re_Article_14_Targeted_Petitioning_Ban_email_chain.pdf)
+On 04-26-2024 Harrington responded to Christiana's rejection of Harrington's Letter citing lack of a co-signer and the availability of the TMM_Email_List.  See Exhibit [E2](20240426_Re_Article_14_Targeted_Petitioning_Ban_email_chain.pdf)
 
 Christiana wrote:
 
@@ -223,7 +223,7 @@ Christiana's terse response, See Exhibit [O2](20231026_Reset_1_Christiana_Respon
 
 ### Offramp 2: 2024 conduit request
 
-After Christiana insisted residents needed a TMM/official conduit, Harrington challenged that requirement during Article 14 and asked the Moderator to submit germane resident advocacy himself if no lawful co-sponsor rule existed. Days later, with Article 56, Harrington again requested dissemination; when denied, Harrington requested that the Select Board/Town Manager add the Letter to the TMM_Email_List and aWarrant. See Exhibit [O2](20250425_Re_Article_14_Targeted_Petitioning_Ban_email_chain.pdf).
+After Christiana insisted residents needed a TMM/official conduit, Harrington challenged that requirement during Article 14 and asked the Moderator to submit germane resident advocacy himself if no lawful co-sponsor rule existed. Days later, with Article 56, Harrington again requested dissemination; when denied, Harrington requested that the Select Board/Town Manager add the Letter to the TMM_Email_List and aWarrant. See Exhibit [O2](20240425_Re_Article_14_Targeted_Petitioning_Ban_email_chain.pdf).
 
 ### Offramp 3: 2026 resident remailer / neutral channel demand
 
@@ -240,7 +240,7 @@ In 2023, Christiana introduced a civility oath that all TMMs were expected to ta
 
 > "I support free speech and will treat others with mutual respect and will conduct myself in a civil manner that is becoming of an elected town meeting member".
 
-See Exhibit [G1](20230424_ATM2023_Civility_Oath.md), [url](https://youtu.be/vX6PMohO3tU?t=500).
+See Exhibit [G1](20230424_ATM2023_Civility_Oath.txt), [url](https://youtu.be/vX6PMohO3tU?t=500).
 
 On 04-15-2025 TMM Chris Loreti rejects Christiana invoking the TM "Civility Oath" after Loreti criticized town officials in a direct email communication related to TM document availability.  Loreti copied the Selectmen and Feeney after Christiana wrote:
 
