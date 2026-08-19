@@ -380,7 +380,7 @@ The Town should provide a neutral, durable resident-access mechanism integrated 
 
 ### 2024 
 
-- April 22, 2024 "Town Meeting profile" --BeforeTM
+- April 22, 2024 "Town Meeting profile" --BeforeTM --comparator "virtual block party" Exhibit [TMM2](20240424_TMM_Email_List_Block_Party.png)
 - April 24, 2024 "Article 14 - Targeted Petitioning Ban" --response "Christiana acknowledges appropriateness, silent on co-signing"
 - April 28, 2024 "Article 56 - Prudent Investor Rule"
 - April 30, 2024 "Article 56 - Prudent Investor Rule" --Select Board request to disseminate  --comparator "Cemetery and Library Letters"
