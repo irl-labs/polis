@@ -294,14 +294,16 @@ No response.
 
 The use of the TMM_Email_List changed dramatically from [2015-2021](TMM_pages_1_9_2022_2026_annotated_warrant_extraction.xlsx) under former Town Moderator Leone when compared to the period [2022-2026](TMM_pages_10_19_2015_2021_annotated_warrant_extraction.xlsx) under Christiana.  
 
-The volume of submissions doubled, consisting of Letters of Advocacy, almost exclusively by TMMs.  
+The volume of submissions doubled, consisting of Letters of Advocacy, almost exclusively by TMMs.  See comparison of the activity on the TMM_Email_List below during the Leone period from 2015 - 2021 and Christiana from 2022 - 2026.  Note the scale difference and submission type changes.
+
+![TMM_Email_List submissions Leone v Christiana](TMM_Email_List_Leone_v_Christiana.png)
 
 Some TMMs [engaged in debate](https://www.arlingtonma.gov/home/showdocument?id=65135&t=638181112765049617), strictly against the "no-debate" standard common throughout the entire existence of the TMM_Email_List.
 
 
 A review of the Town's own [archive](https://www.arlingtonma.gov/town-governance/town-meeting/members-email-list/-arch-1) shows a marked change beginning in 2022; what had been predominantly administrative and parliamentary distribution (reports, amendments, substitute motions and similar documents) became a Town-controlled channel heavily populated with individually attributed letters, statements, presentations, advocacy, outside submissions, responses and rebuttals concerning pending legislation. Because those communications are expressly attributed to their private authors rather than presented as the Town's own views, calling the TMM Email List and Annotated Warrant a “government function” does not resolve the constitutional question; the issue is the Town's regulation of private speech within government infrastructure, not merely its control over government speech.
 
-The public archive presently reflects only one of my submissions, from May 2022. Numerous subsequent requests for dissemination are documented independently. I continue to await identification of what submissions and disposition records are absent from the archive.
+The public archive presently reflects only one of Harrington's submissions, from May 2022. Numerous subsequent requests for dissemination are documented independently. We await identification of what submissions and disposition records are absent from the archive.
 
 ### Town Meeting Procedures Committee
 
