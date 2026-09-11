@@ -10,7 +10,7 @@ After Arlington Town Meeting moved into electronic processes, resident access to
 
 ### Remedy
 
-The Town should provide a neutral, durable resident-access mechanism integrated into the same Town-controlled communication system used for TMM, official, and other warrant-related advocacy. Any Arlington resident should be able to submit written material concerning a pending warrant article for inclusion alongside other correspondence and advocacy in the article-specific Annotated Warrant archive, with notice or distribution to TMMs through the same email-list, digest, or link process used for other submissions. The Town may impose reasonable, viewpoint-neutral rules governing timing, length, format, duplication, malware, privacy, true threats, and non-germane commercial material, but resident access should not depend on a TMM co-sponsor or subjective review for tone, civility, criticism of officials, or undefined “appropriateness.” Any rejection should be in writing, identify the specific rule and factual basis relied upon, and be preserved in a publicly accessible disposition log. This preserves the Town's ability to administer its communication infrastructure while ensuring that resident advocacy is neither segregated into a lesser channel nor conditioned on an intermediary's approval.
+The Town should provide a neutral, durable resident-access mechanism integrated into the same Town-controlled communication system used for TMM, official, and other warrant-related advocacy. Any Arlington resident should be able to submit written material concerning a pending warrant article for inclusion alongside other correspondence and advocacy in the article-specific Annotated Warrant archive, with notice or distribution to TMMs through the same email-list, digest, or link process used for other submissions. The Town may impose reasonable, viewpoint-neutral rules governing timing, length, format, duplication, malware, privacy, true threats, and non-germane commercial material, but resident access should not depend on a TMM co-sponsor or subjective review for tone, civility, criticism of officials, or undefined “appropriateness”. Any rejection should be in writing, identify the specific rule and factual basis relied upon, and be preserved in a publicly accessible disposition log. This preserves the Town's ability to administer its communication infrastructure while ensuring that resident advocacy is neither segregated into a lesser channel nor conditioned on an intermediary's approval.
 
 ## Background
 
@@ -18,18 +18,18 @@ The Town should provide a neutral, durable resident-access mechanism integrated 
 
 Below is a list of Arlington officials referenced in this document.
 
-- Greg Christiana - Arlington Town Moderator 4/2022 ("Christiana")
-- James Feeney - Arlington Town Manager 2023 ("Feeney"), Public Records Officer 2022-2023 ("Feeney")
+- Greg Christiana - Arlington Town Moderator 2022-04-02 - current ("Christiana")
+- James Feeney - Arlington Town Manager 2023 - current ("Feeney"), Public Records Officer 2022-2023 ("Feeney")
 - Michael Cunningham - Arlington Town Counsel 11/13/2023 ("Cunningham")
-- Juli Brazile - Arlington Town Clerk ("Brazile")
+- Juli Brazile - Arlington Town Clerk ("Brazile") 2022 - current
 
 Former Arlington officials:
 
-- Douglas Heim -  Andover Town Counsel, former Arlington Town Counsel 2014 - 10/06/2023 ("Heim")
-- Adam Chapdelaine - former Arlington Town Manager 2012 - 6/2022 ("Chapdelaine")
+- Douglas Heim - Andover Town Counsel, former Arlington Town Counsel 2014 - 2023-10-06 ("Heim")
+- Adam Chapdelaine - former Arlington Town Manager 2012 - 2022-06-30 ("Chapdelaine")
 
 
-On April 2, 2022 Google engineer Christiana defeated the incumbent Town Moderator, lawyer John Leone, becoming the new Town Moderator. See [2022 Election Results](https://www.arlingtonma.gov/home/showpublisheddocument/60893/637865871993200000).
+On 2022-04-02 Google engineer Christiana defeated the incumbent Town Moderator, lawyer John Leone, becoming the new Town Moderator. See [2022 Election Results](https://www.arlingtonma.gov/home/showpublisheddocument/60893/637865871993200000).
 
 ### Terms
 
@@ -52,19 +52,19 @@ From the TMM_Email_List:
 
 ### Concerns of Public Access
 
-Christiana conducted the 2022 ATM as a virtual Town Meeting using Zoom and electronic communications in place of a physical meeting at Arlington Town Hall.  The meeting commenced on April 26, 2022.
+Christiana conducted the 2022 ATM as a virtual Town Meeting using Zoom and electronic communications in place of a physical meeting at Arlington Town Hall.  The meeting commenced on 2022-04-26.
 
-On 04-24-2022, before Town Meeting commenced, Harrington emailed Christiana and Heim questioning how Town Meeting would accommodate petitions by members of the general public under the virtual Town Meeting format proposed by Christiana.  Christiana responded directing Harrington to email Christiana with petitions. Christiana would review for relevance and appropriateness, required authorship for accountability and would forward to town staﬀ for inclusion. See Exhibit [A1](20220424_Town_Meeting_Petitions_by_Ordinary_Citizens.pdf)
+On 2022-04-24, before Town Meeting commenced, Harrington emailed Christiana and Heim questioning how Town Meeting would accommodate petitions by members of the general public under the virtual Town Meeting format proposed by Christiana.  Christiana responded directing Harrington to email Christiana with petitions. Christiana would review for relevance and appropriateness, required authorship for accountability and would forward to town staﬀ for inclusion. See Exhibit [A1](20220424_Town_Meeting_Petitions_by_Ordinary_Citizens.pdf)
 
-On 04-25-2022 Harrington requested Christiana forward advocacy to the TMM_Email_List urging members to "Vote NO on continuing Remote Town Meeting due to lack of public accommodation".  See Exhibit [A2](20220425_Vote_NO_on_continuing_Remote_Town_Meeting_due_to_lack_of_public_accommodation.pdf).
+On 2022-04-25 Harrington requested Christiana forward advocacy to the TMM_Email_List urging members to "Vote NO on continuing Remote Town Meeting due to lack of public accommodation".  See Exhibit [A2](20220425_Vote_NO_on_continuing_Remote_Town_Meeting_due_to_lack_of_public_accommodation.pdf).
 
 Some TMMs thanked Harrington for his Letter, some requested Harrington to not email them.  See Exhibit [A3](20220425_Responses_to_First_Email_to_TM.png).
 
 There is no record of Exhibit [A2](20220425_Vote_NO_on_continuing_Remote_Town_Meeting_due_to_lack_of_public_accommodation.pdf) in the TMM_Email_List or in the aWarrant archives.
 
-On 04-26-2022 Christiana put forward a vote at the start of Town Meeting to adopt remote sessions barring debate on the merits. See Exhibit [A4](20220426_TM_transcript.md) or [url](https://youtu.be/BE3ZfLD8ano?si=Qns3JjT3f1HgzXA-&t=908)
+On 2022-04-26 Christiana put forward a vote at the start of Town Meeting to adopt remote sessions barring debate on the merits. See Exhibit [A4](20220426_TM_transcript.md) or [url](https://youtu.be/BE3ZfLD8ano?si=Qns3JjT3f1HgzXA-&t=908)
 
-On 04-26-2022 Harrington wrote a complaint to the Massachusetts Attorney General's office [A5](20220426_Public_accommodation_for_Arlingtons_2022_Virtual_Town_Meeting.pdf).  There was no response.
+On 2022-04-26 Harrington wrote a complaint to the Massachusetts Attorney General's office [A5](20220426_Public_accommodation_for_Arlingtons_2022_Virtual_Town_Meeting.pdf).  There was no response.
 
 In 2022, Arlington did not merely choose a remote meeting format. Arlington chose a controlled electronic speech architecture. Harrington warned that the architecture would burden residents’ ability to petition and inform Town Meeting. That warning was not distributed through the official channel as resident advocacy. When the Meeting voted on whether to proceed remotely, the Moderator expressly barred debate on the merits and allowed only procedural questions. The later co-signer requirement, Moderator review for “appropriateness,” public-list blocking, and private-channel deliberation were not accidental side effects; they were the foreseeable operation of the controlled system Harrington had objected to at the outset.
 
@@ -78,7 +78,7 @@ When Arlington replaced the ordinary physical avenues for communicating written 
 
 Harrington's concern with the ability of the general public to petition Town Meeting was due to inclusion of Article 16 in the 2022 Annual Town Meeting.  Harrington had spent many hours advocating before Town Meeting for residential exceptions on any ban of leaf blowers, was directly impacted by any such ban and was concerned Town Meeting would ban residential use of leaf blowers.
 
-On 04-27-2022 Christiana posted on the TMM_Email_List a notice by "Quiet Healthy Arlington" for Article 16 banning gas powered leaf blowers.  See Exhibit [B1](https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=13569&MeetingID=1564).  
+On 2022-04-27 Christiana posted on the TMM_Email_List a notice by "Quiet Healthy Arlington" for Article 16 banning gas powered leaf blowers.  See Exhibit [B1](https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=13569&MeetingID=1564).  
 
 The presentation [B2](https://www.arlingtonma.gov/home/showdocument?id=60851&t=637864848891530000) only identifies the authors' website (quiethealthyarlington.org) currently not reachable. See Exhibit [B3](20220427_Article_16_Leafblowers_QuietHealthyArlington.png). 
 
@@ -86,21 +86,22 @@ The Article 16 cover sheet identifies Anne Goodwin and Alicia Russell as petitio
 
 The prevailing and current TMM_Email_List guidelines do not grant resident proponents access without a TMM co-signer and all submissions must identify the authors.
 
-On 05-02-2022 Harrington emailed Christiana advocacy entitled "Vote NO on Article 16 Leaf Blower Ban" requesting Christiana post the email to the TMM_Email_List.  See Exhibit [B5](20220502_Vote_NO_on_Article_16_Leaf_Blower_Ban.pdf).  
+On 2022-05-02 Harrington emailed Christiana advocacy entitled "Vote NO on Article 16 Leaf Blower Ban" requesting Christiana post the email to the TMM_Email_List.  See Exhibit [B5](20220502_Vote_NO_on_Article_16_Leaf_Blower_Ban.pdf).  
 
 Harrington had a long and documented advocacy against regulations proposed in Article 16.  See Exhibit [B6](https://www.arlingtonma.gov/home/showpublisheddocument/9884/635278830672770000).
 
-Harrington's Letter is not included in the 2022 aWarrant, see Exhibit [B7](https://www.arlingtonma.gov/town-governance/town-meeting/2022-town-meeting-warrant) or on the TMM_Email_List, See Exhibit [B8](20220500_Article_16_Leafblowers_aWarrant.png) or click thru [Arlington Documents](https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=13569&MeetingID=1564).
+Harrington's Letter is not included in the 2022 aWarrant, see Exhibit [B7](https://www.arlingtonma.gov/town-governance/town-meeting/2022-town-meeting-warrant) or on the TMM_Email_List, See Exhibit [B8](20220500_Article_16_Leafblowers_aWarrant.png) or click through [Arlington Documents](https://arlington.novusagenda.com/Agendapublic/CoverSheet.aspx?ItemID=13569&MeetingID=1564).
 
-More Town Meeting Members complained about receiving Harrington's advocacy.  Most copied Christiana.  On May 2, 2022 TMM David Levy wrote to Harrington and Christiana:
+More Town Meeting Members complained about receiving Harrington's advocacy.  Most copied Christiana.  
 
+On 2022-05-02 TMM David Levy wrote to Harrington and Christiana:
 > "... remove me from your mailing list? (I)f town moderator Greg believes it should be posted, I'll read it from that list" 
 
-See Exhibit [B9](20220502_Dave_Levy.png)
+See Exhibit [B9](20220502_Dave_Levy.png).
 
-The Levy email from May 2, 2022 exposes the flaw with the private email advocacy the Town provided. TMM Nora Mann's message [B10](20220502_Nora_Mann.png) confirms that email blocking took place immediately.  Private communications exposed Harrington to trolling and personal invective, e.g. Justice Democrats.  See Exhibit [B11](20220502_Justice_Democrats.png).  
+The Levy email from May 2 exposes the flaw with the private email advocacy the Town provided. TMM Nora Mann's message [B10](20220502_Nora_Mann.png) confirms that email blocking took place immediately.  Private communications exposed Harrington to trolling and personal invective, e.g. Justice Democrats [B11](20220502_Justice_Democrats.png).  
 
-Christiana knew or should have known as early as May 2, 2022 that relying on private communications with public bodies created barriers to advocacy from the general public.
+Christiana knew or should have known as early as May 2 that relying on private communications with public bodies created barriers to advocacy from the general public.
 
 The April 26 distribution triggered immediate resistance from some TMMs, including opt-out demands, blocking, and claims that the advocacy was disrespectful or hostile. TMM responses to Harrington's private communications show that direct resident emailing was socially and technically unstable, while the official alternative was subject to Moderator discretion. That combination created a structural barrier to unpopular resident speech.
 
@@ -110,48 +111,45 @@ The TMM_Email_List guidelines were established under Leone before 2015 and the g
 
 See Exhibit [C1](20220303_TMM_Email_List_guidelines.png).
 
-On May 16, Christiana changed TM's electronic submission guidelines, after consultation with the Town Clerk and Town staff, to include a requirement that all public communication to the TMM_Email_List or aWarrant be co-signed by a TMM.  See Exhibit [C2](https://www.arlingtonma.gov/Home/Components/News/News/12171/3819).
+On 2022-05-16, Christiana changed TM's electronic submission guidelines, after consultation with the Town Clerk and Town staff, to include a requirement that all public communication to the TMM_Email_List or aWarrant be co-signed by a TMM.  See Exhibit [C2](20220516_Christiana_Announcement_Co_Sign_rule.png) or [url](https://www.arlingtonma.gov/Home/Components/News/News/12171/3819).
 
 > "Town Meeting Members may submit materials that they have co-signed with residents."  As well, materials containing images needed to be in pdf or similar format.  
 
 See Exhibit [C3](20220926_TMM_Email_List_guidelines.png).
 
-There is no record of the Town Meeting Procedures Committee ("TMPC") meeting in 2022, see [Q2](20260805_TM_Procedures_Agendas_page_archive_by_year.png).  Further, the current official Town Meeting Guidelines, [Q3](Town_Meeting_Guidelines.pdf), state the initial draft was presented on July 19, 2023, however minutes from that meeting are not available [Q4](20230000_TMPC_Meeting_Missing_Minutes.png).  No discussion can be found concerning the co-sign guideline in any TMPC meeting, see Exhibit [Q5](TMM_annotated_warrant_extraction.xlsx).
+There is no record of the Town Meeting Procedures Committee ("TMPC") meeting in 2022, see [C4](20260805_TM_Procedures_Agendas_page_archive_by_year.png).  Further, the current official Town Meeting Guidelines, [C5](Town_Meeting_Guidelines.pdf), state the initial draft was presented on July 19, 2023, however minutes from that meeting are not available [C6](20230000_TMPC_Meeting_Missing_Minutes.png).  No discussion can be found concerning the co-sign guideline in any TMPC meeting, see Exhibit [C7](TMM_annotated_warrant_extraction.xlsx).
 
-On May 17, 2022 Harrington requested TMM Kristin Anderson ("Anderson") to co-sign his Article 38 advocacy. Anderson had thanked Harrington for a social media post with materially the same contents just weeks before. Anderson wrote to Christiana and Brazile the same day for clarification:
+On 2022-05-17, 2022 Harrington requested TMM Kristin Anderson ("Anderson") to co-sign his Article 38 advocacy. Anderson had thanked Harrington for a social media post with materially the same contents just weeks before. Anderson wrote to Christiana and Brazile the same day for clarification:
 
 > "Stephen Harrington's odd request", "...maybe he's asking me to do something shady?", "Know that I have never agreed with Mr. Harrington about anything.","...he has my permission...as long as he's civil." 
 
-See Exhibit [C4](20220517_Anderson_Christiana_Brazile.png).
+See Exhibit [C8](20220517_Anderson_Christiana_Brazile.png).
 
-On May 23, 2022 Harrington contacted Christiana not seeing the "Vote NO on Article 38" advocacy dessiminated on the TMM_Email_List.  See Exhibit [C5](20220523_Article_38_No_Anderson_submission.pdf).
+On 2022-05-23 Harrington contacted Christiana not seeing the "Vote NO on Article 38" advocacy disseminated on the TMM_Email_List.  See Exhibit [C9](20220523_Article_38_No_Anderson_submission.pdf).
 
-On May 25, 2022 Harrington initiated an email exchange with Anderson from approximately 8:00AM through the 10AM TMM_Email_List submission deadline.  Anderson wanted several changes to Harrington's advocacy for civility [C6](20220525_Article_38_Anderson_email_chain.png).  When Harrington refused she wanted to write a "cover letter" disavowing Harrington's opinion and insinuating Harrington intended to sue Arlington for speech violations.  See Exhibit [C7](20220525_Anderson_5.png).
+On 2022-05-25 Harrington initiated an email exchange with Anderson from approximately 8:00AM through the 10AM TMM_Email_List submission deadline.  Anderson wanted several changes to Harrington's advocacy for civility [C10](20220525_Article_38_Anderson_email_chain.png).  When Harrington refused she wanted to write a "cover letter" disavowing Harrington's opinion and insinuating Harrington intended to sue Arlington for speech violations.  See Exhibit [C11](20220525_Anderson_5.png).
 
-On May 25, 2022 Harrington requested TMM Joe Kerble to co-sign the same advocacy on Article 38 before the May 25 10:00AM deadline.  Kerble did so.  Christiana responded:
+On 2022-05-25 Harrington requested TMM Joe Kerble to co-sign the same advocacy on Article 38 before the May 25 10:00AM deadline.  Kerble did so.  Christiana responded:
 
  > The comment in the letter about a "financial gadfly turned elected official" is a step beyond what I'd normally consider appropriate for these submissions, but in this case I'll make an exception given the challenges Stephen has had getting his submission submitted.  
  
-See Exhibit [C8](20220525_VOTE_NO_ARTICLE_38_Christiana_Content.pdf).
+See Exhibit [C12](20220525_VOTE_NO_ARTICLE_38_Christiana_Content.pdf).
 
- 
 Harrington’s germane opposition advocacy reached Town Meeting only after passing through a TMM intermediary and Moderator content review. The dispute over ***civility*** became inseparable from access to the public body. Public access to a legislative body should not depend on whether a neighbor is willing to attach their name, reputation, and comfort level to a resident’s advocacy.
 
 The documents support a serious concern that Arlington’s electronic Town Meeting submission process allowed officials and intermediaries to burden disfavored resident speech under the labels of civility, appropriateness, and co-signing. The record shows ample basis for officials and TMMs to find the advocacy unpleasant. It does not show a basis for officials to suppress germane public-policy advocacy through discretionary “appropriateness” or co-signer filters.
-
-There is no record of what authority allowed Christiana
 
 ### Slack Channel
 
 TMM Daniel Jalkut ("Jalkut") created a Town Meeting Slack channel and TMMs distributed join-up links to precinct members.  One TMM forwarded Harrington that link.  Harrington joined.  Jalkut removed both Harrington and the TMM from the TMM Slack within minutes.  Jalkut states the discussions, comments and posts of the TMM Slack should not be available to the public.  Several TMMs complained to Christiana and Heim about the Slack forum.
 
-May 25, 2022 TMM Mark Kaepplein ("Kaepplein") forwarded TMM Slack join link to Harrington at 5:50PM.  See Exhibit [D1](20220525_Kaepplein_Slack_Removal.png).
+On 2022-05-25 TMM Mark Kaepplein ("Kaepplein") forwarded TMM Slack join link to Harrington at 5:50PM.  See Exhibit [D1](20220525_Kaepplein_Slack_Removal.png).
 
-May 25, 2022 Harrington joins Jalkut's Slack channel and is removed within 5 minutes around 6:00PM.  Jalkut and TMMs Adam MacNeill and Lisa Bielefeld comment on Harrington's removal.  Jalkut wrote:
+On 2022-05-25 Harrington joins Jalkut's Slack channel and is removed within 5 minutes around 6:00PM.  Jalkut and TMMs Adam McNeill and Lisa Bielefeld comment on Harrington's removal.  Jalkut wrote:
 
 > "I don't believe what anything anybody discusses in here should be subject to direct scrutiny by the general public."
 
-May 25, 2022 Kaepplein is removed from the Slack by 7:51PM. See Exhibit [D2](20220525_Kaepplein_Slack_Removal.png).
+On 2022-05-25 Kaepplein is removed from the Slack by 7:51PM. See Exhibit [D2](20220525_Kaepplein_Slack_Removal.png).
 
 TMM Adam MacNeill wrote:
 
@@ -159,21 +157,25 @@ TMM Adam MacNeill wrote:
 
 See Exhibit [D3](20220526_Daniel_Jalkut_and_Slack_Adam_McNeill.pdf)
 
-May 25, 2022 TMM Annie LaCourt criticizes Kaepplein and uses emojis that suggested violence while TM was in session.  See Exhibit [D4](20220526_Daniel_Jalkut_and_Slack_Adam_McNeill.pdf)
+On 2022-05-25 TMM Annie LaCourt criticizes Kaepplein and uses emojis that suggested violence while TM was in session.  See Exhibit [D4](20220526_Daniel_Jalkut_and_Slack_Adam_McNeill.pdf).
 
-May 26, 2022 Harrington demanded Jalkut remove McNeill slur.  See Exhibit [D5](20220526_Jalkut_demand.png)
+On 2022-05-26 Harrington demanded Jalkut remove MacNeill slur.  Jalkut demanded Harrington not email Jalkut again.  See Exhibit [D5](20220526_Jalkut_demand.png). 
 
-May 27, 2022 Christiana posts to the TMM_Email_List at 6:32PM concerning the Slack channel.  See Exhibit [D6](20220527_TMM_Email_List_Slack_comments_by_Christiana.png).
+On 2022-05-26 Harrington complained about the Slack communications.  Heim replied:
 
-May 27, 2022 TMM Daniel Jalkut ("Jalkut") announced his privately owned channel to Christiana, Chapdelaine and Heim at 9:19PM. See Exhibit [D7](20220527_Jalkut_Unofficial_Arlington_Town_Meeting_Slack.pdf).
+>Town Meeting Members should be mindful that they do not enjoy the near absolute exemption from defamation action that members of Congress hold during debate before the House and Senate, but as articulated in Town Meeting Time "there is a limited privilege in town meeting."  Hopefully, further consideration of such matters will not be needed moving forward.
+
+On 2022-05-27 Christiana posts to the TMM_Email_List at 6:32PM concerning the Slack channel.  See Exhibit [D6](20220527_TMM_Email_List_Slack_comments_by_Christiana.png).
+
+On 2022-05-27 TMM Daniel Jalkut ("Jalkut") announced his privately owned channel to Christiana, Chapdelaine and Heim at 9:19PM. See Exhibit [D7](20220527_Jalkut_Unofficial_Arlington_Town_Meeting_Slack.pdf).
 
 > We have had really good luck so far with only Town Meeting Members using the invitation links, with the exception of one person who I had to remove from the Slack.  
 
-May 31, 2022 TMM Michelle Desmond wrote to Christiana, Heim and Chapdelaine complaining about the Slack channel. See Exhibit [D8](20220531_Desmond_Slack_Channel.png).
+On 2022-05-31 TMM Michelle Desmond wrote to Christiana, Heim and Chapdelaine complaining about the Slack channel. See Exhibit [D8](20220531_Desmond_Slack_Channel.png).
 
 > "Why is this channel allowed during the meeting...", "After hearing about this I wanted to quit town meeting", "many are afraid to say anything as they feel they will be targeted and forced out.", "not allowed access... to previous conversations."
 
-Jan. 24, 2023 TMMs were surveyed by Christiana to conduct the 2023 Town Meeting remotely. See Exhibit [D9](20230123_Final_Summary_Report_165_responses.pdf) or [url](https://www.arlingtonma.gov/home/showpublisheddocument/63981/638118749308230000).
+On 2023-01-24 TMMs were surveyed by Christiana to conduct the 2023 Town Meeting remotely. See Exhibit [D9](20230123_Final_Summary_Report_165_responses.pdf) or [url](https://www.arlingtonma.gov/home/showpublisheddocument/63981/638118749308230000).
 
 One TMM wrote about the use of Slack (***emphasis added***):
 
@@ -183,8 +185,7 @@ Harrington had requested all communications that Christiana received concerning 
 
 Officials and TMMs scrutinized resident advocacy for civility and appropriateness, while TMM-only private channels permitted sharper internal commentary outside ordinary public view, including while Town Meeting was in session.
 
-
-October 16, 2023.  Harrington shared his concerns about the co-signer rule and the Town Counsel function with Cunningham during an October 16, 2023 phone call. See Exhibit [D10](20231016_Civil_rights_violations_by_town_entities.pdf).
+On 2023-10-16 Harrington shared his concerns about the co-signer rule and the Town Counsel function with newly elevated Town Counsel Cunningham during a phone call reading from a contemporaneous email that was disseminated. See Exhibit [D10](20231016_Civil_rights_violations_by_town_entities.pdf).
 
 ## ATM2024
 
@@ -192,23 +193,22 @@ October 16, 2023.  Harrington shared his concerns about the co-signer rule and t
 
 On 04-25-2024 Harrington requested Christiana disseminate a Letter requesting TMMs to vote NO on Article 14 - Targeted Petitioning Ban or to adopt the time restriction.  See Exhibit [E1](20240425_Article_14_Targeted_Petitioning_Ban.pdf)
 
-On 04-26-2024 Harrington responded to Christiana's rejection of Harrington's Letter citing lack of a co-signer and the availability of the TMM_Email_List.  See Exhibit [E2](20240426_Re_Article_14_Targeted_Petitioning_Ban_email_chain.pdf)
+On 04-26-2024 Harrington responded to Christiana's rejection of Harrington's Letter citing lack of a co-signer and the availability of the TMM_Email_List.  
 
 Christiana wrote:
-
->"Your message is certainly applicable to Article 14."
+>Your message is certainly applicable to Article 14.
 
 Harrington demanded Christiana co-sign on Harrington's behalf:
-
-> "You(r) counsel's legal theory, that a Town Meeting Moderator has authority with all members of the public in terms of speech outside the conﬁnes of Town Meeting, when no enclosure has been declared, is ﬂawed. Unless you can point to a bylaw requiring co-sponsors of petitions, pamphlets and communications to a public body, I will demand you submit on my behalf. See how easy that is, you already agreed this petition is valid even under your arbitrary rules. A conﬁdent, mature oﬃcial would "co-sponsor" this petition on behalf of residents. Unless, of course, the purpose of your arbitrary rules are to silence those with whom you disagree with, like a Reddit moderator might."
+> "You(r) counsel's legal theory, that a Town Meeting Moderator has authority with all members of the public in terms of speech outside the confines of Town Meeting, when no enclosure has been declared, is flawed. Unless you can point to a bylaw requiring co-sponsors of petitions, pamphlets and communications to a public body, I will demand you submit on my behalf. See how easy that is, you already agreed this petition is valid even under your arbitrary rules. A conﬁdent, mature official would "co-sponsor" this petition on behalf of residents. Unless, of course, the purpose of your arbitrary rules are to silence those with whom you disagree with, like a Reddit moderator might."
 
 Christiana wrote:
+>The TMM Email List is a service provided by the Town of Arlington
 
-> "The TMM Email List is a service provided by the Town of Arlington"
+See Exhibit [E2](20240426_Re_Article_14_Targeted_Petitioning_Ban_email_chain.pdf)
 
 Harrington's Letter was not disseminated nor included in the aWarrant.  See Exhibit [E3](20240500_ART14_Petition_Ban_aWarrant_Spencer_Piston_Correspondence_Received.png). 
 
-Arlington resident Spencer Piston Letter is included in the aWarrant introduced by TMM Robin Bergman.  See exhibit [E4](20240427_Art_14_Letter_Spencer_Piston.pdf).
+Arlington resident Spencer Piston Letter is included in the aWarrant introduced by TMM Robin Bergman.  See Exhibit [E4](20240427_Art_14_Letter_Spencer_Piston.pdf).
 
 Christiana acknowledged the Letter is applicable to Article 14 but did not add Harrington's Letter to the aWarrant.  Christiana claims that the TMM_Email_List and aWarrant are not "public forums".  Christiana's claim is not supported by the advocacy Letters from TMMs, residents and outside organizations throughout the 2024 ATM; see Articles 9,14,17,55,56.
 
@@ -220,15 +220,15 @@ On 04-28-2024 Harrington requested Christiana disseminate a Vote NO on Article 5
 
 On 04-29-2024 Christiana refused, citing the TMM_Email_List, and by extension the aWarrant, was a town function and not a public forum. See Exhibit [F2](20240429_Re_Article_56_Prudent_Investor_Rule_Christiana_Response_TMM_Emails_Town_Service.pdf). The [ATM2024 aWarrant](https://www.arlingtonma.gov/town-governance/town-meeting/2024-town-meeting-warrant) shows TMM advocacy Letters on A9, A17, A55, A56; co-signed resident Letter A14; and the MSPCA A17.
 
->"Again, the TMM Email List is a service provided by the Town of Arlington for Town Meeting Members and Town oﬃcials (including chairs of Town committees) to share materials with each other, with those materials moderated by the Town Moderator and viewable by members of the public. The TMM Email List is not a public forum."
+>"Again, the TMM Email List is a service provided by the Town of Arlington for Town Meeting Members and Town officials (including chairs of Town committees) to share materials with each other, with those materials moderated by the Town Moderator and viewable by members of the public. The TMM Email List is not a public forum."
 
 On 04-30-2024 Harrington requested the Select Board direct Feeney to add Harrington's Letter to TMM_Email_List. See Exhibit [F3](20240430_Article_56_Prudent_Investor_Rule_BoS_Request_to_direct_Manager.pdf).
 
-> "Please note, for three years I have documented dictates from Town Meeting Moderator Greg Christiana that he is "solely" responsible for allowing the public to communicate with a public body, Town Meeting. Further, Christiana has repeatedly claimed that it is his "sole discretion" to determine which speech is allowed based on the content of petitions, pamphlets and communications through the only oﬃcial electronic or physical channel for mass communication to Town Meeting outside of the enclosure. Christiana has also threatened to hold petitioners accountable for speech Christiana does not agree with. After almost a dozen documented claims of Christiana's overreach, Christiana and the Town counsel have pivoted and now claim that the Town Meeting Email List is a government function under the purview of the Town Manager. The Board of Selectmen is responsible for supervising the Town Manager. That is why I am writing to you today."
+> "Please note, for three years I have documented dictates from Town Meeting Moderator Greg Christiana that he is "solely" responsible for allowing the public to communicate with a public body, Town Meeting. Further, Christiana has repeatedly claimed that it is his "sole discretion" to determine which speech is allowed based on the content of petitions, pamphlets and communications through the only official electronic or physical channel for mass communication to Town Meeting outside of the enclosure. Christiana has also threatened to hold petitioners accountable for speech Christiana does not agree with. After almost a dozen documented claims of Christiana's overreach, Christiana and the Town counsel have pivoted and now claim that the Town Meeting Email List is a government function under the purview of the Town Manager. The Board of Selectmen is responsible for supervising the Town Manager. That is why I am writing to you today."
 
 Harrington received no response and his Letter was not added to the aWarrant.  See Exhibit [F4](20240500_Art56_Prudent_Investor_aWarrant.png)
 
-On 05-03-2024 Harrington sent a modified letter to TMMs by BCC. See Exhibit [F5](20240503_Article_56_Prudent_Investor_Rule_BCC_version.pdf)
+On 2024-05-03 Harrington sent a modified letter to TMMs by BCC. See Exhibit [F5](20240503_Article_56_Prudent_Investor_Rule_BCC_version.pdf)
 
 TMM Arthur Prokosch asked Harrington why his Letter was omitted from the aWarrant [F6](20240503_Article_56_TMM_comments.png), [F7](20240503_Art_56_TMM_Prokosch_Difficulty_in_BCC_and_aWarrant_inclusion.png) and related issues associated with relying on the Town's list of private email addresses.  TMM Diane Mahon had Harrington blocked.  TMM Timur Yontar requested to "unsubscribe".
 
@@ -239,27 +239,6 @@ The resulting Article 56 record carried advocacy supporting adoption, including 
 The contrast is especially significant because Feeney, the Article 56 proponent, acted after Harrington identified that the affected trustees had not voted on the proposal; the trustees subsequently acted and their supporting communications were incorporated into the Town Meeting record, while Harrington's opposition remained excluded.
 
 Having used Town-controlled infrastructure to carry advocacy supporting pending legislation, could the Town condition directly opposing, germane private advocacy on obtaining the sponsorship of an elected insider?
-
-## Town offramps
-
-Harrington offered three offramps in 2023, 2024 and 2026.  No substantive responses were received.
-
-### Offramp 1: 2023 process correction / apology
-
-Harrington gave Feeney, Cunningham, and Christiana the opportunity to acknowledge that the electronic dissemination process had created improper barriers and to correct it.  See Exhibit [G1](20231025_Sample_of_Greg_Chistianas_denying_my_ability_to_petition_Town_Meeting.pdf).  
-
-Christiana's terse response, See Exhibit [G2](20231026_Reset_1_Christiana_Response.png)
-
-
-### Offramp 2: 2024 conduit request
-
-After Christiana insisted residents needed a TMM/official conduit, Harrington challenged that requirement during Article 14 and asked the Moderator to submit germane resident advocacy himself if no lawful co-sponsor rule existed. Days later, with Article 56, Harrington again requested dissemination; when denied, Harrington requested that the Select Board/Town Manager add the Letter to the TMM_Email_List and aWarrant. See Exhibit [G3](20240426_Re_Article_14_Targeted_Petitioning_Ban_email_chain.pdf).
-
-### Offramp 3: 2026 neutral resident-access channel demand
-
-Harrington proposed a structural fix: a neutral, unblockable Town-administered resident-to-Town-Meeting communication channel. See Exhibit [G4](20260515_Town_Meeting_weaponizes_civility_violating_residents_constitutional_rights.pdf).
-
-Harrington did not merely complain. Harrington repeatedly offered modest institutional fixes. The refusal to take these offramps supports the inference that the exclusion was not accidental or merely administrative, but a maintained policy choice.
 
 
 ## ATM2025
@@ -272,13 +251,13 @@ In 2023, Christiana introduced a civility oath that all TMMs were expected to ta
 
 See Exhibit [H1](20230424_ATM2023_Civility_Oath.txt), [url](https://youtu.be/vX6PMohO3tU?t=500).
 
-On 04-15-2025 TMM Chris Loreti rejects Christiana invoking the TM "Civility Oath" after Loreti criticized town officials in a direct email communication related to TM document availability.  Loreti copied the Select Board and Feeney after Christiana wrote:
+On 2025-04-15 TMM Chris Loreti rejects Christiana invoking the TM "Civility Oath" after Loreti criticized town officials in a direct email communication related to TM document availability.  Loreti copied the Select Board and Feeney after Christiana wrote:
 
 > "I would also like to remind everyone of the Town Meeting Member oath of office which I consider applicable when individuals are operating in their capacity as Town Meeting Members. It reads in part: I support free speech and will treat others with mutual respect and will conduct myself in a civil manner that is becoming of an elected Town Meeting Member. I have difficulty reconciling an accusation of dysfunction – given the significant effort that goes into the production of the packets and the timeliness of their availability – with a civil manner. The goal of civility in this context is not politeness, but effectiveness. And the more time and effort that we all spend on incivility and its deleterious effects is unfortunate and avoidable."
 
 See Exhibit [H2](20250414_TMM_Loreti_and_Christiana_Civility_in_Action.pdf)
 
-On 04-28-2025, at the start of Town Meeting, Christiana said before administering the Civility Oath
+On 2025-04-28, at the start of Town Meeting, Christiana said before administering the Civility Oath
 
 > "Now just a note here because there have been questions about whether the town meeting member oath of office is actually legally required or not. It actually appears to be an open legal question. There are different schools of thought about this. I've talked to two town councils who have differing views on this. So, um, may the buyer beware if you do not take the oath of office. Someone may challenge that. I personally won't challenge that. But but what I will do as moderator is that I will hold you to the spirit of this and these values during debate whether you take the oath or not."
 
@@ -322,38 +301,59 @@ Christiana's response, see Exhibit [K2](20260430_Articles_19_Tax_liens_and_Artic
 
 There was no response.
 
-### Appeal to Select Board - Moderator Authority
+## Town offramps
 
-On July 27, 2026 Harrington urged the Select Board to exercise its authority and allow residents direct advocacy to Town Meeting.
+Harrington offered three offramps in 2023, 2024 and 2026.  No substantive responses were received.
+
+### Offramp 1: 2023 process correction / apology
+
+On 2023-10-25 Harrington gave Feeney, Cunningham, and Christiana the opportunity to acknowledge that the electronic dissemination process had created improper barriers and to correct it.  See Exhibit [G1](20231025_Sample_of_Greg_Chistianas_denying_my_ability_to_petition_Town_Meeting.pdf).  
+
+Christiana's terse response, See Exhibit [G2](20231026_Reset_1_Christiana_Response.png).
+
+### Offramp 2: 2024 conduit request
+
+After Christiana insisted residents needed a TMM/official conduit, Harrington challenged that requirement during Article 14 and asked the Moderator to submit germane resident advocacy himself if no lawful co-sponsor rule existed. Days later, with Article 56, Harrington again requested dissemination; when denied, Harrington requested that the Select Board/Town Manager add the Letter to the TMM_Email_List and aWarrant. See Exhibit [G3](20240426_Re_Article_14_Targeted_Petitioning_Ban_email_chain.pdf).
+
+### Offramp 3: 2026 neutral resident-access channel demand
+
+Harrington proposed a structural fix: a neutral, unblockable Town-administered resident-to-Town-Meeting communication channel. See Exhibit [G4](20260515_Town_Meeting_weaponizes_civility_violating_residents_constitutional_rights.pdf).
+
+Harrington did not merely complain. Harrington repeatedly offered modest institutional fixes. The refusal to take these offramps supports the inference that the exclusion was not accidental or merely administrative, but a maintained policy choice.
+
+
+## Appeal to Select Board - Moderator Authority
+
+On 2026-07-27 Harrington urged the Select Board to exercise its authority and allow residents direct advocacy to Town Meeting.
 
 > I am asking for two things: first, that this issue be placed on a public agenda for discussion and action; second, that the Town Manager provide a written response addressing the Town’s authority over the TMM Email List, the basis for excluding direct resident submissions, and the process for adopting a neutral resident submission channel that becomes part of the public record.
-See Exhibit [K3]().
+See Exhibit [K4](20260727_Select_Board_Public_Comments.pdf).
 
-On August 12, 2026 Feeney responds with Board chair John Hurd and Christiana that"
+On 2026-08-12 Feeney responds that:
 
 >... a potential outcome could be that anyone could electronically submit anything, without any sort of verification, perhaps unrelated to matters before Town Meeting, at any time.
 
-directing me to contact TMMs via private email and stating that:
+directing Harrington to contact TMMs via private email and stating that:
 
 > It is worth noting neither the Town Manager nor Select Board can direct the Moderator to institute a practice at Town Meeting or direct the Town Meeting Procedures Committee to recommend a practice to Town Meeting. But with that being said, if you are aware of an existing model for such a forum in another community, I would be happy to conduct outreach to see what their experience has been, and what Arlington may be able to learn.
 
-See Exhibit [K4](20260812_Town_meeting_communication_channel_issues.pdf)
+See Exhibit [K5](20260812_Town_meeting_communication_channel_issues.pdf).
 
-On August 17, 2026 Harrington addresses Feeney's concerns, provides Lexington as an example of direct to TM resident advocacy, requests clarification on what authorized Christiana's guideline binding the general public outside of TM in 2022 and now.
+On 2026-08-17 Harrington addresses Feeney's anonymity concerns, provides Lexington as an example of direct to TM resident advocacy, requests clarification on what authorized Christiana's guideline binding the general public outside of TM in 2022 and now.
 
 >I therefore respectfully renew my request that the Select Board place this issue on a public agenda for discussion and action. I also ask that the Town provide a written response to the following:
 
 1. What governmental authority established the May 16, 2022 co-signer requirement?
-2. What oﬃcial or governmental body presently has authority to amend or eliminate it?
-3. What authority gives the Moderator ﬁnal approval over submissions to the Town-operated TMM Email List and Annotated Warrant outside the proceedings of Town Meeting?
+2. What official or governmental body presently has authority to amend or eliminate it?
+3. What authority gives the Moderator final approval over submissions to the Town-operated TMM Email List and Annotated Warrant outside the proceedings of Town Meeting?
 4. What records document the consultation with the Town Clerk and Town staﬀ referenced in the May 16, 2022 announcement?
 5. Why may germane written advocacy from an identiﬁed Arlington resident not be submitted directly under objective, viewpoint-neutral criteria?
 6. What prevents the Town from creating a “Correspondence Received” mechanism through which such submissions are retained and publicly associated with the relevant warrant article?
 7. Is the Town aware of another Massachusetts representative Town Meeting that requires a resident to obtain an elected Town Meeting Member co-signer before resident advocacy may be included in the Town's principal Town Meeting communications archive?
 
-See Exhibit [K5](20260817_Re_Town_meeting_communication_channel_issues.pdf).
+See Exhibit [K6](20260817_Re_Town_meeting_communication_channel_issues.pdf).
 
-Feeney deferred to Cunningham on questions of Moderator authority.  See Exhibit [K6](20260817_Re_Re_Town_meeting_communication_channel_issues.png).
+Feeney deferred to Cunningham on questions of Moderator authority.  See Exhibit [K7](20260817_Re_Re_Town_meeting_communication_channel_issues.png).
 
 On 2026-08-19 Harrington sends Cunningham, Hurd and Feeney links to this document (as of August 19) seeking a political resolution.  Harrington wrote:
 
@@ -361,25 +361,25 @@ On 2026-08-19 Harrington sends Cunningham, Hurd and Feeney links to this documen
 
 >The remaining questions are narrow: what authority permits the Moderator to condition a resident's germane written advocacy on TMM sponsorship and subjective approval outside Town Meeting proceedings, and what reasonable accommodation protects residents' ability to petition and communicate with their representative legislative body?
 
-See Exhibit [K7](20260819_Town_Meeting_Resident_Access_The_Record.pdf).
+See Exhibit [K8](20260819_Town_Meeting_Resident_Access_The_Record.pdf).
 
-No response as of 2026-09-10.
+No response as of 2026-09-11.
 
 On 2026-09-03 Harrington asked for a status on the three identified issues; outstanding public records request, authority under which the co-sign requirement was implemented and the proposed remedy.
 
-See Exhibit [K8](20260903_Status_update_Town_Meeting_Public_Communications_Channel.pdf).
+See Exhibit [K9](20260903_Status_update_Town_Meeting_Public_Communications_Channel.pdf).
 
-No response as of 2026-09-10.
+No response as of 2026-09-11.
 
-### Public Records Request
+## Public Records Request
 
 On 2026-06-22 Harrington requested all submissions to the TMM_Email_List/aWarrant that had been denied.
 
 The July 2026 public-records response consisted of an Adobe PDF Portfolio containing 31 embedded PDFs, all dated 2026 and representing approximately 14 distinct subject threads. The production documents numerous approvals and collaborative edits for dissemination through the TMM Email List and Annotated Warrant. It contains no clear denial of a request for such dissemination and none of Harrington's documented 2026 dissemination requests. One record denies a three-minute video for live presentation while expressly offering TMM Email List distribution as an alternative; another declines distribution of a spreadsheet in its raw form while arranging dissemination of selected content. The response therefore did not identify the rejected TMM_Email_List/aWarrant submissions specifically requested.
 
-Harrington challenged the completness of the records response noting his advocacy which was denied was missing.  See [K8_0](20260821_Re_PRR_TMM_Email_LIst_Denials_2026.pdf).
+Harrington challenged the completeness of the records response noting his advocacy which was denied was missing.  See Exhibit [L1](20260821_Re_PRR_TMM_Email_LIst_Denials_2026.pdf).
 
-The Town created a new response that identified two residents who requested advocacy.  See [K8](20260821_TMMemail_denials.pdf).
+The Town created a new response that identified two residents who requested advocacy.  See [L2](20260821_TMMemail_denials.pdf).
 
 The 2026 Article 53 records illustrate the sponsorship rule in operation. Hardeep Singh submitted a supporting letter directly to the Moderator and was told that only officials and TMMs could submit to the Annotated Warrant and that he should find a TMM to submit it on his behalf. Singh subsequently obtained TMM Larry Slotnick as an intermediary, and his letter appears in Slotnick’s Article 53 materials. 
 
@@ -387,7 +387,7 @@ David Hoglund likewise submitted supporting Article 53 advocacy directly to the 
 
 An author of one rejected submission wrote in a follow-up:
 
->I did receive an email saying that my submission was rejected. The instructions in the letter were not helpful. It was not clear that I would be able to ﬁgure it out before the day of the vote. (It was down the to last week.) So that is where I left it.
+>I did receive an email saying that my submission was rejected. The instructions in the letter were not helpful. It was not clear that I would be able to figure it out before the day of the vote. (It was down the to last week.) So that is where I left it.
 
 ## Appendix
 
@@ -415,7 +415,7 @@ The public archive presently reflects only one of Harrington's submissions in th
 
 > A guideline may implement authority. It cannot manufacture authority.
 
-On May 16, 2022, Christiana announced rules governing submissions to the TMM Email List and Annotated Warrant. That communication stated that, after consultation with the Town Clerk and Town staff, Town Meeting Members could submit materials they had co-signed with residents. See Exhibit [Q1](https://www.arlingtonma.gov/Home/Components/News/News/12171/3819)
+On 2022-05-16, Christiana announced rules governing submissions to the TMM Email List and Annotated Warrant. That communication stated that, after consultation with the Town Clerk and Town staff, Town Meeting Members could submit materials they had co-signed with residents. See Exhibit [Q1](https://www.arlingtonma.gov/Home/Components/News/News/12171/3819)
 
 The Town Meeting Procedures Committee ("TMPC") consists of five members: Christiana, the Assistant Moderator, and three TMMs appointed by Christiana.  There are no members from the general public.
 
@@ -461,6 +461,8 @@ The more fundamental question is authority. Parliamentary authority permits the 
 The Town should provide a neutral, durable resident-access mechanism integrated into the same Town-controlled communication system used for TMM, official, and other warrant-related advocacy. Any Arlington resident should be able to submit written material concerning a pending warrant article for inclusion alongside other correspondence and advocacy in the article-specific Annotated Warrant archive, with notice or distribution to TMMs through the same email-list, digest, or link process used for other submissions. The Town may impose reasonable, viewpoint-neutral rules governing timing, length, format, duplication, malware, privacy, true threats, and non-germane commercial material, but resident access should not depend on a TMM co-sponsor or subjective review for tone, civility, criticism of officials, or undefined “appropriateness.” Any rejection should be in writing, identify the specific rule and factual basis relied upon, and be preserved in a publicly accessible disposition log. This preserves the Town's ability to administer its communication infrastructure while ensuring that resident advocacy is neither segregated into a lesser channel nor conditioned on an intermediary's approval.
 
 ## Harrington submissions requesting dissemination
+
+The following are a comprehensive list of all advocacy requests for dissemination to Town Meeting. Each is tagged with indicators; --BeforeTM for requests before TM had started; --response for Christiana responses; and --comparator for comparable contemporaneous advocacy disseminated by others.
 
 ### 2022
 
